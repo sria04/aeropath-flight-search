@@ -1,100 +1,407 @@
-Austin|Boston|56|50
-Kansas City|Portland|165|256
-Boston|New York|452|246
-St. Louis|Kansas City|215|99
-Charlotte|San Antonio|467|90
-San Antonio|Minneapolis|230|257
-Austin|Nashville|463|122
-Detroit|San Diego|169|72
-Houston|Philadelphia|257|160
-Charlotte|Houston|412|286
-San Francisco|Cincinnati|441|81
-Dallas|Houston|67|153
-Nashville|Las Vegas|382|280
-Cincinnati|Las Vegas|231|191
-Los Angeles|Phoenix|308|80
-Orlando|Cleveland|454|210
-Atlanta|San Antonio|330|50
-San Antonio|Los Angeles|141|300
-New York|Cleveland|350|141
-Orlando|Charlotte|201|64
-Boston|Seattle|273|143
-Los Angeles|Boston|370|143
-Kansas City|San Antonio|63|71
-Nashville|Salt Lake City|456|163
-New York|Seattle|233|250
-Las Vegas|Salt Lake City|305|137
-Atlanta|Minneapolis|211|189
-Tampa|Phoenix|169|256
-Tampa|San Antonio|392|229
-St. Louis|Miami|170|207
-Orlando|Dallas|290|239
-Houston|Phoenix|137|164
-Kansas City|Boston|331|67
-Boston|San Francisco|278|158
-Baltimore|Denver|61|40
-Minneapolis|Chicago|179|150
-St. Louis|Cleveland|253|74
-Atlanta|Tampa|224|218
-Denver|Miami|142|232
-Charlotte|Nashville|137|234
-Cincinnati|Denver|401|147
-St. Louis|New York|278|107
-San Francisco|Orlando|368|291
-Cleveland|Phoenix|225|140
-San Francisco|Detroit|396|232
-Phoenix|St. Louis|160|287
-Houston|Salt Lake City|308|292
-Cincinnati|Nashville|345|84
-Miami|San Diego|325|81
-Charlotte|Minneapolis|100|298
-San Antonio|Cleveland|202|111
-Detroit|Austin|447|260
-Portland|Boston|462|75
-Los Angeles|Cincinnati|390|144
-Philadelphia|Phoenix|297|172
-Miami|Austin|202|220
-San Antonio|New York|83|30
-Phoenix|Nashville|359|193
-Baltimore|Salt Lake City|228|77
-Cleveland|Houston|477|38
-San Diego|San Antonio|226|271
-Baltimore|Kansas City|244|278
-Charlotte|Boston|105|85
-Tampa|Kansas City|98|158
-Miami|Detroit|457|294
-Chicago|Baltimore|379|30
-Boston|Orlando|447|96
-Kansas City|Los Angeles|361|210
-Phoenix|Seattle|273|166
-Kansas City|Austin|205|54
-Miami|Tampa|319|281
-Cincinnati|Chicago|299|71
-Tampa|New York|464|144
-Portland|Orlando|475|56
-Los Angeles|San Francisco|83|116
-Portland|Dallas|92|31
-Salt Lake City|Los Angeles|220|36
-New York|Chicago|392|236
-Charlotte|Detroit|402|232
-Baltimore|Houston|251|198
-Boston|Phoenix|70|263
-San Francisco|Baltimore|372|168
-Dallas|San Diego|271|213
-Miami|Baltimore|217|166
-Seattle|Cincinnati|145|120
-Seattle|Dallas|399|130
-Los Angeles|Orlando|241|54
-New York|Atlanta|297|47
-Philadelphia|Los Angeles|315|48
-Minneapolis|Nashville|321|272
-New York|Dallas|418|213
-Los Angeles|Chicago|259|198
-Miami|New York|268|142
-Houston|Chicago|244|228
-Philadelphia|Miami|352|57
-San Antonio|Boston|306|106
-Miami|Houston|84|284
-Nashville|New York|141|226
-San Francisco|Phoenix|197|191
-Chicago|Miami|492|274
+Atlanta|Austin|269|145
+Atlanta|Baltimore|245|115
+Atlanta|Boston|278|170
+Atlanta|Charlotte|361|80
+Atlanta|Chicago|211|135
+Atlanta|Cincinnati|266|90
+Atlanta|Cleveland|223|115
+Atlanta|Dallas|243|140
+Atlanta|Denver|249|190
+Atlanta|Detroit|229|120
+Atlanta|Houston|217|135
+Atlanta|Kansas City|308|130
+Atlanta|Las Vegas|410|245
+Atlanta|Los Angeles|408|275
+Atlanta|Miami|184|125
+Atlanta|Minneapolis|393|160
+Atlanta|Nashville|282|70
+Atlanta|New York|204|155
+Atlanta|Orlando|215|100
+Atlanta|Philadelphia|234|135
+Atlanta|Phoenix|349|230
+Atlanta|Portland|390|295
+Atlanta|Salt Lake City|506|235
+Atlanta|San Antonio|302|150
+Atlanta|San Diego|391|270
+Atlanta|San Francisco|405|295
+Atlanta|Seattle|353|310
+Atlanta|St. Louis|248|100
+Atlanta|Tampa|224|95
+Austin|Baltimore|290|200
+Austin|Boston|269|255
+Austin|Charlotte|358|170
+Austin|Chicago|239|175
+Austin|Cincinnati|297|155
+Austin|Dallas|256|70
+Austin|Denver|200|140
+Austin|Detroit|361|180
+Austin|Houston|273|65
+Austin|Kansas City|246|120
+Austin|Las Vegas|253|170
+Austin|Los Angeles|293|190
+Austin|Miami|206|180
+Austin|Minneapolis|305|165
+Austin|Nashville|219|135
+Austin|New York|295|240
+Austin|Orlando|234|165
+Austin|Philadelphia|356|225
+Austin|Phoenix|263|145
+Austin|Portland|243|250
+Austin|Salt Lake City|337|170
+Austin|San Diego|225|180
+Austin|San Francisco|289|225
+Austin|Seattle|263|260
+Austin|St. Louis|229|120
+Austin|Tampa|261|160
+Baltimore|Boston|235|100
+Baltimore|Charlotte|230|95
+Baltimore|Chicago|250|135
+Baltimore|Cincinnati|235|90
+Baltimore|Cleveland|230|80
+Baltimore|Dallas|285|200
+Baltimore|Denver|300|220
+Baltimore|Detroit|235|95
+Baltimore|Houston|285|195
+Baltimore|Kansas City|270|155
+Baltimore|Las Vegas|335|290
+Baltimore|Los Angeles|350|315
+Baltimore|Miami|270|160
+Baltimore|Minneapolis|265|155
+Baltimore|Nashville|245|110
+Baltimore|Orlando|260|145
+Baltimore|Phoenix|330|275
+Baltimore|Portland|350|315
+Baltimore|Salt Lake City|320|265
+Baltimore|San Antonio|295|205
+Baltimore|San Diego|350|305
+Baltimore|San Francisco|360|335
+Baltimore|Seattle|350|325
+Baltimore|St. Louis|255|125
+Baltimore|Tampa|260|145
+Boston|Charlotte|295|145
+Boston|Chicago|178|170
+Boston|Cincinnati|317|145
+Boston|Cleveland|220|120
+Boston|Dallas|286|245
+Boston|Denver|248|260
+Boston|Detroit|258|125
+Boston|Houston|290|245
+Boston|Kansas City|377|200
+Boston|Las Vegas|340|330
+Boston|Los Angeles|342|355
+Boston|Miami|241|210
+Boston|Minneapolis|377|185
+Boston|Nashville|221|165
+Boston|New York|222|85
+Boston|Orlando|208|195
+Boston|Philadelphia|194|95
+Boston|Phoenix|293|320
+Boston|Portland|318|350
+Boston|Salt Lake City|426|295
+Boston|San Antonio|334|265
+Boston|San Diego|320|355
+Boston|San Francisco|407|370
+Boston|Seattle|325|355
+Boston|St. Louis|326|170
+Boston|Tampa|237|195
+Charlotte|Chicago|211|135
+Charlotte|Cincinnati|354|90
+Charlotte|Cleveland|335|100
+Charlotte|Dallas|313|165
+Charlotte|Denver|226|210
+Charlotte|Detroit|262|110
+Charlotte|Houston|235|160
+Charlotte|Kansas City|291|145
+Charlotte|Las Vegas|418|275
+Charlotte|Los Angeles|388|295
+Charlotte|Miami|231|135
+Charlotte|Minneapolis|296|160
+Charlotte|Nashville|247|90
+Charlotte|New York|206|125
+Charlotte|Orlando|223|110
+Charlotte|Philadelphia|248|110
+Charlotte|Phoenix|370|255
+Charlotte|Portland|399|315
+Charlotte|Salt Lake City|367|250
+Charlotte|San Antonio|306|175
+Charlotte|San Diego|384|295
+Charlotte|San Francisco|432|320
+Charlotte|Seattle|370|325
+Charlotte|St. Louis|255|115
+Charlotte|Tampa|280|105
+Chicago|Cincinnati|233|95
+Chicago|Cleveland|225|95
+Chicago|Dallas|223|160
+Chicago|Denver|210|165
+Chicago|Detroit|265|95
+Chicago|Houston|217|175
+Chicago|Kansas City|260|110
+Chicago|Las Vegas|257|240
+Chicago|Los Angeles|313|265
+Chicago|Miami|229|205
+Chicago|Minneapolis|243|105
+Chicago|Nashville|237|115
+Chicago|New York|191|165
+Chicago|Orlando|214|185
+Chicago|Philadelphia|239|145
+Chicago|Phoenix|255|225
+Chicago|Portland|258|260
+Chicago|Salt Lake City|348|205
+Chicago|San Antonio|291|180
+Chicago|San Diego|226|265
+Chicago|San Francisco|328|275
+Chicago|Seattle|229|270
+Chicago|St. Louis|266|90
+Chicago|Tampa|215|180
+Cincinnati|Dallas|273|145
+Cincinnati|Denver|222|170
+Cincinnati|Houston|265|155
+Cincinnati|Las Vegas|257|240
+Cincinnati|Miami|224|170
+Cincinnati|Minneapolis|412|110
+Cincinnati|Nashville|263|70
+Cincinnati|New York|273|135
+Cincinnati|Orlando|189|140
+Cincinnati|Philadelphia|392|115
+Cincinnati|Salt Lake City|410|215
+Cincinnati|Seattle|242|280
+Cincinnati|Tampa|177|135
+Cleveland|Dallas|316|170
+Cleveland|Denver|243|185
+Cleveland|Detroit|304|60
+Cleveland|Houston|276|180
+Cleveland|Las Vegas|239|260
+Cleveland|Los Angeles|334|285
+Cleveland|Miami|204|180
+Cleveland|Minneapolis|395|120
+Cleveland|Nashville|252|90
+Cleveland|New York|187|110
+Cleveland|Orlando|178|155
+Cleveland|Philadelphia|352|95
+Cleveland|Phoenix|272|245
+Cleveland|Salt Lake City|391|230
+Cleveland|San Francisco|351|300
+Cleveland|Seattle|251|290
+Cleveland|St. Louis|259|90
+Cleveland|Tampa|161|155
+Dallas|Denver|198|130
+Dallas|Detroit|310|170
+Dallas|Houston|235|80
+Dallas|Kansas City|247|105
+Dallas|Las Vegas|256|170
+Dallas|Los Angeles|283|195
+Dallas|Miami|258|190
+Dallas|Minneapolis|279|150
+Dallas|Nashville|273|125
+Dallas|New York|266|230
+Dallas|Orlando|240|175
+Dallas|Philadelphia|328|210
+Dallas|Phoenix|270|150
+Dallas|Portland|244|235
+Dallas|Salt Lake City|263|165
+Dallas|San Antonio|258|75
+Dallas|San Diego|255|190
+Dallas|San Francisco|292|225
+Dallas|Seattle|247|250
+Dallas|St. Louis|265|115
+Dallas|Tampa|242|160
+Denver|Detroit|239|180
+Denver|Houston|228|155
+Denver|Kansas City|213|110
+Denver|Las Vegas|194|120
+Denver|Los Angeles|216|150
+Denver|Miami|279|255
+Denver|Minneapolis|194|125
+Denver|Nashville|238|165
+Denver|New York|270|260
+Denver|Orlando|257|235
+Denver|Philadelphia|287|235
+Denver|Phoenix|194|115
+Denver|Portland|200|160
+Denver|Salt Lake City|193|95
+Denver|San Antonio|210|135
+Denver|San Diego|169|150
+Denver|San Francisco|261|165
+Denver|Seattle|193|175
+Denver|St. Louis|228|135
+Denver|Tampa|244|225
+Detroit|Houston|230|175
+Detroit|Kansas City|385|120
+Detroit|Las Vegas|317|245
+Detroit|Los Angeles|381|275
+Detroit|Miami|240|195
+Detroit|Minneapolis|379|110
+Detroit|Nashville|286|100
+Detroit|New York|188|130
+Detroit|Orlando|231|165
+Detroit|Philadelphia|273|105
+Detroit|Phoenix|319|240
+Detroit|Portland|434|270
+Detroit|Salt Lake City|474|220
+Detroit|San Antonio|366|185
+Detroit|San Diego|427|280
+Detroit|San Francisco|426|285
+Detroit|Seattle|287|275
+Detroit|St. Louis|307|95
+Detroit|Tampa|216|160
+Houston|Kansas City|290|130
+Houston|Las Vegas|256|195
+Houston|Los Angeles|261|210
+Houston|Miami|227|170
+Houston|Minneapolis|285|170
+Houston|Nashville|287|130
+Houston|New York|274|225
+Houston|Orlando|221|155
+Houston|Philadelphia|266|215
+Houston|Phoenix|247|170
+Houston|Portland|273|265
+Houston|Salt Lake City|352|190
+Houston|San Antonio|265|70
+Houston|San Diego|343|200
+Houston|San Francisco|337|245
+Houston|Seattle|300|275
+Houston|Tampa|261|145
+Kansas City|Las Vegas|269|175
+Kansas City|Los Angeles|324|205
+Kansas City|Miami|268|200
+Kansas City|Minneapolis|359|90
+Kansas City|Nashville|286|100
+Kansas City|Orlando|270|170
+Kansas City|Philadelphia|324|175
+Kansas City|Phoenix|298|160
+Kansas City|Portland|214|220
+Kansas City|Salt Lake City|364|150
+Kansas City|San Diego|278|195
+Kansas City|San Francisco|327|230
+Kansas City|Seattle|253|225
+Kansas City|St. Louis|297|65
+Kansas City|Tampa|243|160
+Las Vegas|Los Angeles|158|75
+Las Vegas|Miami|352|305
+Las Vegas|Minneapolis|255|195
+Las Vegas|Nashville|308|230
+Las Vegas|New York|369|325
+Las Vegas|Orlando|270|290
+Las Vegas|Philadelphia|391|310
+Las Vegas|Phoenix|191|75
+Las Vegas|Portland|201|140
+Las Vegas|Salt Lake City|221|85
+Las Vegas|San Antonio|262|165
+Las Vegas|San Diego|145|80
+Las Vegas|San Francisco|201|105
+Las Vegas|Seattle|199|160
+Las Vegas|St. Louis|272|200
+Las Vegas|Tampa|324|275
+Los Angeles|Miami|407|325
+Los Angeles|Minneapolis|332|225
+Los Angeles|Nashville|348|250
+Los Angeles|New York|454|350
+Los Angeles|Orlando|324|310
+Los Angeles|Philadelphia|410|335
+Los Angeles|Phoenix|200|90
+Los Angeles|Portland|206|145
+Los Angeles|Salt Lake City|237|115
+Los Angeles|San Antonio|294|185
+Los Angeles|San Diego|274|65
+Los Angeles|San Francisco|201|90
+Los Angeles|Seattle|209|170
+Los Angeles|St. Louis|305|230
+Los Angeles|Tampa|345|295
+Miami|Minneapolis|281|230
+Miami|Nashville|242|145
+Miami|New York|238|195
+Miami|Orlando|177|75
+Miami|Philadelphia|220|180
+Miami|Phoenix|318|280
+Miami|Salt Lake City|385|295
+Miami|San Antonio|258|180
+Miami|San Diego|341|315
+Miami|San Francisco|398|355
+Miami|Seattle|331|380
+Miami|St. Louis|305|170
+Miami|Tampa|212|70
+Minneapolis|Nashville|254|125
+Minneapolis|New York|342|185
+Minneapolis|Orlando|253|205
+Minneapolis|Philadelphia|330|165
+Minneapolis|Phoenix|268|190
+Minneapolis|Portland|313|210
+Minneapolis|Salt Lake City|412|160
+Minneapolis|San Antonio|369|170
+Minneapolis|San Diego|317|225
+Minneapolis|San Francisco|344|235
+Minneapolis|Seattle|261|220
+Minneapolis|St. Louis|293|95
+Minneapolis|Tampa|248|195
+Nashville|New York|194|150
+Nashville|Orlando|229|120
+Nashville|Philadelphia|260|130
+Nashville|Phoenix|296|210
+Nashville|Portland|258|280
+Nashville|Salt Lake City|394|210
+Nashville|San Antonio|293|135
+Nashville|San Diego|311|245
+Nashville|San Francisco|324|280
+Nashville|Seattle|293|280
+Nashville|St. Louis|275|70
+Nashville|Tampa|207|115
+New York|Orlando|190|175
+New York|Phoenix|322|315
+New York|Portland|332|350
+New York|Salt Lake City|430|300
+New York|San Antonio|313|250
+New York|San Diego|334|355
+New York|San Francisco|518|365
+New York|Seattle|318|355
+New York|Tampa|202|180
+Orlando|Philadelphia|208|160
+Orlando|Phoenix|327|265
+Orlando|Portland|312|355
+Orlando|Salt Lake City|367|280
+Orlando|San Antonio|232|170
+Orlando|San Diego|288|310
+Orlando|San Francisco|361|340
+Orlando|Seattle|328|355
+Orlando|St. Louis|247|150
+Philadelphia|Phoenix|373|295
+Philadelphia|Portland|359|335
+Philadelphia|Salt Lake City|377|280
+Philadelphia|San Antonio|328|235
+Philadelphia|San Diego|371|335
+Philadelphia|San Francisco|368|350
+Philadelphia|Seattle|321|340
+Philadelphia|St. Louis|315|140
+Philadelphia|Tampa|225|165
+Phoenix|Portland|225|160
+Phoenix|Salt Lake City|228|100
+Phoenix|San Antonio|256|140
+Phoenix|San Diego|162|80
+Phoenix|San Francisco|217|125
+Phoenix|Seattle|212|185
+Phoenix|St. Louis|266|185
+Phoenix|Tampa|364|255
+Portland|Salt Lake City|211|115
+Portland|San Diego|215|155
+Portland|San Francisco|203|115
+Portland|Seattle|215|70
+Portland|St. Louis|301|240
+Salt Lake City|San Antonio|354|170
+Salt Lake City|San Diego|201|120
+Salt Lake City|San Francisco|253|120
+Salt Lake City|Seattle|204|130
+Salt Lake City|St. Louis|364|180
+Salt Lake City|Tampa|374|260
+San Antonio|San Diego|290|170
+San Antonio|San Francisco|300|225
+San Antonio|Seattle|255|255
+San Antonio|St. Louis|288|130
+San Diego|San Francisco|186|100
+San Diego|Seattle|214|180
+San Diego|St. Louis|305|220
+San Diego|Tampa|270|295
+San Francisco|Seattle|225|135
+San Francisco|St. Louis|376|245
+San Francisco|Tampa|359|330
+Seattle|St. Louis|252|250
+Seattle|Tampa|320|345
+St. Louis|Tampa|267|140

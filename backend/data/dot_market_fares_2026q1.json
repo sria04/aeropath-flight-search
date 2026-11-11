@@ -1,0 +1,3047 @@
+{
+  "source": "https://data.transportation.gov/Aviation/Consumer-Airfare-Report-Table-6-Contiguous-State-C/yj5y-b2ir",
+  "period": "2026 Q1",
+  "note": "Historical average each-way fares for directionless city-pair markets; not current prices or nonstop segment fares.",
+  "records": [
+    {
+      "from": "Atlanta",
+      "to": "Austin",
+      "market1": "Atlanta, GA (Metropolitan Area)",
+      "market2": "Austin, TX",
+      "averageFare": 269.46,
+      "distanceMiles": 813
+    },
+    {
+      "from": "Atlanta",
+      "to": "Boston",
+      "market1": "Atlanta, GA (Metropolitan Area)",
+      "market2": "Boston, MA (Metropolitan Area)",
+      "averageFare": 277.6,
+      "distanceMiles": 952
+    },
+    {
+      "from": "Atlanta",
+      "to": "Charlotte",
+      "market1": "Atlanta, GA (Metropolitan Area)",
+      "market2": "Charlotte, NC",
+      "averageFare": 361.13,
+      "distanceMiles": 226
+    },
+    {
+      "from": "Atlanta",
+      "to": "Chicago",
+      "market1": "Atlanta, GA (Metropolitan Area)",
+      "market2": "Chicago, IL",
+      "averageFare": 211.44,
+      "distanceMiles": 606
+    },
+    {
+      "from": "Atlanta",
+      "to": "Cincinnati",
+      "market1": "Atlanta, GA (Metropolitan Area)",
+      "market2": "Cincinnati, OH",
+      "averageFare": 266.35,
+      "distanceMiles": 373
+    },
+    {
+      "from": "Atlanta",
+      "to": "Cleveland",
+      "market1": "Atlanta, GA (Metropolitan Area)",
+      "market2": "Cleveland, OH (Metropolitan Area)",
+      "averageFare": 223.36,
+      "distanceMiles": 554
+    },
+    {
+      "from": "Atlanta",
+      "to": "Dallas",
+      "market1": "Atlanta, GA (Metropolitan Area)",
+      "market2": "Dallas/Fort Worth, TX",
+      "averageFare": 242.66,
+      "distanceMiles": 731
+    },
+    {
+      "from": "Atlanta",
+      "to": "Denver",
+      "market1": "Atlanta, GA (Metropolitan Area)",
+      "market2": "Denver, CO",
+      "averageFare": 248.77,
+      "distanceMiles": 1199
+    },
+    {
+      "from": "Atlanta",
+      "to": "Detroit",
+      "market1": "Atlanta, GA (Metropolitan Area)",
+      "market2": "Detroit, MI",
+      "averageFare": 229.05,
+      "distanceMiles": 594
+    },
+    {
+      "from": "Atlanta",
+      "to": "Houston",
+      "market1": "Atlanta, GA (Metropolitan Area)",
+      "market2": "Houston, TX",
+      "averageFare": 216.7,
+      "distanceMiles": 696
+    },
+    {
+      "from": "Atlanta",
+      "to": "Kansas City",
+      "market1": "Atlanta, GA (Metropolitan Area)",
+      "market2": "Kansas City, MO",
+      "averageFare": 307.52,
+      "distanceMiles": 692
+    },
+    {
+      "from": "Atlanta",
+      "to": "Las Vegas",
+      "market1": "Atlanta, GA (Metropolitan Area)",
+      "market2": "Las Vegas, NV",
+      "averageFare": 409.94,
+      "distanceMiles": 1747
+    },
+    {
+      "from": "Atlanta",
+      "to": "Los Angeles",
+      "market1": "Atlanta, GA (Metropolitan Area)",
+      "market2": "Los Angeles, CA (Metropolitan Area)",
+      "averageFare": 408.33,
+      "distanceMiles": 1947
+    },
+    {
+      "from": "Atlanta",
+      "to": "Miami",
+      "market1": "Atlanta, GA (Metropolitan Area)",
+      "market2": "Miami, FL (Metropolitan Area)",
+      "averageFare": 183.53,
+      "distanceMiles": 594
+    },
+    {
+      "from": "Atlanta",
+      "to": "Minneapolis",
+      "market1": "Atlanta, GA (Metropolitan Area)",
+      "market2": "Minneapolis/St. Paul, MN",
+      "averageFare": 392.59,
+      "distanceMiles": 907
+    },
+    {
+      "from": "Atlanta",
+      "to": "Nashville",
+      "market1": "Atlanta, GA (Metropolitan Area)",
+      "market2": "Nashville, TN",
+      "averageFare": 281.78,
+      "distanceMiles": 214
+    },
+    {
+      "from": "Atlanta",
+      "to": "New York",
+      "market1": "Atlanta, GA (Metropolitan Area)",
+      "market2": "New York City, NY (Metropolitan Area)",
+      "averageFare": 204.43,
+      "distanceMiles": 795
+    },
+    {
+      "from": "Atlanta",
+      "to": "Orlando",
+      "market1": "Atlanta, GA (Metropolitan Area)",
+      "market2": "Orlando, FL",
+      "averageFare": 215.03,
+      "distanceMiles": 404
+    },
+    {
+      "from": "Atlanta",
+      "to": "Philadelphia",
+      "market1": "Atlanta, GA (Metropolitan Area)",
+      "market2": "Philadelphia, PA",
+      "averageFare": 234.02,
+      "distanceMiles": 666
+    },
+    {
+      "from": "Atlanta",
+      "to": "Phoenix",
+      "market1": "Atlanta, GA (Metropolitan Area)",
+      "market2": "Phoenix, AZ",
+      "averageFare": 348.89,
+      "distanceMiles": 1587
+    },
+    {
+      "from": "Atlanta",
+      "to": "Portland",
+      "market1": "Atlanta, GA (Metropolitan Area)",
+      "market2": "Portland, OR",
+      "averageFare": 390.25,
+      "distanceMiles": 2172
+    },
+    {
+      "from": "Atlanta",
+      "to": "Salt Lake City",
+      "market1": "Atlanta, GA (Metropolitan Area)",
+      "market2": "Salt Lake City, UT",
+      "averageFare": 505.82,
+      "distanceMiles": 1590
+    },
+    {
+      "from": "Atlanta",
+      "to": "San Antonio",
+      "market1": "Atlanta, GA (Metropolitan Area)",
+      "market2": "San Antonio, TX",
+      "averageFare": 301.58,
+      "distanceMiles": 874
+    },
+    {
+      "from": "Atlanta",
+      "to": "San Diego",
+      "market1": "Atlanta, GA (Metropolitan Area)",
+      "market2": "San Diego, CA",
+      "averageFare": 391.39,
+      "distanceMiles": 1892
+    },
+    {
+      "from": "Atlanta",
+      "to": "San Francisco",
+      "market1": "Atlanta, GA (Metropolitan Area)",
+      "market2": "San Francisco, CA (Metropolitan Area)",
+      "averageFare": 404.57,
+      "distanceMiles": 2139
+    },
+    {
+      "from": "Atlanta",
+      "to": "Seattle",
+      "market1": "Atlanta, GA (Metropolitan Area)",
+      "market2": "Seattle, WA",
+      "averageFare": 352.96,
+      "distanceMiles": 2182
+    },
+    {
+      "from": "Atlanta",
+      "to": "St. Louis",
+      "market1": "Atlanta, GA (Metropolitan Area)",
+      "market2": "St. Louis, MO",
+      "averageFare": 247.87,
+      "distanceMiles": 484
+    },
+    {
+      "from": "Atlanta",
+      "to": "Tampa",
+      "market1": "Atlanta, GA (Metropolitan Area)",
+      "market2": "Tampa, FL (Metropolitan Area)",
+      "averageFare": 223.8,
+      "distanceMiles": 415
+    },
+    {
+      "from": "Austin",
+      "to": "Boston",
+      "market1": "Austin, TX",
+      "market2": "Boston, MA (Metropolitan Area)",
+      "averageFare": 269.09,
+      "distanceMiles": 1698
+    },
+    {
+      "from": "Austin",
+      "to": "Charlotte",
+      "market1": "Austin, TX",
+      "market2": "Charlotte, NC",
+      "averageFare": 358.24,
+      "distanceMiles": 1032
+    },
+    {
+      "from": "Austin",
+      "to": "Chicago",
+      "market1": "Austin, TX",
+      "market2": "Chicago, IL",
+      "averageFare": 238.57,
+      "distanceMiles": 977
+    },
+    {
+      "from": "Austin",
+      "to": "Cincinnati",
+      "market1": "Austin, TX",
+      "market2": "Cincinnati, OH",
+      "averageFare": 296.56,
+      "distanceMiles": 958
+    },
+    {
+      "from": "Austin",
+      "to": "Dallas",
+      "market1": "Austin, TX",
+      "market2": "Dallas/Fort Worth, TX",
+      "averageFare": 255.83,
+      "distanceMiles": 190
+    },
+    {
+      "from": "Austin",
+      "to": "Denver",
+      "market1": "Austin, TX",
+      "market2": "Denver, CO",
+      "averageFare": 200.17,
+      "distanceMiles": 775
+    },
+    {
+      "from": "Austin",
+      "to": "Detroit",
+      "market1": "Austin, TX",
+      "market2": "Detroit, MI",
+      "averageFare": 361.2,
+      "distanceMiles": 1149
+    },
+    {
+      "from": "Austin",
+      "to": "Houston",
+      "market1": "Austin, TX",
+      "market2": "Houston, TX",
+      "averageFare": 273.03,
+      "distanceMiles": 148
+    },
+    {
+      "from": "Austin",
+      "to": "Kansas City",
+      "market1": "Austin, TX",
+      "market2": "Kansas City, MO",
+      "averageFare": 245.56,
+      "distanceMiles": 650
+    },
+    {
+      "from": "Austin",
+      "to": "Las Vegas",
+      "market1": "Austin, TX",
+      "market2": "Las Vegas, NV",
+      "averageFare": 252.69,
+      "distanceMiles": 1090
+    },
+    {
+      "from": "Austin",
+      "to": "Los Angeles",
+      "market1": "Austin, TX",
+      "market2": "Los Angeles, CA (Metropolitan Area)",
+      "averageFare": 293.16,
+      "distanceMiles": 1242
+    },
+    {
+      "from": "Austin",
+      "to": "Miami",
+      "market1": "Austin, TX",
+      "market2": "Miami, FL (Metropolitan Area)",
+      "averageFare": 205.88,
+      "distanceMiles": 1105
+    },
+    {
+      "from": "Austin",
+      "to": "Minneapolis",
+      "market1": "Austin, TX",
+      "market2": "Minneapolis/St. Paul, MN",
+      "averageFare": 305.4,
+      "distanceMiles": 1042
+    },
+    {
+      "from": "Austin",
+      "to": "Nashville",
+      "market1": "Austin, TX",
+      "market2": "Nashville, TN",
+      "averageFare": 219.33,
+      "distanceMiles": 756
+    },
+    {
+      "from": "Austin",
+      "to": "New York",
+      "market1": "Austin, TX",
+      "market2": "New York City, NY (Metropolitan Area)",
+      "averageFare": 294.86,
+      "distanceMiles": 1559
+    },
+    {
+      "from": "Austin",
+      "to": "Orlando",
+      "market1": "Austin, TX",
+      "market2": "Orlando, FL",
+      "averageFare": 233.53,
+      "distanceMiles": 994
+    },
+    {
+      "from": "Austin",
+      "to": "Philadelphia",
+      "market1": "Austin, TX",
+      "market2": "Philadelphia, PA",
+      "averageFare": 355.89,
+      "distanceMiles": 1431
+    },
+    {
+      "from": "Austin",
+      "to": "Phoenix",
+      "market1": "Austin, TX",
+      "market2": "Phoenix, AZ",
+      "averageFare": 263.4,
+      "distanceMiles": 872
+    },
+    {
+      "from": "Austin",
+      "to": "Portland",
+      "market1": "Austin, TX",
+      "market2": "Portland, OR",
+      "averageFare": 242.72,
+      "distanceMiles": 1715
+    },
+    {
+      "from": "Austin",
+      "to": "Salt Lake City",
+      "market1": "Austin, TX",
+      "market2": "Salt Lake City, UT",
+      "averageFare": 337.2,
+      "distanceMiles": 1086
+    },
+    {
+      "from": "Austin",
+      "to": "San Diego",
+      "market1": "Austin, TX",
+      "market2": "San Diego, CA",
+      "averageFare": 224.51,
+      "distanceMiles": 1164
+    },
+    {
+      "from": "Austin",
+      "to": "San Francisco",
+      "market1": "Austin, TX",
+      "market2": "San Francisco, CA (Metropolitan Area)",
+      "averageFare": 289.35,
+      "distanceMiles": 1504
+    },
+    {
+      "from": "Austin",
+      "to": "Seattle",
+      "market1": "Austin, TX",
+      "market2": "Seattle, WA",
+      "averageFare": 263.28,
+      "distanceMiles": 1770
+    },
+    {
+      "from": "Austin",
+      "to": "St. Louis",
+      "market1": "Austin, TX",
+      "market2": "St. Louis, MO",
+      "averageFare": 228.52,
+      "distanceMiles": 721
+    },
+    {
+      "from": "Austin",
+      "to": "Tampa",
+      "market1": "Austin, TX",
+      "market2": "Tampa, FL (Metropolitan Area)",
+      "averageFare": 261.31,
+      "distanceMiles": 928
+    },
+    {
+      "from": "Boston",
+      "to": "Charlotte",
+      "market1": "Boston, MA (Metropolitan Area)",
+      "market2": "Charlotte, NC",
+      "averageFare": 294.9,
+      "distanceMiles": 738
+    },
+    {
+      "from": "Boston",
+      "to": "Chicago",
+      "market1": "Boston, MA (Metropolitan Area)",
+      "market2": "Chicago, IL",
+      "averageFare": 177.64,
+      "distanceMiles": 867
+    },
+    {
+      "from": "Boston",
+      "to": "Cincinnati",
+      "market1": "Boston, MA (Metropolitan Area)",
+      "market2": "Cincinnati, OH",
+      "averageFare": 317.38,
+      "distanceMiles": 752
+    },
+    {
+      "from": "Boston",
+      "to": "Cleveland",
+      "market1": "Boston, MA (Metropolitan Area)",
+      "market2": "Cleveland, OH (Metropolitan Area)",
+      "averageFare": 219.58,
+      "distanceMiles": 563
+    },
+    {
+      "from": "Boston",
+      "to": "Dallas",
+      "market1": "Boston, MA (Metropolitan Area)",
+      "market2": "Dallas/Fort Worth, TX",
+      "averageFare": 285.69,
+      "distanceMiles": 1562
+    },
+    {
+      "from": "Boston",
+      "to": "Denver",
+      "market1": "Boston, MA (Metropolitan Area)",
+      "market2": "Denver, CO",
+      "averageFare": 248.17,
+      "distanceMiles": 1754
+    },
+    {
+      "from": "Boston",
+      "to": "Detroit",
+      "market1": "Boston, MA (Metropolitan Area)",
+      "market2": "Detroit, MI",
+      "averageFare": 257.88,
+      "distanceMiles": 632
+    },
+    {
+      "from": "Boston",
+      "to": "Houston",
+      "market1": "Boston, MA (Metropolitan Area)",
+      "market2": "Houston, TX",
+      "averageFare": 290.23,
+      "distanceMiles": 1609
+    },
+    {
+      "from": "Boston",
+      "to": "Kansas City",
+      "market1": "Boston, MA (Metropolitan Area)",
+      "market2": "Kansas City, MO",
+      "averageFare": 376.79,
+      "distanceMiles": 1256
+    },
+    {
+      "from": "Boston",
+      "to": "Las Vegas",
+      "market1": "Boston, MA (Metropolitan Area)",
+      "market2": "Las Vegas, NV",
+      "averageFare": 339.64,
+      "distanceMiles": 2381
+    },
+    {
+      "from": "Boston",
+      "to": "Los Angeles",
+      "market1": "Boston, MA (Metropolitan Area)",
+      "market2": "Los Angeles, CA (Metropolitan Area)",
+      "averageFare": 341.69,
+      "distanceMiles": 2611
+    },
+    {
+      "from": "Boston",
+      "to": "Miami",
+      "market1": "Boston, MA (Metropolitan Area)",
+      "market2": "Miami, FL (Metropolitan Area)",
+      "averageFare": 240.7,
+      "distanceMiles": 1283
+    },
+    {
+      "from": "Boston",
+      "to": "Minneapolis",
+      "market1": "Boston, MA (Metropolitan Area)",
+      "market2": "Minneapolis/St. Paul, MN",
+      "averageFare": 376.95,
+      "distanceMiles": 1124
+    },
+    {
+      "from": "Boston",
+      "to": "Nashville",
+      "market1": "Boston, MA (Metropolitan Area)",
+      "market2": "Nashville, TN",
+      "averageFare": 221.44,
+      "distanceMiles": 942
+    },
+    {
+      "from": "Boston",
+      "to": "New York",
+      "market1": "Boston, MA (Metropolitan Area)",
+      "market2": "New York City, NY (Metropolitan Area)",
+      "averageFare": 221.91,
+      "distanceMiles": 209
+    },
+    {
+      "from": "Boston",
+      "to": "Orlando",
+      "market1": "Boston, MA (Metropolitan Area)",
+      "market2": "Orlando, FL",
+      "averageFare": 208.37,
+      "distanceMiles": 1142
+    },
+    {
+      "from": "Boston",
+      "to": "Philadelphia",
+      "market1": "Boston, MA (Metropolitan Area)",
+      "market2": "Philadelphia, PA",
+      "averageFare": 193.51,
+      "distanceMiles": 289
+    },
+    {
+      "from": "Boston",
+      "to": "Phoenix",
+      "market1": "Boston, MA (Metropolitan Area)",
+      "market2": "Phoenix, AZ",
+      "averageFare": 292.82,
+      "distanceMiles": 2300
+    },
+    {
+      "from": "Boston",
+      "to": "Portland",
+      "market1": "Boston, MA (Metropolitan Area)",
+      "market2": "Portland, OR",
+      "averageFare": 318.24,
+      "distanceMiles": 2537
+    },
+    {
+      "from": "Boston",
+      "to": "Salt Lake City",
+      "market1": "Boston, MA (Metropolitan Area)",
+      "market2": "Salt Lake City, UT",
+      "averageFare": 426.07,
+      "distanceMiles": 2105
+    },
+    {
+      "from": "Boston",
+      "to": "San Antonio",
+      "market1": "Boston, MA (Metropolitan Area)",
+      "market2": "San Antonio, TX",
+      "averageFare": 334.01,
+      "distanceMiles": 1764
+    },
+    {
+      "from": "Boston",
+      "to": "San Diego",
+      "market1": "Boston, MA (Metropolitan Area)",
+      "market2": "San Diego, CA",
+      "averageFare": 319.58,
+      "distanceMiles": 2588
+    },
+    {
+      "from": "Boston",
+      "to": "San Francisco",
+      "market1": "Boston, MA (Metropolitan Area)",
+      "market2": "San Francisco, CA (Metropolitan Area)",
+      "averageFare": 406.59,
+      "distanceMiles": 2704
+    },
+    {
+      "from": "Boston",
+      "to": "Seattle",
+      "market1": "Boston, MA (Metropolitan Area)",
+      "market2": "Seattle, WA",
+      "averageFare": 324.55,
+      "distanceMiles": 2496
+    },
+    {
+      "from": "Boston",
+      "to": "St. Louis",
+      "market1": "Boston, MA (Metropolitan Area)",
+      "market2": "St. Louis, MO",
+      "averageFare": 326.2,
+      "distanceMiles": 1047
+    },
+    {
+      "from": "Boston",
+      "to": "Tampa",
+      "market1": "Boston, MA (Metropolitan Area)",
+      "market2": "Tampa, FL (Metropolitan Area)",
+      "averageFare": 237.06,
+      "distanceMiles": 1204
+    },
+    {
+      "from": "Charlotte",
+      "to": "Chicago",
+      "market1": "Charlotte, NC",
+      "market2": "Chicago, IL",
+      "averageFare": 211.21,
+      "distanceMiles": 599
+    },
+    {
+      "from": "Charlotte",
+      "to": "Cincinnati",
+      "market1": "Charlotte, NC",
+      "market2": "Cincinnati, OH",
+      "averageFare": 353.7,
+      "distanceMiles": 335
+    },
+    {
+      "from": "Charlotte",
+      "to": "Cleveland",
+      "market1": "Charlotte, NC",
+      "market2": "Cleveland, OH (Metropolitan Area)",
+      "averageFare": 334.71,
+      "distanceMiles": 430
+    },
+    {
+      "from": "Charlotte",
+      "to": "Dallas",
+      "market1": "Charlotte, NC",
+      "market2": "Dallas/Fort Worth, TX",
+      "averageFare": 312.77,
+      "distanceMiles": 935
+    },
+    {
+      "from": "Charlotte",
+      "to": "Denver",
+      "market1": "Charlotte, NC",
+      "market2": "Denver, CO",
+      "averageFare": 225.87,
+      "distanceMiles": 1337
+    },
+    {
+      "from": "Charlotte",
+      "to": "Detroit",
+      "market1": "Charlotte, NC",
+      "market2": "Detroit, MI",
+      "averageFare": 261.67,
+      "distanceMiles": 500
+    },
+    {
+      "from": "Charlotte",
+      "to": "Houston",
+      "market1": "Charlotte, NC",
+      "market2": "Houston, TX",
+      "averageFare": 234.72,
+      "distanceMiles": 920
+    },
+    {
+      "from": "Charlotte",
+      "to": "Kansas City",
+      "market1": "Charlotte, NC",
+      "market2": "Kansas City, MO",
+      "averageFare": 291.44,
+      "distanceMiles": 808
+    },
+    {
+      "from": "Charlotte",
+      "to": "Las Vegas",
+      "market1": "Charlotte, NC",
+      "market2": "Las Vegas, NV",
+      "averageFare": 417.61,
+      "distanceMiles": 1916
+    },
+    {
+      "from": "Charlotte",
+      "to": "Los Angeles",
+      "market1": "Charlotte, NC",
+      "market2": "Los Angeles, CA (Metropolitan Area)",
+      "averageFare": 388.24,
+      "distanceMiles": 2125
+    },
+    {
+      "from": "Charlotte",
+      "to": "Miami",
+      "market1": "Charlotte, NC",
+      "market2": "Miami, FL (Metropolitan Area)",
+      "averageFare": 230.92,
+      "distanceMiles": 650
+    },
+    {
+      "from": "Charlotte",
+      "to": "Minneapolis",
+      "market1": "Charlotte, NC",
+      "market2": "Minneapolis/St. Paul, MN",
+      "averageFare": 295.97,
+      "distanceMiles": 930
+    },
+    {
+      "from": "Charlotte",
+      "to": "Nashville",
+      "market1": "Charlotte, NC",
+      "market2": "Nashville, TN",
+      "averageFare": 246.82,
+      "distanceMiles": 328
+    },
+    {
+      "from": "Charlotte",
+      "to": "New York",
+      "market1": "Charlotte, NC",
+      "market2": "New York City, NY (Metropolitan Area)",
+      "averageFare": 205.77,
+      "distanceMiles": 576
+    },
+    {
+      "from": "Charlotte",
+      "to": "Orlando",
+      "market1": "Charlotte, NC",
+      "market2": "Orlando, FL",
+      "averageFare": 223.05,
+      "distanceMiles": 468
+    },
+    {
+      "from": "Charlotte",
+      "to": "Philadelphia",
+      "market1": "Charlotte, NC",
+      "market2": "Philadelphia, PA",
+      "averageFare": 248.01,
+      "distanceMiles": 449
+    },
+    {
+      "from": "Charlotte",
+      "to": "Phoenix",
+      "market1": "Charlotte, NC",
+      "market2": "Phoenix, AZ",
+      "averageFare": 370.0,
+      "distanceMiles": 1773
+    },
+    {
+      "from": "Charlotte",
+      "to": "Portland",
+      "market1": "Charlotte, NC",
+      "market2": "Portland, OR",
+      "averageFare": 398.73,
+      "distanceMiles": 2282
+    },
+    {
+      "from": "Charlotte",
+      "to": "Salt Lake City",
+      "market1": "Charlotte, NC",
+      "market2": "Salt Lake City, UT",
+      "averageFare": 366.77,
+      "distanceMiles": 1727
+    },
+    {
+      "from": "Charlotte",
+      "to": "San Antonio",
+      "market1": "Charlotte, NC",
+      "market2": "San Antonio, TX",
+      "averageFare": 306.41,
+      "distanceMiles": 1095
+    },
+    {
+      "from": "Charlotte",
+      "to": "San Diego",
+      "market1": "Charlotte, NC",
+      "market2": "San Diego, CA",
+      "averageFare": 383.82,
+      "distanceMiles": 2077
+    },
+    {
+      "from": "Charlotte",
+      "to": "San Francisco",
+      "market1": "Charlotte, NC",
+      "market2": "San Francisco, CA (Metropolitan Area)",
+      "averageFare": 431.77,
+      "distanceMiles": 2296
+    },
+    {
+      "from": "Charlotte",
+      "to": "Seattle",
+      "market1": "Charlotte, NC",
+      "market2": "Seattle, WA",
+      "averageFare": 369.67,
+      "distanceMiles": 2279
+    },
+    {
+      "from": "Charlotte",
+      "to": "St. Louis",
+      "market1": "Charlotte, NC",
+      "market2": "St. Louis, MO",
+      "averageFare": 255.23,
+      "distanceMiles": 575
+    },
+    {
+      "from": "Charlotte",
+      "to": "Tampa",
+      "market1": "Charlotte, NC",
+      "market2": "Tampa, FL (Metropolitan Area)",
+      "averageFare": 280.45,
+      "distanceMiles": 507
+    },
+    {
+      "from": "Chicago",
+      "to": "Cincinnati",
+      "market1": "Chicago, IL",
+      "market2": "Cincinnati, OH",
+      "averageFare": 232.58,
+      "distanceMiles": 264
+    },
+    {
+      "from": "Chicago",
+      "to": "Cleveland",
+      "market1": "Chicago, IL",
+      "market2": "Cleveland, OH (Metropolitan Area)",
+      "averageFare": 224.8,
+      "distanceMiles": 344
+    },
+    {
+      "from": "Chicago",
+      "to": "Dallas",
+      "market1": "Chicago, IL",
+      "market2": "Dallas/Fort Worth, TX",
+      "averageFare": 222.71,
+      "distanceMiles": 802
+    },
+    {
+      "from": "Chicago",
+      "to": "Denver",
+      "market1": "Chicago, IL",
+      "market2": "Denver, CO",
+      "averageFare": 210.12,
+      "distanceMiles": 895
+    },
+    {
+      "from": "Chicago",
+      "to": "Detroit",
+      "market1": "Chicago, IL",
+      "market2": "Detroit, MI",
+      "averageFare": 265.07,
+      "distanceMiles": 235
+    },
+    {
+      "from": "Chicago",
+      "to": "Houston",
+      "market1": "Chicago, IL",
+      "market2": "Houston, TX",
+      "averageFare": 216.91,
+      "distanceMiles": 945
+    },
+    {
+      "from": "Chicago",
+      "to": "Kansas City",
+      "market1": "Chicago, IL",
+      "market2": "Kansas City, MO",
+      "averageFare": 259.99,
+      "distanceMiles": 404
+    },
+    {
+      "from": "Chicago",
+      "to": "Las Vegas",
+      "market1": "Chicago, IL",
+      "market2": "Las Vegas, NV",
+      "averageFare": 257.08,
+      "distanceMiles": 1521
+    },
+    {
+      "from": "Chicago",
+      "to": "Los Angeles",
+      "market1": "Chicago, IL",
+      "market2": "Los Angeles, CA (Metropolitan Area)",
+      "averageFare": 312.64,
+      "distanceMiles": 1751
+    },
+    {
+      "from": "Chicago",
+      "to": "Miami",
+      "market1": "Chicago, IL",
+      "market2": "Miami, FL (Metropolitan Area)",
+      "averageFare": 228.78,
+      "distanceMiles": 1197
+    },
+    {
+      "from": "Chicago",
+      "to": "Minneapolis",
+      "market1": "Chicago, IL",
+      "market2": "Minneapolis/St. Paul, MN",
+      "averageFare": 242.99,
+      "distanceMiles": 349
+    },
+    {
+      "from": "Chicago",
+      "to": "Nashville",
+      "market1": "Chicago, IL",
+      "market2": "Nashville, TN",
+      "averageFare": 236.53,
+      "distanceMiles": 409
+    },
+    {
+      "from": "Chicago",
+      "to": "New York",
+      "market1": "Chicago, IL",
+      "market2": "New York City, NY (Metropolitan Area)",
+      "averageFare": 191.17,
+      "distanceMiles": 773
+    },
+    {
+      "from": "Chicago",
+      "to": "Orlando",
+      "market1": "Chicago, IL",
+      "market2": "Orlando, FL",
+      "averageFare": 213.77,
+      "distanceMiles": 1005
+    },
+    {
+      "from": "Chicago",
+      "to": "Philadelphia",
+      "market1": "Chicago, IL",
+      "market2": "Philadelphia, PA",
+      "averageFare": 239.46,
+      "distanceMiles": 678
+    },
+    {
+      "from": "Chicago",
+      "to": "Phoenix",
+      "market1": "Chicago, IL",
+      "market2": "Phoenix, AZ",
+      "averageFare": 254.79,
+      "distanceMiles": 1444
+    },
+    {
+      "from": "Chicago",
+      "to": "Portland",
+      "market1": "Chicago, IL",
+      "market2": "Portland, OR",
+      "averageFare": 257.83,
+      "distanceMiles": 1751
+    },
+    {
+      "from": "Chicago",
+      "to": "Salt Lake City",
+      "market1": "Chicago, IL",
+      "market2": "Salt Lake City, UT",
+      "averageFare": 347.64,
+      "distanceMiles": 1259
+    },
+    {
+      "from": "Chicago",
+      "to": "San Antonio",
+      "market1": "Chicago, IL",
+      "market2": "San Antonio, TX",
+      "averageFare": 290.59,
+      "distanceMiles": 1041
+    },
+    {
+      "from": "Chicago",
+      "to": "San Diego",
+      "market1": "Chicago, IL",
+      "market2": "San Diego, CA",
+      "averageFare": 225.68,
+      "distanceMiles": 1728
+    },
+    {
+      "from": "Chicago",
+      "to": "San Francisco",
+      "market1": "Chicago, IL",
+      "market2": "San Francisco, CA (Metropolitan Area)",
+      "averageFare": 327.53,
+      "distanceMiles": 1855
+    },
+    {
+      "from": "Chicago",
+      "to": "Seattle",
+      "market1": "Chicago, IL",
+      "market2": "Seattle, WA",
+      "averageFare": 229.14,
+      "distanceMiles": 1733
+    },
+    {
+      "from": "Chicago",
+      "to": "St. Louis",
+      "market1": "Chicago, IL",
+      "market2": "St. Louis, MO",
+      "averageFare": 265.94,
+      "distanceMiles": 258
+    },
+    {
+      "from": "Chicago",
+      "to": "Tampa",
+      "market1": "Chicago, IL",
+      "market2": "Tampa, FL (Metropolitan Area)",
+      "averageFare": 214.51,
+      "distanceMiles": 1012
+    },
+    {
+      "from": "Cincinnati",
+      "to": "Dallas",
+      "market1": "Cincinnati, OH",
+      "market2": "Dallas/Fort Worth, TX",
+      "averageFare": 273.07,
+      "distanceMiles": 812
+    },
+    {
+      "from": "Cincinnati",
+      "to": "Denver",
+      "market1": "Cincinnati, OH",
+      "market2": "Denver, CO",
+      "averageFare": 222.08,
+      "distanceMiles": 1069
+    },
+    {
+      "from": "Cincinnati",
+      "to": "Houston",
+      "market1": "Cincinnati, OH",
+      "market2": "Houston, TX",
+      "averageFare": 265.43,
+      "distanceMiles": 886
+    },
+    {
+      "from": "Cincinnati",
+      "to": "Las Vegas",
+      "market1": "Cincinnati, OH",
+      "market2": "Las Vegas, NV",
+      "averageFare": 256.54,
+      "distanceMiles": 1678
+    },
+    {
+      "from": "Cincinnati",
+      "to": "Miami",
+      "market1": "Cincinnati, OH",
+      "market2": "Miami, FL (Metropolitan Area)",
+      "averageFare": 223.99,
+      "distanceMiles": 948
+    },
+    {
+      "from": "Cincinnati",
+      "to": "Minneapolis",
+      "market1": "Cincinnati, OH",
+      "market2": "Minneapolis/St. Paul, MN",
+      "averageFare": 412.03,
+      "distanceMiles": 596
+    },
+    {
+      "from": "Cincinnati",
+      "to": "Nashville",
+      "market1": "Cincinnati, OH",
+      "market2": "Nashville, TN",
+      "averageFare": 263.35,
+      "distanceMiles": 230
+    },
+    {
+      "from": "Cincinnati",
+      "to": "New York",
+      "market1": "Cincinnati, OH",
+      "market2": "New York City, NY (Metropolitan Area)",
+      "averageFare": 272.97,
+      "distanceMiles": 626
+    },
+    {
+      "from": "Cincinnati",
+      "to": "Orlando",
+      "market1": "Cincinnati, OH",
+      "market2": "Orlando, FL",
+      "averageFare": 188.82,
+      "distanceMiles": 757
+    },
+    {
+      "from": "Cincinnati",
+      "to": "Philadelphia",
+      "market1": "Cincinnati, OH",
+      "market2": "Philadelphia, PA",
+      "averageFare": 391.57,
+      "distanceMiles": 507
+    },
+    {
+      "from": "Cincinnati",
+      "to": "Salt Lake City",
+      "market1": "Cincinnati, OH",
+      "market2": "Salt Lake City, UT",
+      "averageFare": 410.45,
+      "distanceMiles": 1450
+    },
+    {
+      "from": "Cincinnati",
+      "to": "Seattle",
+      "market1": "Cincinnati, OH",
+      "market2": "Seattle, WA",
+      "averageFare": 241.97,
+      "distanceMiles": 1965
+    },
+    {
+      "from": "Cincinnati",
+      "to": "Tampa",
+      "market1": "Cincinnati, OH",
+      "market2": "Tampa, FL (Metropolitan Area)",
+      "averageFare": 176.93,
+      "distanceMiles": 776
+    },
+    {
+      "from": "Cleveland",
+      "to": "Dallas",
+      "market1": "Cleveland, OH (Metropolitan Area)",
+      "market2": "Dallas/Fort Worth, TX",
+      "averageFare": 315.94,
+      "distanceMiles": 1023
+    },
+    {
+      "from": "Cleveland",
+      "to": "Denver",
+      "market1": "Cleveland, OH (Metropolitan Area)",
+      "market2": "Denver, CO",
+      "averageFare": 243.49,
+      "distanceMiles": 1224
+    },
+    {
+      "from": "Cleveland",
+      "to": "Detroit",
+      "market1": "Cleveland, OH (Metropolitan Area)",
+      "market2": "Detroit, MI",
+      "averageFare": 303.75,
+      "distanceMiles": 133
+    },
+    {
+      "from": "Cleveland",
+      "to": "Houston",
+      "market1": "Cleveland, OH (Metropolitan Area)",
+      "market2": "Houston, TX",
+      "averageFare": 276.13,
+      "distanceMiles": 1106
+    },
+    {
+      "from": "Cleveland",
+      "to": "Las Vegas",
+      "market1": "Cleveland, OH (Metropolitan Area)",
+      "market2": "Las Vegas, NV",
+      "averageFare": 238.86,
+      "distanceMiles": 1846
+    },
+    {
+      "from": "Cleveland",
+      "to": "Los Angeles",
+      "market1": "Cleveland, OH (Metropolitan Area)",
+      "market2": "Los Angeles, CA (Metropolitan Area)",
+      "averageFare": 333.65,
+      "distanceMiles": 2073
+    },
+    {
+      "from": "Cleveland",
+      "to": "Miami",
+      "market1": "Cleveland, OH (Metropolitan Area)",
+      "market2": "Miami, FL (Metropolitan Area)",
+      "averageFare": 204.27,
+      "distanceMiles": 1080
+    },
+    {
+      "from": "Cleveland",
+      "to": "Minneapolis",
+      "market1": "Cleveland, OH (Metropolitan Area)",
+      "market2": "Minneapolis/St. Paul, MN",
+      "averageFare": 394.75,
+      "distanceMiles": 657
+    },
+    {
+      "from": "Cleveland",
+      "to": "Nashville",
+      "market1": "Cleveland, OH (Metropolitan Area)",
+      "market2": "Nashville, TN",
+      "averageFare": 252.18,
+      "distanceMiles": 448
+    },
+    {
+      "from": "Cleveland",
+      "to": "New York",
+      "market1": "Cleveland, OH (Metropolitan Area)",
+      "market2": "New York City, NY (Metropolitan Area)",
+      "averageFare": 187.29,
+      "distanceMiles": 459
+    },
+    {
+      "from": "Cleveland",
+      "to": "Orlando",
+      "market1": "Cleveland, OH (Metropolitan Area)",
+      "market2": "Orlando, FL",
+      "averageFare": 178.18,
+      "distanceMiles": 895
+    },
+    {
+      "from": "Cleveland",
+      "to": "Philadelphia",
+      "market1": "Cleveland, OH (Metropolitan Area)",
+      "market2": "Philadelphia, PA",
+      "averageFare": 352.06,
+      "distanceMiles": 363
+    },
+    {
+      "from": "Cleveland",
+      "to": "Phoenix",
+      "market1": "Cleveland, OH (Metropolitan Area)",
+      "market2": "Phoenix, AZ",
+      "averageFare": 271.92,
+      "distanceMiles": 1754
+    },
+    {
+      "from": "Cleveland",
+      "to": "Salt Lake City",
+      "market1": "Cleveland, OH (Metropolitan Area)",
+      "market2": "Salt Lake City, UT",
+      "averageFare": 390.87,
+      "distanceMiles": 1592
+    },
+    {
+      "from": "Cleveland",
+      "to": "San Francisco",
+      "market1": "Cleveland, OH (Metropolitan Area)",
+      "market2": "San Francisco, CA (Metropolitan Area)",
+      "averageFare": 350.95,
+      "distanceMiles": 2187
+    },
+    {
+      "from": "Cleveland",
+      "to": "Seattle",
+      "market1": "Cleveland, OH (Metropolitan Area)",
+      "market2": "Seattle, WA",
+      "averageFare": 251.06,
+      "distanceMiles": 2055
+    },
+    {
+      "from": "Cleveland",
+      "to": "St. Louis",
+      "market1": "Cleveland, OH (Metropolitan Area)",
+      "market2": "St. Louis, MO",
+      "averageFare": 258.74,
+      "distanceMiles": 498
+    },
+    {
+      "from": "Cleveland",
+      "to": "Tampa",
+      "market1": "Cleveland, OH (Metropolitan Area)",
+      "market2": "Tampa, FL (Metropolitan Area)",
+      "averageFare": 161.09,
+      "distanceMiles": 927
+    },
+    {
+      "from": "Dallas",
+      "to": "Denver",
+      "market1": "Dallas/Fort Worth, TX",
+      "market2": "Denver, CO",
+      "averageFare": 198.33,
+      "distanceMiles": 651
+    },
+    {
+      "from": "Dallas",
+      "to": "Detroit",
+      "market1": "Dallas/Fort Worth, TX",
+      "market2": "Detroit, MI",
+      "averageFare": 309.64,
+      "distanceMiles": 986
+    },
+    {
+      "from": "Dallas",
+      "to": "Houston",
+      "market1": "Dallas/Fort Worth, TX",
+      "market2": "Houston, TX",
+      "averageFare": 234.73,
+      "distanceMiles": 247
+    },
+    {
+      "from": "Dallas",
+      "to": "Kansas City",
+      "market1": "Dallas/Fort Worth, TX",
+      "market2": "Kansas City, MO",
+      "averageFare": 246.9,
+      "distanceMiles": 461
+    },
+    {
+      "from": "Dallas",
+      "to": "Las Vegas",
+      "market1": "Dallas/Fort Worth, TX",
+      "market2": "Las Vegas, NV",
+      "averageFare": 255.95,
+      "distanceMiles": 1067
+    },
+    {
+      "from": "Dallas",
+      "to": "Los Angeles",
+      "market1": "Dallas/Fort Worth, TX",
+      "market2": "Los Angeles, CA (Metropolitan Area)",
+      "averageFare": 283.4,
+      "distanceMiles": 1246
+    },
+    {
+      "from": "Dallas",
+      "to": "Miami",
+      "market1": "Dallas/Fort Worth, TX",
+      "market2": "Miami, FL (Metropolitan Area)",
+      "averageFare": 258.18,
+      "distanceMiles": 1121
+    },
+    {
+      "from": "Dallas",
+      "to": "Minneapolis",
+      "market1": "Dallas/Fort Worth, TX",
+      "market2": "Minneapolis/St. Paul, MN",
+      "averageFare": 279.25,
+      "distanceMiles": 853
+    },
+    {
+      "from": "Dallas",
+      "to": "Nashville",
+      "market1": "Dallas/Fort Worth, TX",
+      "market2": "Nashville, TN",
+      "averageFare": 272.7,
+      "distanceMiles": 631
+    },
+    {
+      "from": "Dallas",
+      "to": "New York",
+      "market1": "Dallas/Fort Worth, TX",
+      "market2": "New York City, NY (Metropolitan Area)",
+      "averageFare": 265.86,
+      "distanceMiles": 1428
+    },
+    {
+      "from": "Dallas",
+      "to": "Orlando",
+      "market1": "Dallas/Fort Worth, TX",
+      "market2": "Orlando, FL",
+      "averageFare": 240.4,
+      "distanceMiles": 985
+    },
+    {
+      "from": "Dallas",
+      "to": "Philadelphia",
+      "market1": "Dallas/Fort Worth, TX",
+      "market2": "Philadelphia, PA",
+      "averageFare": 328.36,
+      "distanceMiles": 1303
+    },
+    {
+      "from": "Dallas",
+      "to": "Phoenix",
+      "market1": "Dallas/Fort Worth, TX",
+      "market2": "Phoenix, AZ",
+      "averageFare": 269.87,
+      "distanceMiles": 879
+    },
+    {
+      "from": "Dallas",
+      "to": "Portland",
+      "market1": "Dallas/Fort Worth, TX",
+      "market2": "Portland, OR",
+      "averageFare": 244.05,
+      "distanceMiles": 1626
+    },
+    {
+      "from": "Dallas",
+      "to": "Salt Lake City",
+      "market1": "Dallas/Fort Worth, TX",
+      "market2": "Salt Lake City, UT",
+      "averageFare": 263.07,
+      "distanceMiles": 999
+    },
+    {
+      "from": "Dallas",
+      "to": "San Antonio",
+      "market1": "Dallas/Fort Worth, TX",
+      "market2": "San Antonio, TX",
+      "averageFare": 257.84,
+      "distanceMiles": 247
+    },
+    {
+      "from": "Dallas",
+      "to": "San Diego",
+      "market1": "Dallas/Fort Worth, TX",
+      "market2": "San Diego, CA",
+      "averageFare": 254.99,
+      "distanceMiles": 1182
+    },
+    {
+      "from": "Dallas",
+      "to": "San Francisco",
+      "market1": "Dallas/Fort Worth, TX",
+      "market2": "San Francisco, CA (Metropolitan Area)",
+      "averageFare": 292.12,
+      "distanceMiles": 1476
+    },
+    {
+      "from": "Dallas",
+      "to": "Seattle",
+      "market1": "Dallas/Fort Worth, TX",
+      "market2": "Seattle, WA",
+      "averageFare": 246.95,
+      "distanceMiles": 1670
+    },
+    {
+      "from": "Dallas",
+      "to": "St. Louis",
+      "market1": "Dallas/Fort Worth, TX",
+      "market2": "St. Louis, MO",
+      "averageFare": 265.49,
+      "distanceMiles": 550
+    },
+    {
+      "from": "Dallas",
+      "to": "Tampa",
+      "market1": "Dallas/Fort Worth, TX",
+      "market2": "Tampa, FL (Metropolitan Area)",
+      "averageFare": 241.89,
+      "distanceMiles": 929
+    },
+    {
+      "from": "Denver",
+      "to": "Detroit",
+      "market1": "Denver, CO",
+      "market2": "Detroit, MI",
+      "averageFare": 238.71,
+      "distanceMiles": 1123
+    },
+    {
+      "from": "Denver",
+      "to": "Houston",
+      "market1": "Denver, CO",
+      "market2": "Houston, TX",
+      "averageFare": 228.33,
+      "distanceMiles": 883
+    },
+    {
+      "from": "Denver",
+      "to": "Kansas City",
+      "market1": "Denver, CO",
+      "market2": "Kansas City, MO",
+      "averageFare": 212.56,
+      "distanceMiles": 533
+    },
+    {
+      "from": "Denver",
+      "to": "Las Vegas",
+      "market1": "Denver, CO",
+      "market2": "Las Vegas, NV",
+      "averageFare": 193.52,
+      "distanceMiles": 628
+    },
+    {
+      "from": "Denver",
+      "to": "Los Angeles",
+      "market1": "Denver, CO",
+      "market2": "Los Angeles, CA (Metropolitan Area)",
+      "averageFare": 216.33,
+      "distanceMiles": 862
+    },
+    {
+      "from": "Denver",
+      "to": "Miami",
+      "market1": "Denver, CO",
+      "market2": "Miami, FL (Metropolitan Area)",
+      "averageFare": 278.94,
+      "distanceMiles": 1709
+    },
+    {
+      "from": "Denver",
+      "to": "Minneapolis",
+      "market1": "Denver, CO",
+      "market2": "Minneapolis/St. Paul, MN",
+      "averageFare": 193.71,
+      "distanceMiles": 680
+    },
+    {
+      "from": "Denver",
+      "to": "Nashville",
+      "market1": "Denver, CO",
+      "market2": "Nashville, TN",
+      "averageFare": 238.26,
+      "distanceMiles": 1013
+    },
+    {
+      "from": "Denver",
+      "to": "New York",
+      "market1": "Denver, CO",
+      "market2": "New York City, NY (Metropolitan Area)",
+      "averageFare": 270.0,
+      "distanceMiles": 1659
+    },
+    {
+      "from": "Denver",
+      "to": "Orlando",
+      "market1": "Denver, CO",
+      "market2": "Orlando, FL",
+      "averageFare": 256.58,
+      "distanceMiles": 1547
+    },
+    {
+      "from": "Denver",
+      "to": "Philadelphia",
+      "market1": "Denver, CO",
+      "market2": "Philadelphia, PA",
+      "averageFare": 286.92,
+      "distanceMiles": 1558
+    },
+    {
+      "from": "Denver",
+      "to": "Phoenix",
+      "market1": "Denver, CO",
+      "market2": "Phoenix, AZ",
+      "averageFare": 194.27,
+      "distanceMiles": 602
+    },
+    {
+      "from": "Denver",
+      "to": "Portland",
+      "market1": "Denver, CO",
+      "market2": "Portland, OR",
+      "averageFare": 199.76,
+      "distanceMiles": 991
+    },
+    {
+      "from": "Denver",
+      "to": "Salt Lake City",
+      "market1": "Denver, CO",
+      "market2": "Salt Lake City, UT",
+      "averageFare": 192.71,
+      "distanceMiles": 391
+    },
+    {
+      "from": "Denver",
+      "to": "San Antonio",
+      "market1": "Denver, CO",
+      "market2": "San Antonio, TX",
+      "averageFare": 210.09,
+      "distanceMiles": 794
+    },
+    {
+      "from": "Denver",
+      "to": "San Diego",
+      "market1": "Denver, CO",
+      "market2": "San Diego, CA",
+      "averageFare": 168.81,
+      "distanceMiles": 853
+    },
+    {
+      "from": "Denver",
+      "to": "San Francisco",
+      "market1": "Denver, CO",
+      "market2": "San Francisco, CA (Metropolitan Area)",
+      "averageFare": 260.71,
+      "distanceMiles": 967
+    },
+    {
+      "from": "Denver",
+      "to": "Seattle",
+      "market1": "Denver, CO",
+      "market2": "Seattle, WA",
+      "averageFare": 192.76,
+      "distanceMiles": 1024
+    },
+    {
+      "from": "Denver",
+      "to": "St. Louis",
+      "market1": "Denver, CO",
+      "market2": "St. Louis, MO",
+      "averageFare": 227.64,
+      "distanceMiles": 770
+    },
+    {
+      "from": "Denver",
+      "to": "Tampa",
+      "market1": "Denver, CO",
+      "market2": "Tampa, FL (Metropolitan Area)",
+      "averageFare": 243.5,
+      "distanceMiles": 1506
+    },
+    {
+      "from": "Detroit",
+      "to": "Houston",
+      "market1": "Detroit, MI",
+      "market2": "Houston, TX",
+      "averageFare": 229.5,
+      "distanceMiles": 1092
+    },
+    {
+      "from": "Detroit",
+      "to": "Kansas City",
+      "market1": "Detroit, MI",
+      "market2": "Kansas City, MO",
+      "averageFare": 385.02,
+      "distanceMiles": 629
+    },
+    {
+      "from": "Detroit",
+      "to": "Las Vegas",
+      "market1": "Detroit, MI",
+      "market2": "Las Vegas, NV",
+      "averageFare": 316.51,
+      "distanceMiles": 1749
+    },
+    {
+      "from": "Detroit",
+      "to": "Los Angeles",
+      "market1": "Detroit, MI",
+      "market2": "Los Angeles, CA (Metropolitan Area)",
+      "averageFare": 381.21,
+      "distanceMiles": 1979
+    },
+    {
+      "from": "Detroit",
+      "to": "Miami",
+      "market1": "Detroit, MI",
+      "market2": "Miami, FL (Metropolitan Area)",
+      "averageFare": 239.82,
+      "distanceMiles": 1145
+    },
+    {
+      "from": "Detroit",
+      "to": "Minneapolis",
+      "market1": "Detroit, MI",
+      "market2": "Minneapolis/St. Paul, MN",
+      "averageFare": 379.23,
+      "distanceMiles": 528
+    },
+    {
+      "from": "Detroit",
+      "to": "Nashville",
+      "market1": "Detroit, MI",
+      "market2": "Nashville, TN",
+      "averageFare": 286.4,
+      "distanceMiles": 456
+    },
+    {
+      "from": "Detroit",
+      "to": "New York",
+      "market1": "Detroit, MI",
+      "market2": "New York City, NY (Metropolitan Area)",
+      "averageFare": 188.15,
+      "distanceMiles": 540
+    },
+    {
+      "from": "Detroit",
+      "to": "Orlando",
+      "market1": "Detroit, MI",
+      "market2": "Orlando, FL",
+      "averageFare": 231.03,
+      "distanceMiles": 957
+    },
+    {
+      "from": "Detroit",
+      "to": "Philadelphia",
+      "market1": "Detroit, MI",
+      "market2": "Philadelphia, PA",
+      "averageFare": 273.45,
+      "distanceMiles": 453
+    },
+    {
+      "from": "Detroit",
+      "to": "Phoenix",
+      "market1": "Detroit, MI",
+      "market2": "Phoenix, AZ",
+      "averageFare": 318.57,
+      "distanceMiles": 1671
+    },
+    {
+      "from": "Detroit",
+      "to": "Portland",
+      "market1": "Detroit, MI",
+      "market2": "Portland, OR",
+      "averageFare": 434.19,
+      "distanceMiles": 1953
+    },
+    {
+      "from": "Detroit",
+      "to": "Salt Lake City",
+      "market1": "Detroit, MI",
+      "market2": "Salt Lake City, UT",
+      "averageFare": 474.27,
+      "distanceMiles": 1481
+    },
+    {
+      "from": "Detroit",
+      "to": "San Antonio",
+      "market1": "Detroit, MI",
+      "market2": "San Antonio, TX",
+      "averageFare": 365.56,
+      "distanceMiles": 1214
+    },
+    {
+      "from": "Detroit",
+      "to": "San Diego",
+      "market1": "Detroit, MI",
+      "market2": "San Diego, CA",
+      "averageFare": 427.43,
+      "distanceMiles": 1956
+    },
+    {
+      "from": "Detroit",
+      "to": "San Francisco",
+      "market1": "Detroit, MI",
+      "market2": "San Francisco, CA (Metropolitan Area)",
+      "averageFare": 426.22,
+      "distanceMiles": 2079
+    },
+    {
+      "from": "Detroit",
+      "to": "Seattle",
+      "market1": "Detroit, MI",
+      "market2": "Seattle, WA",
+      "averageFare": 286.84,
+      "distanceMiles": 1927
+    },
+    {
+      "from": "Detroit",
+      "to": "St. Louis",
+      "market1": "Detroit, MI",
+      "market2": "St. Louis, MO",
+      "averageFare": 306.83,
+      "distanceMiles": 440
+    },
+    {
+      "from": "Detroit",
+      "to": "Tampa",
+      "market1": "Detroit, MI",
+      "market2": "Tampa, FL (Metropolitan Area)",
+      "averageFare": 215.72,
+      "distanceMiles": 983
+    },
+    {
+      "from": "Houston",
+      "to": "Kansas City",
+      "market1": "Houston, TX",
+      "market2": "Kansas City, MO",
+      "averageFare": 290.19,
+      "distanceMiles": 666
+    },
+    {
+      "from": "Houston",
+      "to": "Las Vegas",
+      "market1": "Houston, TX",
+      "market2": "Las Vegas, NV",
+      "averageFare": 255.62,
+      "distanceMiles": 1235
+    },
+    {
+      "from": "Houston",
+      "to": "Los Angeles",
+      "market1": "Houston, TX",
+      "market2": "Los Angeles, CA (Metropolitan Area)",
+      "averageFare": 261.09,
+      "distanceMiles": 1390
+    },
+    {
+      "from": "Houston",
+      "to": "Miami",
+      "market1": "Houston, TX",
+      "market2": "Miami, FL (Metropolitan Area)",
+      "averageFare": 227.02,
+      "distanceMiles": 966
+    },
+    {
+      "from": "Houston",
+      "to": "Minneapolis",
+      "market1": "Houston, TX",
+      "market2": "Minneapolis/St. Paul, MN",
+      "averageFare": 284.64,
+      "distanceMiles": 1057
+    },
+    {
+      "from": "Houston",
+      "to": "Nashville",
+      "market1": "Houston, TX",
+      "market2": "Nashville, TN",
+      "averageFare": 287.48,
+      "distanceMiles": 670
+    },
+    {
+      "from": "Houston",
+      "to": "New York",
+      "market1": "Houston, TX",
+      "market2": "New York City, NY (Metropolitan Area)",
+      "averageFare": 274.27,
+      "distanceMiles": 1465
+    },
+    {
+      "from": "Houston",
+      "to": "Orlando",
+      "market1": "Houston, TX",
+      "market2": "Orlando, FL",
+      "averageFare": 221.07,
+      "distanceMiles": 854
+    },
+    {
+      "from": "Houston",
+      "to": "Philadelphia",
+      "market1": "Houston, TX",
+      "market2": "Philadelphia, PA",
+      "averageFare": 266.04,
+      "distanceMiles": 1336
+    },
+    {
+      "from": "Houston",
+      "to": "Phoenix",
+      "market1": "Houston, TX",
+      "market2": "Phoenix, AZ",
+      "averageFare": 246.91,
+      "distanceMiles": 1020
+    },
+    {
+      "from": "Houston",
+      "to": "Portland",
+      "market1": "Houston, TX",
+      "market2": "Portland, OR",
+      "averageFare": 272.95,
+      "distanceMiles": 1844
+    },
+    {
+      "from": "Houston",
+      "to": "Salt Lake City",
+      "market1": "Houston, TX",
+      "market2": "Salt Lake City, UT",
+      "averageFare": 352.08,
+      "distanceMiles": 1214
+    },
+    {
+      "from": "Houston",
+      "to": "San Antonio",
+      "market1": "Houston, TX",
+      "market2": "San Antonio, TX",
+      "averageFare": 264.8,
+      "distanceMiles": 192
+    },
+    {
+      "from": "Houston",
+      "to": "San Diego",
+      "market1": "Houston, TX",
+      "market2": "San Diego, CA",
+      "averageFare": 343.45,
+      "distanceMiles": 1313
+    },
+    {
+      "from": "Houston",
+      "to": "San Francisco",
+      "market1": "Houston, TX",
+      "market2": "San Francisco, CA (Metropolitan Area)",
+      "averageFare": 336.71,
+      "distanceMiles": 1649
+    },
+    {
+      "from": "Houston",
+      "to": "Seattle",
+      "market1": "Houston, TX",
+      "market2": "Seattle, WA",
+      "averageFare": 300.46,
+      "distanceMiles": 1894
+    },
+    {
+      "from": "Houston",
+      "to": "Tampa",
+      "market1": "Houston, TX",
+      "market2": "Tampa, FL (Metropolitan Area)",
+      "averageFare": 260.91,
+      "distanceMiles": 787
+    },
+    {
+      "from": "Kansas City",
+      "to": "Las Vegas",
+      "market1": "Kansas City, MO",
+      "market2": "Las Vegas, NV",
+      "averageFare": 269.47,
+      "distanceMiles": 1139
+    },
+    {
+      "from": "Kansas City",
+      "to": "Los Angeles",
+      "market1": "Kansas City, MO",
+      "market2": "Los Angeles, CA (Metropolitan Area)",
+      "averageFare": 323.69,
+      "distanceMiles": 1363
+    },
+    {
+      "from": "Kansas City",
+      "to": "Miami",
+      "market1": "Kansas City, MO",
+      "market2": "Miami, FL (Metropolitan Area)",
+      "averageFare": 267.99,
+      "distanceMiles": 1251
+    },
+    {
+      "from": "Kansas City",
+      "to": "Minneapolis",
+      "market1": "Kansas City, MO",
+      "market2": "Minneapolis/St. Paul, MN",
+      "averageFare": 358.8,
+      "distanceMiles": 393
+    },
+    {
+      "from": "Kansas City",
+      "to": "Nashville",
+      "market1": "Kansas City, MO",
+      "market2": "Nashville, TN",
+      "averageFare": 286.29,
+      "distanceMiles": 491
+    },
+    {
+      "from": "Kansas City",
+      "to": "Orlando",
+      "market1": "Kansas City, MO",
+      "market2": "Orlando, FL",
+      "averageFare": 269.75,
+      "distanceMiles": 1072
+    },
+    {
+      "from": "Kansas City",
+      "to": "Philadelphia",
+      "market1": "Kansas City, MO",
+      "market2": "Philadelphia, PA",
+      "averageFare": 324.19,
+      "distanceMiles": 1038
+    },
+    {
+      "from": "Kansas City",
+      "to": "Phoenix",
+      "market1": "Kansas City, MO",
+      "market2": "Phoenix, AZ",
+      "averageFare": 298.07,
+      "distanceMiles": 1044
+    },
+    {
+      "from": "Kansas City",
+      "to": "Portland",
+      "market1": "Kansas City, MO",
+      "market2": "Portland, OR",
+      "averageFare": 214.38,
+      "distanceMiles": 1482
+    },
+    {
+      "from": "Kansas City",
+      "to": "Salt Lake City",
+      "market1": "Kansas City, MO",
+      "market2": "Salt Lake City, UT",
+      "averageFare": 363.76,
+      "distanceMiles": 920
+    },
+    {
+      "from": "Kansas City",
+      "to": "San Diego",
+      "market1": "Kansas City, MO",
+      "market2": "San Diego, CA",
+      "averageFare": 278.39,
+      "distanceMiles": 1334
+    },
+    {
+      "from": "Kansas City",
+      "to": "San Francisco",
+      "market1": "Kansas City, MO",
+      "market2": "San Francisco, CA (Metropolitan Area)",
+      "averageFare": 326.52,
+      "distanceMiles": 1499
+    },
+    {
+      "from": "Kansas City",
+      "to": "Seattle",
+      "market1": "Kansas City, MO",
+      "market2": "Seattle, WA",
+      "averageFare": 252.94,
+      "distanceMiles": 1490
+    },
+    {
+      "from": "Kansas City",
+      "to": "St. Louis",
+      "market1": "Kansas City, MO",
+      "market2": "St. Louis, MO",
+      "averageFare": 297.32,
+      "distanceMiles": 237
+    },
+    {
+      "from": "Kansas City",
+      "to": "Tampa",
+      "market1": "Kansas City, MO",
+      "market2": "Tampa, FL (Metropolitan Area)",
+      "averageFare": 243.0,
+      "distanceMiles": 1048
+    },
+    {
+      "from": "Las Vegas",
+      "to": "Los Angeles",
+      "market1": "Las Vegas, NV",
+      "market2": "Los Angeles, CA (Metropolitan Area)",
+      "averageFare": 157.56,
+      "distanceMiles": 236
+    },
+    {
+      "from": "Las Vegas",
+      "to": "Miami",
+      "market1": "Las Vegas, NV",
+      "market2": "Miami, FL (Metropolitan Area)",
+      "averageFare": 352.32,
+      "distanceMiles": 2174
+    },
+    {
+      "from": "Las Vegas",
+      "to": "Minneapolis",
+      "market1": "Las Vegas, NV",
+      "market2": "Minneapolis/St. Paul, MN",
+      "averageFare": 255.39,
+      "distanceMiles": 1299
+    },
+    {
+      "from": "Las Vegas",
+      "to": "Nashville",
+      "market1": "Las Vegas, NV",
+      "market2": "Nashville, TN",
+      "averageFare": 307.65,
+      "distanceMiles": 1587
+    },
+    {
+      "from": "Las Vegas",
+      "to": "New York",
+      "market1": "Las Vegas, NV",
+      "market2": "New York City, NY (Metropolitan Area)",
+      "averageFare": 368.95,
+      "distanceMiles": 2282
+    },
+    {
+      "from": "Las Vegas",
+      "to": "Orlando",
+      "market1": "Las Vegas, NV",
+      "market2": "Orlando, FL",
+      "averageFare": 270.07,
+      "distanceMiles": 2039
+    },
+    {
+      "from": "Las Vegas",
+      "to": "Philadelphia",
+      "market1": "Las Vegas, NV",
+      "market2": "Philadelphia, PA",
+      "averageFare": 390.6,
+      "distanceMiles": 2177
+    },
+    {
+      "from": "Las Vegas",
+      "to": "Phoenix",
+      "market1": "Las Vegas, NV",
+      "market2": "Phoenix, AZ",
+      "averageFare": 190.61,
+      "distanceMiles": 276
+    },
+    {
+      "from": "Las Vegas",
+      "to": "Portland",
+      "market1": "Las Vegas, NV",
+      "market2": "Portland, OR",
+      "averageFare": 200.64,
+      "distanceMiles": 763
+    },
+    {
+      "from": "Las Vegas",
+      "to": "Salt Lake City",
+      "market1": "Las Vegas, NV",
+      "market2": "Salt Lake City, UT",
+      "averageFare": 220.87,
+      "distanceMiles": 368
+    },
+    {
+      "from": "Las Vegas",
+      "to": "San Antonio",
+      "market1": "Las Vegas, NV",
+      "market2": "San Antonio, TX",
+      "averageFare": 261.91,
+      "distanceMiles": 1069
+    },
+    {
+      "from": "Las Vegas",
+      "to": "San Diego",
+      "market1": "Las Vegas, NV",
+      "market2": "San Diego, CA",
+      "averageFare": 144.95,
+      "distanceMiles": 258
+    },
+    {
+      "from": "Las Vegas",
+      "to": "San Francisco",
+      "market1": "Las Vegas, NV",
+      "market2": "San Francisco, CA (Metropolitan Area)",
+      "averageFare": 200.66,
+      "distanceMiles": 414
+    },
+    {
+      "from": "Las Vegas",
+      "to": "Seattle",
+      "market1": "Las Vegas, NV",
+      "market2": "Seattle, WA",
+      "averageFare": 198.75,
+      "distanceMiles": 867
+    },
+    {
+      "from": "Las Vegas",
+      "to": "St. Louis",
+      "market1": "Las Vegas, NV",
+      "market2": "St. Louis, MO",
+      "averageFare": 272.48,
+      "distanceMiles": 1371
+    },
+    {
+      "from": "Las Vegas",
+      "to": "Tampa",
+      "market1": "Las Vegas, NV",
+      "market2": "Tampa, FL (Metropolitan Area)",
+      "averageFare": 323.54,
+      "distanceMiles": 1984
+    },
+    {
+      "from": "Los Angeles",
+      "to": "Miami",
+      "market1": "Los Angeles, CA (Metropolitan Area)",
+      "market2": "Miami, FL (Metropolitan Area)",
+      "averageFare": 407.08,
+      "distanceMiles": 2343
+    },
+    {
+      "from": "Los Angeles",
+      "to": "Minneapolis",
+      "market1": "Los Angeles, CA (Metropolitan Area)",
+      "market2": "Minneapolis/St. Paul, MN",
+      "averageFare": 332.41,
+      "distanceMiles": 1535
+    },
+    {
+      "from": "Los Angeles",
+      "to": "Nashville",
+      "market1": "Los Angeles, CA (Metropolitan Area)",
+      "market2": "Nashville, TN",
+      "averageFare": 347.79,
+      "distanceMiles": 1798
+    },
+    {
+      "from": "Los Angeles",
+      "to": "New York",
+      "market1": "Los Angeles, CA (Metropolitan Area)",
+      "market2": "New York City, NY (Metropolitan Area)",
+      "averageFare": 454.42,
+      "distanceMiles": 2510
+    },
+    {
+      "from": "Los Angeles",
+      "to": "Orlando",
+      "market1": "Los Angeles, CA (Metropolitan Area)",
+      "market2": "Orlando, FL",
+      "averageFare": 323.74,
+      "distanceMiles": 2218
+    },
+    {
+      "from": "Los Angeles",
+      "to": "Philadelphia",
+      "market1": "Los Angeles, CA (Metropolitan Area)",
+      "market2": "Philadelphia, PA",
+      "averageFare": 410.34,
+      "distanceMiles": 2402
+    },
+    {
+      "from": "Los Angeles",
+      "to": "Phoenix",
+      "market1": "Los Angeles, CA (Metropolitan Area)",
+      "market2": "Phoenix, AZ",
+      "averageFare": 199.84,
+      "distanceMiles": 373
+    },
+    {
+      "from": "Los Angeles",
+      "to": "Portland",
+      "market1": "Los Angeles, CA (Metropolitan Area)",
+      "market2": "Portland, OR",
+      "averageFare": 206.45,
+      "distanceMiles": 859
+    },
+    {
+      "from": "Los Angeles",
+      "to": "Salt Lake City",
+      "market1": "Los Angeles, CA (Metropolitan Area)",
+      "market2": "Salt Lake City, UT",
+      "averageFare": 236.72,
+      "distanceMiles": 590
+    },
+    {
+      "from": "Los Angeles",
+      "to": "San Antonio",
+      "market1": "Los Angeles, CA (Metropolitan Area)",
+      "market2": "San Antonio, TX",
+      "averageFare": 294.41,
+      "distanceMiles": 1211
+    },
+    {
+      "from": "Los Angeles",
+      "to": "San Diego",
+      "market1": "Los Angeles, CA (Metropolitan Area)",
+      "market2": "San Diego, CA",
+      "averageFare": 274.42,
+      "distanceMiles": 122
+    },
+    {
+      "from": "Los Angeles",
+      "to": "San Francisco",
+      "market1": "Los Angeles, CA (Metropolitan Area)",
+      "market2": "San Francisco, CA (Metropolitan Area)",
+      "averageFare": 201.48,
+      "distanceMiles": 379
+    },
+    {
+      "from": "Los Angeles",
+      "to": "Seattle",
+      "market1": "Los Angeles, CA (Metropolitan Area)",
+      "market2": "Seattle, WA",
+      "averageFare": 208.9,
+      "distanceMiles": 978
+    },
+    {
+      "from": "Los Angeles",
+      "to": "St. Louis",
+      "market1": "Los Angeles, CA (Metropolitan Area)",
+      "market2": "St. Louis, MO",
+      "averageFare": 305.02,
+      "distanceMiles": 1592
+    },
+    {
+      "from": "Los Angeles",
+      "to": "Tampa",
+      "market1": "Los Angeles, CA (Metropolitan Area)",
+      "market2": "Tampa, FL (Metropolitan Area)",
+      "averageFare": 345.29,
+      "distanceMiles": 2158
+    },
+    {
+      "from": "Miami",
+      "to": "Minneapolis",
+      "market1": "Miami, FL (Metropolitan Area)",
+      "market2": "Minneapolis/St. Paul, MN",
+      "averageFare": 281.14,
+      "distanceMiles": 1501
+    },
+    {
+      "from": "Miami",
+      "to": "Nashville",
+      "market1": "Miami, FL (Metropolitan Area)",
+      "market2": "Nashville, TN",
+      "averageFare": 242.27,
+      "distanceMiles": 806
+    },
+    {
+      "from": "Miami",
+      "to": "New York",
+      "market1": "Miami, FL (Metropolitan Area)",
+      "market2": "New York City, NY (Metropolitan Area)",
+      "averageFare": 238.05,
+      "distanceMiles": 1118
+    },
+    {
+      "from": "Miami",
+      "to": "Orlando",
+      "market1": "Miami, FL (Metropolitan Area)",
+      "market2": "Orlando, FL",
+      "averageFare": 176.83,
+      "distanceMiles": 192
+    },
+    {
+      "from": "Miami",
+      "to": "Philadelphia",
+      "market1": "Miami, FL (Metropolitan Area)",
+      "market2": "Philadelphia, PA",
+      "averageFare": 220.15,
+      "distanceMiles": 1013
+    },
+    {
+      "from": "Miami",
+      "to": "Phoenix",
+      "market1": "Miami, FL (Metropolitan Area)",
+      "market2": "Phoenix, AZ",
+      "averageFare": 317.99,
+      "distanceMiles": 1972
+    },
+    {
+      "from": "Miami",
+      "to": "Salt Lake City",
+      "market1": "Miami, FL (Metropolitan Area)",
+      "market2": "Salt Lake City, UT",
+      "averageFare": 385.49,
+      "distanceMiles": 2088
+    },
+    {
+      "from": "Miami",
+      "to": "San Antonio",
+      "market1": "Miami, FL (Metropolitan Area)",
+      "market2": "San Antonio, TX",
+      "averageFare": 258.45,
+      "distanceMiles": 1145
+    },
+    {
+      "from": "Miami",
+      "to": "San Diego",
+      "market1": "Miami, FL (Metropolitan Area)",
+      "market2": "San Diego, CA",
+      "averageFare": 340.75,
+      "distanceMiles": 2269
+    },
+    {
+      "from": "Miami",
+      "to": "San Francisco",
+      "market1": "Miami, FL (Metropolitan Area)",
+      "market2": "San Francisco, CA (Metropolitan Area)",
+      "averageFare": 397.94,
+      "distanceMiles": 2585
+    },
+    {
+      "from": "Miami",
+      "to": "Seattle",
+      "market1": "Miami, FL (Metropolitan Area)",
+      "market2": "Seattle, WA",
+      "averageFare": 330.75,
+      "distanceMiles": 2724
+    },
+    {
+      "from": "Miami",
+      "to": "St. Louis",
+      "market1": "Miami, FL (Metropolitan Area)",
+      "market2": "St. Louis, MO",
+      "averageFare": 304.76,
+      "distanceMiles": 1068
+    },
+    {
+      "from": "Miami",
+      "to": "Tampa",
+      "market1": "Miami, FL (Metropolitan Area)",
+      "market2": "Tampa, FL (Metropolitan Area)",
+      "averageFare": 211.62,
+      "distanceMiles": 204
+    },
+    {
+      "from": "Minneapolis",
+      "to": "Nashville",
+      "market1": "Minneapolis/St. Paul, MN",
+      "market2": "Nashville, TN",
+      "averageFare": 253.99,
+      "distanceMiles": 695
+    },
+    {
+      "from": "Minneapolis",
+      "to": "New York",
+      "market1": "Minneapolis/St. Paul, MN",
+      "market2": "New York City, NY (Metropolitan Area)",
+      "averageFare": 342.02,
+      "distanceMiles": 1057
+    },
+    {
+      "from": "Minneapolis",
+      "to": "Orlando",
+      "market1": "Minneapolis/St. Paul, MN",
+      "market2": "Orlando, FL",
+      "averageFare": 252.94,
+      "distanceMiles": 1310
+    },
+    {
+      "from": "Minneapolis",
+      "to": "Philadelphia",
+      "market1": "Minneapolis/St. Paul, MN",
+      "market2": "Philadelphia, PA",
+      "averageFare": 330.35,
+      "distanceMiles": 981
+    },
+    {
+      "from": "Minneapolis",
+      "to": "Phoenix",
+      "market1": "Minneapolis/St. Paul, MN",
+      "market2": "Phoenix, AZ",
+      "averageFare": 268.38,
+      "distanceMiles": 1276
+    },
+    {
+      "from": "Minneapolis",
+      "to": "Portland",
+      "market1": "Minneapolis/St. Paul, MN",
+      "market2": "Portland, OR",
+      "averageFare": 312.65,
+      "distanceMiles": 1426
+    },
+    {
+      "from": "Minneapolis",
+      "to": "Salt Lake City",
+      "market1": "Minneapolis/St. Paul, MN",
+      "market2": "Salt Lake City, UT",
+      "averageFare": 411.88,
+      "distanceMiles": 991
+    },
+    {
+      "from": "Minneapolis",
+      "to": "San Antonio",
+      "market1": "Minneapolis/St. Paul, MN",
+      "market2": "San Antonio, TX",
+      "averageFare": 369.34,
+      "distanceMiles": 1097
+    },
+    {
+      "from": "Minneapolis",
+      "to": "San Diego",
+      "market1": "Minneapolis/St. Paul, MN",
+      "market2": "San Diego, CA",
+      "averageFare": 317.28,
+      "distanceMiles": 1532
+    },
+    {
+      "from": "Minneapolis",
+      "to": "San Francisco",
+      "market1": "Minneapolis/St. Paul, MN",
+      "market2": "San Francisco, CA (Metropolitan Area)",
+      "averageFare": 344.22,
+      "distanceMiles": 1589
+    },
+    {
+      "from": "Minneapolis",
+      "to": "Seattle",
+      "market1": "Minneapolis/St. Paul, MN",
+      "market2": "Seattle, WA",
+      "averageFare": 261.46,
+      "distanceMiles": 1399
+    },
+    {
+      "from": "Minneapolis",
+      "to": "St. Louis",
+      "market1": "Minneapolis/St. Paul, MN",
+      "market2": "St. Louis, MO",
+      "averageFare": 293.39,
+      "distanceMiles": 448
+    },
+    {
+      "from": "Minneapolis",
+      "to": "Tampa",
+      "market1": "Minneapolis/St. Paul, MN",
+      "market2": "Tampa, FL (Metropolitan Area)",
+      "averageFare": 247.51,
+      "distanceMiles": 1307
+    },
+    {
+      "from": "Nashville",
+      "to": "New York",
+      "market1": "Nashville, TN",
+      "market2": "New York City, NY (Metropolitan Area)",
+      "averageFare": 193.86,
+      "distanceMiles": 803
+    },
+    {
+      "from": "Nashville",
+      "to": "Orlando",
+      "market1": "Nashville, TN",
+      "market2": "Orlando, FL",
+      "averageFare": 229.31,
+      "distanceMiles": 616
+    },
+    {
+      "from": "Nashville",
+      "to": "Philadelphia",
+      "market1": "Nashville, TN",
+      "market2": "Philadelphia, PA",
+      "averageFare": 259.91,
+      "distanceMiles": 675
+    },
+    {
+      "from": "Nashville",
+      "to": "Phoenix",
+      "market1": "Nashville, TN",
+      "market2": "Phoenix, AZ",
+      "averageFare": 296.15,
+      "distanceMiles": 1449
+    },
+    {
+      "from": "Nashville",
+      "to": "Portland",
+      "market1": "Nashville, TN",
+      "market2": "Portland, OR",
+      "averageFare": 258.02,
+      "distanceMiles": 1973
+    },
+    {
+      "from": "Nashville",
+      "to": "Salt Lake City",
+      "market1": "Nashville, TN",
+      "market2": "Salt Lake City, UT",
+      "averageFare": 394.01,
+      "distanceMiles": 1404
+    },
+    {
+      "from": "Nashville",
+      "to": "San Antonio",
+      "market1": "Nashville, TN",
+      "market2": "San Antonio, TX",
+      "averageFare": 292.85,
+      "distanceMiles": 822
+    },
+    {
+      "from": "Nashville",
+      "to": "San Diego",
+      "market1": "Nashville, TN",
+      "market2": "San Diego, CA",
+      "averageFare": 310.73,
+      "distanceMiles": 1751
+    },
+    {
+      "from": "Nashville",
+      "to": "San Francisco",
+      "market1": "Nashville, TN",
+      "market2": "San Francisco, CA (Metropolitan Area)",
+      "averageFare": 324.02,
+      "distanceMiles": 1969
+    },
+    {
+      "from": "Nashville",
+      "to": "Seattle",
+      "market1": "Nashville, TN",
+      "market2": "Seattle, WA",
+      "averageFare": 292.86,
+      "distanceMiles": 1978
+    },
+    {
+      "from": "Nashville",
+      "to": "St. Louis",
+      "market1": "Nashville, TN",
+      "market2": "St. Louis, MO",
+      "averageFare": 274.9,
+      "distanceMiles": 272
+    },
+    {
+      "from": "Nashville",
+      "to": "Tampa",
+      "market1": "Nashville, TN",
+      "market2": "Tampa, FL (Metropolitan Area)",
+      "averageFare": 206.59,
+      "distanceMiles": 623
+    },
+    {
+      "from": "New York",
+      "to": "Orlando",
+      "market1": "New York City, NY (Metropolitan Area)",
+      "market2": "Orlando, FL",
+      "averageFare": 189.55,
+      "distanceMiles": 989
+    },
+    {
+      "from": "New York",
+      "to": "Phoenix",
+      "market1": "New York City, NY (Metropolitan Area)",
+      "market2": "Phoenix, AZ",
+      "averageFare": 322.22,
+      "distanceMiles": 2189
+    },
+    {
+      "from": "New York",
+      "to": "Portland",
+      "market1": "New York City, NY (Metropolitan Area)",
+      "market2": "Portland, OR",
+      "averageFare": 331.76,
+      "distanceMiles": 2482
+    },
+    {
+      "from": "New York",
+      "to": "Salt Lake City",
+      "market1": "New York City, NY (Metropolitan Area)",
+      "market2": "Salt Lake City, UT",
+      "averageFare": 429.67,
+      "distanceMiles": 2022
+    },
+    {
+      "from": "New York",
+      "to": "San Antonio",
+      "market1": "New York City, NY (Metropolitan Area)",
+      "market2": "San Antonio, TX",
+      "averageFare": 313.04,
+      "distanceMiles": 1624
+    },
+    {
+      "from": "New York",
+      "to": "San Diego",
+      "market1": "New York City, NY (Metropolitan Area)",
+      "market2": "San Diego, CA",
+      "averageFare": 334.28,
+      "distanceMiles": 2481
+    },
+    {
+      "from": "New York",
+      "to": "San Francisco",
+      "market1": "New York City, NY (Metropolitan Area)",
+      "market2": "San Francisco, CA (Metropolitan Area)",
+      "averageFare": 517.88,
+      "distanceMiles": 2619
+    },
+    {
+      "from": "New York",
+      "to": "Seattle",
+      "market1": "New York City, NY (Metropolitan Area)",
+      "market2": "Seattle, WA",
+      "averageFare": 318.36,
+      "distanceMiles": 2448
+    },
+    {
+      "from": "New York",
+      "to": "Tampa",
+      "market1": "New York City, NY (Metropolitan Area)",
+      "market2": "Tampa, FL (Metropolitan Area)",
+      "averageFare": 201.92,
+      "distanceMiles": 1055
+    },
+    {
+      "from": "Orlando",
+      "to": "Philadelphia",
+      "market1": "Orlando, FL",
+      "market2": "Philadelphia, PA",
+      "averageFare": 207.5,
+      "distanceMiles": 862
+    },
+    {
+      "from": "Orlando",
+      "to": "Phoenix",
+      "market1": "Orlando, FL",
+      "market2": "Phoenix, AZ",
+      "averageFare": 326.58,
+      "distanceMiles": 1849
+    },
+    {
+      "from": "Orlando",
+      "to": "Portland",
+      "market1": "Orlando, FL",
+      "market2": "Portland, OR",
+      "averageFare": 311.95,
+      "distanceMiles": 2535
+    },
+    {
+      "from": "Orlando",
+      "to": "Salt Lake City",
+      "market1": "Orlando, FL",
+      "market2": "Salt Lake City, UT",
+      "averageFare": 367.23,
+      "distanceMiles": 1931
+    },
+    {
+      "from": "Orlando",
+      "to": "San Antonio",
+      "market1": "Orlando, FL",
+      "market2": "San Antonio, TX",
+      "averageFare": 231.77,
+      "distanceMiles": 1041
+    },
+    {
+      "from": "Orlando",
+      "to": "San Diego",
+      "market1": "Orlando, FL",
+      "market2": "San Diego, CA",
+      "averageFare": 287.84,
+      "distanceMiles": 2149
+    },
+    {
+      "from": "Orlando",
+      "to": "San Francisco",
+      "market1": "Orlando, FL",
+      "market2": "San Francisco, CA (Metropolitan Area)",
+      "averageFare": 361.37,
+      "distanceMiles": 2446
+    },
+    {
+      "from": "Orlando",
+      "to": "Seattle",
+      "market1": "Orlando, FL",
+      "market2": "Seattle, WA",
+      "averageFare": 328.12,
+      "distanceMiles": 2554
+    },
+    {
+      "from": "Orlando",
+      "to": "St. Louis",
+      "market1": "Orlando, FL",
+      "market2": "St. Louis, MO",
+      "averageFare": 246.65,
+      "distanceMiles": 882
+    },
+    {
+      "from": "Philadelphia",
+      "to": "Phoenix",
+      "market1": "Philadelphia, PA",
+      "market2": "Phoenix, AZ",
+      "averageFare": 373.35,
+      "distanceMiles": 2076
+    },
+    {
+      "from": "Philadelphia",
+      "to": "Portland",
+      "market1": "Philadelphia, PA",
+      "market2": "Portland, OR",
+      "averageFare": 358.84,
+      "distanceMiles": 2406
+    },
+    {
+      "from": "Philadelphia",
+      "to": "Salt Lake City",
+      "market1": "Philadelphia, PA",
+      "market2": "Salt Lake City, UT",
+      "averageFare": 377.34,
+      "distanceMiles": 1927
+    },
+    {
+      "from": "Philadelphia",
+      "to": "San Antonio",
+      "market1": "Philadelphia, PA",
+      "market2": "San Antonio, TX",
+      "averageFare": 328.25,
+      "distanceMiles": 1496
+    },
+    {
+      "from": "Philadelphia",
+      "to": "San Diego",
+      "market1": "Philadelphia, PA",
+      "market2": "San Diego, CA",
+      "averageFare": 371.04,
+      "distanceMiles": 2370
+    },
+    {
+      "from": "Philadelphia",
+      "to": "San Francisco",
+      "market1": "Philadelphia, PA",
+      "market2": "San Francisco, CA (Metropolitan Area)",
+      "averageFare": 367.9,
+      "distanceMiles": 2522
+    },
+    {
+      "from": "Philadelphia",
+      "to": "Seattle",
+      "market1": "Philadelphia, PA",
+      "market2": "Seattle, WA",
+      "averageFare": 321.44,
+      "distanceMiles": 2379
+    },
+    {
+      "from": "Philadelphia",
+      "to": "St. Louis",
+      "market1": "Philadelphia, PA",
+      "market2": "St. Louis, MO",
+      "averageFare": 314.55,
+      "distanceMiles": 814
+    },
+    {
+      "from": "Philadelphia",
+      "to": "Tampa",
+      "market1": "Philadelphia, PA",
+      "market2": "Tampa, FL (Metropolitan Area)",
+      "averageFare": 225.37,
+      "distanceMiles": 920
+    },
+    {
+      "from": "Phoenix",
+      "to": "Portland",
+      "market1": "Phoenix, AZ",
+      "market2": "Portland, OR",
+      "averageFare": 225.28,
+      "distanceMiles": 1028
+    },
+    {
+      "from": "Phoenix",
+      "to": "Salt Lake City",
+      "market1": "Phoenix, AZ",
+      "market2": "Salt Lake City, UT",
+      "averageFare": 228.02,
+      "distanceMiles": 507
+    },
+    {
+      "from": "Phoenix",
+      "to": "San Antonio",
+      "market1": "Phoenix, AZ",
+      "market2": "San Antonio, TX",
+      "averageFare": 256.25,
+      "distanceMiles": 843
+    },
+    {
+      "from": "Phoenix",
+      "to": "San Diego",
+      "market1": "Phoenix, AZ",
+      "market2": "San Diego, CA",
+      "averageFare": 161.74,
+      "distanceMiles": 304
+    },
+    {
+      "from": "Phoenix",
+      "to": "San Francisco",
+      "market1": "Phoenix, AZ",
+      "market2": "San Francisco, CA (Metropolitan Area)",
+      "averageFare": 217.15,
+      "distanceMiles": 651
+    },
+    {
+      "from": "Phoenix",
+      "to": "Seattle",
+      "market1": "Phoenix, AZ",
+      "market2": "Seattle, WA",
+      "averageFare": 212.4,
+      "distanceMiles": 1107
+    },
+    {
+      "from": "Phoenix",
+      "to": "St. Louis",
+      "market1": "Phoenix, AZ",
+      "market2": "St. Louis, MO",
+      "averageFare": 265.86,
+      "distanceMiles": 1262
+    },
+    {
+      "from": "Phoenix",
+      "to": "Tampa",
+      "market1": "Phoenix, AZ",
+      "market2": "Tampa, FL (Metropolitan Area)",
+      "averageFare": 363.72,
+      "distanceMiles": 1788
+    },
+    {
+      "from": "Portland",
+      "to": "Salt Lake City",
+      "market1": "Portland, OR",
+      "market2": "Salt Lake City, UT",
+      "averageFare": 211.46,
+      "distanceMiles": 630
+    },
+    {
+      "from": "Portland",
+      "to": "San Diego",
+      "market1": "Portland, OR",
+      "market2": "San Diego, CA",
+      "averageFare": 215.24,
+      "distanceMiles": 933
+    },
+    {
+      "from": "Portland",
+      "to": "San Francisco",
+      "market1": "Portland, OR",
+      "market2": "San Francisco, CA (Metropolitan Area)",
+      "averageFare": 202.93,
+      "distanceMiles": 569
+    },
+    {
+      "from": "Portland",
+      "to": "Seattle",
+      "market1": "Portland, OR",
+      "market2": "Seattle, WA",
+      "averageFare": 215.13,
+      "distanceMiles": 135
+    },
+    {
+      "from": "Portland",
+      "to": "St. Louis",
+      "market1": "Portland, OR",
+      "market2": "St. Louis, MO",
+      "averageFare": 301.29,
+      "distanceMiles": 1708
+    },
+    {
+      "from": "Salt Lake City",
+      "to": "San Antonio",
+      "market1": "Salt Lake City, UT",
+      "market2": "San Antonio, TX",
+      "averageFare": 354.49,
+      "distanceMiles": 1087
+    },
+    {
+      "from": "Salt Lake City",
+      "to": "San Diego",
+      "market1": "Salt Lake City, UT",
+      "market2": "San Diego, CA",
+      "averageFare": 201.04,
+      "distanceMiles": 626
+    },
+    {
+      "from": "Salt Lake City",
+      "to": "San Francisco",
+      "market1": "Salt Lake City, UT",
+      "market2": "San Francisco, CA (Metropolitan Area)",
+      "averageFare": 252.96,
+      "distanceMiles": 599
+    },
+    {
+      "from": "Salt Lake City",
+      "to": "Seattle",
+      "market1": "Salt Lake City, UT",
+      "market2": "Seattle, WA",
+      "averageFare": 203.64,
+      "distanceMiles": 689
+    },
+    {
+      "from": "Salt Lake City",
+      "to": "St. Louis",
+      "market1": "Salt Lake City, UT",
+      "market2": "St. Louis, MO",
+      "averageFare": 363.58,
+      "distanceMiles": 1156
+    },
+    {
+      "from": "Salt Lake City",
+      "to": "Tampa",
+      "market1": "Salt Lake City, UT",
+      "market2": "Tampa, FL (Metropolitan Area)",
+      "averageFare": 373.69,
+      "distanceMiles": 1888
+    },
+    {
+      "from": "San Antonio",
+      "to": "San Diego",
+      "market1": "San Antonio, TX",
+      "market2": "San Diego, CA",
+      "averageFare": 290.18,
+      "distanceMiles": 1129
+    },
+    {
+      "from": "San Antonio",
+      "to": "San Francisco",
+      "market1": "San Antonio, TX",
+      "market2": "San Francisco, CA (Metropolitan Area)",
+      "averageFare": 299.99,
+      "distanceMiles": 1482
+    },
+    {
+      "from": "San Antonio",
+      "to": "Seattle",
+      "market1": "San Antonio, TX",
+      "market2": "Seattle, WA",
+      "averageFare": 254.62,
+      "distanceMiles": 1774
+    },
+    {
+      "from": "San Antonio",
+      "to": "St. Louis",
+      "market1": "San Antonio, TX",
+      "market2": "St. Louis, MO",
+      "averageFare": 288.15,
+      "distanceMiles": 786
+    },
+    {
+      "from": "San Diego",
+      "to": "San Francisco",
+      "market1": "San Diego, CA",
+      "market2": "San Francisco, CA (Metropolitan Area)",
+      "averageFare": 186.36,
+      "distanceMiles": 447
+    },
+    {
+      "from": "San Diego",
+      "to": "Seattle",
+      "market1": "San Diego, CA",
+      "market2": "Seattle, WA",
+      "averageFare": 213.98,
+      "distanceMiles": 1050
+    },
+    {
+      "from": "San Diego",
+      "to": "St. Louis",
+      "market1": "San Diego, CA",
+      "market2": "St. Louis, MO",
+      "averageFare": 304.58,
+      "distanceMiles": 1557
+    },
+    {
+      "from": "San Diego",
+      "to": "Tampa",
+      "market1": "San Diego, CA",
+      "market2": "Tampa, FL (Metropolitan Area)",
+      "averageFare": 269.87,
+      "distanceMiles": 2087
+    },
+    {
+      "from": "San Francisco",
+      "to": "Seattle",
+      "market1": "San Francisco, CA (Metropolitan Area)",
+      "market2": "Seattle, WA",
+      "averageFare": 224.63,
+      "distanceMiles": 696
+    },
+    {
+      "from": "San Francisco",
+      "to": "St. Louis",
+      "market1": "San Francisco, CA (Metropolitan Area)",
+      "market2": "St. Louis, MO",
+      "averageFare": 376.36,
+      "distanceMiles": 1735
+    },
+    {
+      "from": "San Francisco",
+      "to": "Tampa",
+      "market1": "San Francisco, CA (Metropolitan Area)",
+      "market2": "Tampa, FL (Metropolitan Area)",
+      "averageFare": 359.45,
+      "distanceMiles": 2393
+    },
+    {
+      "from": "Seattle",
+      "to": "St. Louis",
+      "market1": "Seattle, WA",
+      "market2": "St. Louis, MO",
+      "averageFare": 251.65,
+      "distanceMiles": 1709
+    },
+    {
+      "from": "Seattle",
+      "to": "Tampa",
+      "market1": "Seattle, WA",
+      "market2": "Tampa, FL (Metropolitan Area)",
+      "averageFare": 320.25,
+      "distanceMiles": 2520
+    },
+    {
+      "from": "St. Louis",
+      "to": "Tampa",
+      "market1": "St. Louis, MO",
+      "market2": "Tampa, FL (Metropolitan Area)",
+      "averageFare": 267.42,
+      "distanceMiles": 869
+    }
+  ]
+}

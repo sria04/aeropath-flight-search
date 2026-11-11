@@ -1,0 +1,3263 @@
+{
+  "source": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2026_8.zip",
+  "period": "2026-08",
+  "selection": "Observed non-cancelled nonstop links between the 30 chosen airports, with at least 30 completed flights in each direction in August 2026. ScheduledMinutes is the average reported scheduled elapsed time, rounded to a minute.",
+  "routes": [
+    {
+      "from": "Atlanta",
+      "to": "Austin",
+      "originAirport": "ATL",
+      "destinationAirport": "AUS",
+      "completedFlights": 739,
+      "scheduledMinutes": 144
+    },
+    {
+      "from": "Atlanta",
+      "to": "Baltimore",
+      "originAirport": "ATL",
+      "destinationAirport": "BWI",
+      "completedFlights": 938,
+      "scheduledMinutes": 117
+    },
+    {
+      "from": "Atlanta",
+      "to": "Boston",
+      "originAirport": "ATL",
+      "destinationAirport": "BOS",
+      "completedFlights": 935,
+      "scheduledMinutes": 168
+    },
+    {
+      "from": "Atlanta",
+      "to": "Charlotte",
+      "originAirport": "ATL",
+      "destinationAirport": "CLT",
+      "completedFlights": 793,
+      "scheduledMinutes": 80
+    },
+    {
+      "from": "Atlanta",
+      "to": "Chicago",
+      "originAirport": "ATL",
+      "destinationAirport": "ORD",
+      "completedFlights": 1230,
+      "scheduledMinutes": 135
+    },
+    {
+      "from": "Atlanta",
+      "to": "Cincinnati",
+      "originAirport": "ATL",
+      "destinationAirport": "CVG",
+      "completedFlights": 542,
+      "scheduledMinutes": 90
+    },
+    {
+      "from": "Atlanta",
+      "to": "Cleveland",
+      "originAirport": "ATL",
+      "destinationAirport": "CLE",
+      "completedFlights": 600,
+      "scheduledMinutes": 113
+    },
+    {
+      "from": "Atlanta",
+      "to": "Dallas",
+      "originAirport": "ATL",
+      "destinationAirport": "DFW",
+      "completedFlights": 1058,
+      "scheduledMinutes": 141
+    },
+    {
+      "from": "Atlanta",
+      "to": "Denver",
+      "originAirport": "ATL",
+      "destinationAirport": "DEN",
+      "completedFlights": 980,
+      "scheduledMinutes": 190
+    },
+    {
+      "from": "Atlanta",
+      "to": "Detroit",
+      "originAirport": "ATL",
+      "destinationAirport": "DTW",
+      "completedFlights": 837,
+      "scheduledMinutes": 121
+    },
+    {
+      "from": "Atlanta",
+      "to": "Houston",
+      "originAirport": "ATL",
+      "destinationAirport": "IAH",
+      "completedFlights": 835,
+      "scheduledMinutes": 133
+    },
+    {
+      "from": "Atlanta",
+      "to": "Kansas City",
+      "originAirport": "ATL",
+      "destinationAirport": "MCI",
+      "completedFlights": 554,
+      "scheduledMinutes": 128
+    },
+    {
+      "from": "Atlanta",
+      "to": "Las Vegas",
+      "originAirport": "ATL",
+      "destinationAirport": "LAS",
+      "completedFlights": 771,
+      "scheduledMinutes": 247
+    },
+    {
+      "from": "Atlanta",
+      "to": "Los Angeles",
+      "originAirport": "ATL",
+      "destinationAirport": "LAX",
+      "completedFlights": 773,
+      "scheduledMinutes": 273
+    },
+    {
+      "from": "Atlanta",
+      "to": "Miami",
+      "originAirport": "ATL",
+      "destinationAirport": "MIA",
+      "completedFlights": 1006,
+      "scheduledMinutes": 127
+    },
+    {
+      "from": "Atlanta",
+      "to": "Minneapolis",
+      "originAirport": "ATL",
+      "destinationAirport": "MSP",
+      "completedFlights": 617,
+      "scheduledMinutes": 158
+    },
+    {
+      "from": "Atlanta",
+      "to": "Nashville",
+      "originAirport": "ATL",
+      "destinationAirport": "BNA",
+      "completedFlights": 725,
+      "scheduledMinutes": 72
+    },
+    {
+      "from": "Atlanta",
+      "to": "New York",
+      "originAirport": "ATL",
+      "destinationAirport": "JFK",
+      "completedFlights": 685,
+      "scheduledMinutes": 156
+    },
+    {
+      "from": "Atlanta",
+      "to": "Orlando",
+      "originAirport": "ATL",
+      "destinationAirport": "MCO",
+      "completedFlights": 1358,
+      "scheduledMinutes": 102
+    },
+    {
+      "from": "Atlanta",
+      "to": "Philadelphia",
+      "originAirport": "ATL",
+      "destinationAirport": "PHL",
+      "completedFlights": 1067,
+      "scheduledMinutes": 134
+    },
+    {
+      "from": "Atlanta",
+      "to": "Phoenix",
+      "originAirport": "ATL",
+      "destinationAirport": "PHX",
+      "completedFlights": 521,
+      "scheduledMinutes": 232
+    },
+    {
+      "from": "Atlanta",
+      "to": "Portland",
+      "originAirport": "ATL",
+      "destinationAirport": "PDX",
+      "completedFlights": 312,
+      "scheduledMinutes": 294
+    },
+    {
+      "from": "Atlanta",
+      "to": "Salt Lake City",
+      "originAirport": "ATL",
+      "destinationAirport": "SLC",
+      "completedFlights": 501,
+      "scheduledMinutes": 233
+    },
+    {
+      "from": "Atlanta",
+      "to": "San Antonio",
+      "originAirport": "ATL",
+      "destinationAirport": "SAT",
+      "completedFlights": 460,
+      "scheduledMinutes": 148
+    },
+    {
+      "from": "Atlanta",
+      "to": "San Diego",
+      "originAirport": "ATL",
+      "destinationAirport": "SAN",
+      "completedFlights": 404,
+      "scheduledMinutes": 268
+    },
+    {
+      "from": "Atlanta",
+      "to": "San Francisco",
+      "originAirport": "ATL",
+      "destinationAirport": "SFO",
+      "completedFlights": 582,
+      "scheduledMinutes": 295
+    },
+    {
+      "from": "Atlanta",
+      "to": "Seattle",
+      "originAirport": "ATL",
+      "destinationAirport": "SEA",
+      "completedFlights": 657,
+      "scheduledMinutes": 309
+    },
+    {
+      "from": "Atlanta",
+      "to": "St. Louis",
+      "originAirport": "ATL",
+      "destinationAirport": "STL",
+      "completedFlights": 642,
+      "scheduledMinutes": 101
+    },
+    {
+      "from": "Atlanta",
+      "to": "Tampa",
+      "originAirport": "ATL",
+      "destinationAirport": "TPA",
+      "completedFlights": 1057,
+      "scheduledMinutes": 97
+    },
+    {
+      "from": "Austin",
+      "to": "Baltimore",
+      "originAirport": "AUS",
+      "destinationAirport": "BWI",
+      "completedFlights": 191,
+      "scheduledMinutes": 201
+    },
+    {
+      "from": "Austin",
+      "to": "Boston",
+      "originAirport": "AUS",
+      "destinationAirport": "BOS",
+      "completedFlights": 353,
+      "scheduledMinutes": 254
+    },
+    {
+      "from": "Austin",
+      "to": "Charlotte",
+      "originAirport": "AUS",
+      "destinationAirport": "CLT",
+      "completedFlights": 248,
+      "scheduledMinutes": 170
+    },
+    {
+      "from": "Austin",
+      "to": "Chicago",
+      "originAirport": "AUS",
+      "destinationAirport": "ORD",
+      "completedFlights": 549,
+      "scheduledMinutes": 176
+    },
+    {
+      "from": "Austin",
+      "to": "Cincinnati",
+      "originAirport": "AUS",
+      "destinationAirport": "CVG",
+      "completedFlights": 64,
+      "scheduledMinutes": 153
+    },
+    {
+      "from": "Austin",
+      "to": "Dallas",
+      "originAirport": "AUS",
+      "destinationAirport": "DFW",
+      "completedFlights": 745,
+      "scheduledMinutes": 70
+    },
+    {
+      "from": "Austin",
+      "to": "Denver",
+      "originAirport": "AUS",
+      "destinationAirport": "DEN",
+      "completedFlights": 974,
+      "scheduledMinutes": 138
+    },
+    {
+      "from": "Austin",
+      "to": "Detroit",
+      "originAirport": "AUS",
+      "destinationAirport": "DTW",
+      "completedFlights": 237,
+      "scheduledMinutes": 180
+    },
+    {
+      "from": "Austin",
+      "to": "Houston",
+      "originAirport": "AUS",
+      "destinationAirport": "IAH",
+      "completedFlights": 377,
+      "scheduledMinutes": 67
+    },
+    {
+      "from": "Austin",
+      "to": "Kansas City",
+      "originAirport": "AUS",
+      "destinationAirport": "MCI",
+      "completedFlights": 273,
+      "scheduledMinutes": 119
+    },
+    {
+      "from": "Austin",
+      "to": "Las Vegas",
+      "originAirport": "AUS",
+      "destinationAirport": "LAS",
+      "completedFlights": 437,
+      "scheduledMinutes": 169
+    },
+    {
+      "from": "Austin",
+      "to": "Los Angeles",
+      "originAirport": "AUS",
+      "destinationAirport": "LAX",
+      "completedFlights": 622,
+      "scheduledMinutes": 189
+    },
+    {
+      "from": "Austin",
+      "to": "Miami",
+      "originAirport": "AUS",
+      "destinationAirport": "MIA",
+      "completedFlights": 399,
+      "scheduledMinutes": 179
+    },
+    {
+      "from": "Austin",
+      "to": "Minneapolis",
+      "originAirport": "AUS",
+      "destinationAirport": "MSP",
+      "completedFlights": 299,
+      "scheduledMinutes": 166
+    },
+    {
+      "from": "Austin",
+      "to": "Nashville",
+      "originAirport": "AUS",
+      "destinationAirport": "BNA",
+      "completedFlights": 488,
+      "scheduledMinutes": 135
+    },
+    {
+      "from": "Austin",
+      "to": "New York",
+      "originAirport": "AUS",
+      "destinationAirport": "JFK",
+      "completedFlights": 402,
+      "scheduledMinutes": 242
+    },
+    {
+      "from": "Austin",
+      "to": "Orlando",
+      "originAirport": "AUS",
+      "destinationAirport": "MCO",
+      "completedFlights": 374,
+      "scheduledMinutes": 167
+    },
+    {
+      "from": "Austin",
+      "to": "Philadelphia",
+      "originAirport": "AUS",
+      "destinationAirport": "PHL",
+      "completedFlights": 195,
+      "scheduledMinutes": 223
+    },
+    {
+      "from": "Austin",
+      "to": "Phoenix",
+      "originAirport": "AUS",
+      "destinationAirport": "PHX",
+      "completedFlights": 520,
+      "scheduledMinutes": 144
+    },
+    {
+      "from": "Austin",
+      "to": "Portland",
+      "originAirport": "AUS",
+      "destinationAirport": "PDX",
+      "completedFlights": 117,
+      "scheduledMinutes": 250
+    },
+    {
+      "from": "Austin",
+      "to": "Salt Lake City",
+      "originAirport": "AUS",
+      "destinationAirport": "SLC",
+      "completedFlights": 309,
+      "scheduledMinutes": 170
+    },
+    {
+      "from": "Austin",
+      "to": "San Diego",
+      "originAirport": "AUS",
+      "destinationAirport": "SAN",
+      "completedFlights": 444,
+      "scheduledMinutes": 181
+    },
+    {
+      "from": "Austin",
+      "to": "San Francisco",
+      "originAirport": "AUS",
+      "destinationAirport": "SFO",
+      "completedFlights": 468,
+      "scheduledMinutes": 223
+    },
+    {
+      "from": "Austin",
+      "to": "Seattle",
+      "originAirport": "AUS",
+      "destinationAirport": "SEA",
+      "completedFlights": 434,
+      "scheduledMinutes": 260
+    },
+    {
+      "from": "Austin",
+      "to": "St. Louis",
+      "originAirport": "AUS",
+      "destinationAirport": "STL",
+      "completedFlights": 152,
+      "scheduledMinutes": 122
+    },
+    {
+      "from": "Austin",
+      "to": "Tampa",
+      "originAirport": "AUS",
+      "destinationAirport": "TPA",
+      "completedFlights": 255,
+      "scheduledMinutes": 158
+    },
+    {
+      "from": "Baltimore",
+      "to": "Boston",
+      "originAirport": "BWI",
+      "destinationAirport": "BOS",
+      "completedFlights": 650,
+      "scheduledMinutes": 98
+    },
+    {
+      "from": "Baltimore",
+      "to": "Charlotte",
+      "originAirport": "BWI",
+      "destinationAirport": "CLT",
+      "completedFlights": 509,
+      "scheduledMinutes": 93
+    },
+    {
+      "from": "Baltimore",
+      "to": "Chicago",
+      "originAirport": "BWI",
+      "destinationAirport": "ORD",
+      "completedFlights": 465,
+      "scheduledMinutes": 135
+    },
+    {
+      "from": "Baltimore",
+      "to": "Cincinnati",
+      "originAirport": "BWI",
+      "destinationAirport": "CVG",
+      "completedFlights": 119,
+      "scheduledMinutes": 91
+    },
+    {
+      "from": "Baltimore",
+      "to": "Cleveland",
+      "originAirport": "BWI",
+      "destinationAirport": "CLE",
+      "completedFlights": 169,
+      "scheduledMinutes": 80
+    },
+    {
+      "from": "Baltimore",
+      "to": "Dallas",
+      "originAirport": "BWI",
+      "destinationAirport": "DFW",
+      "completedFlights": 216,
+      "scheduledMinutes": 198
+    },
+    {
+      "from": "Baltimore",
+      "to": "Denver",
+      "originAirport": "BWI",
+      "destinationAirport": "DEN",
+      "completedFlights": 492,
+      "scheduledMinutes": 219
+    },
+    {
+      "from": "Baltimore",
+      "to": "Detroit",
+      "originAirport": "BWI",
+      "destinationAirport": "DTW",
+      "completedFlights": 410,
+      "scheduledMinutes": 93
+    },
+    {
+      "from": "Baltimore",
+      "to": "Houston",
+      "originAirport": "BWI",
+      "destinationAirport": "IAH",
+      "completedFlights": 186,
+      "scheduledMinutes": 197
+    },
+    {
+      "from": "Baltimore",
+      "to": "Kansas City",
+      "originAirport": "BWI",
+      "destinationAirport": "MCI",
+      "completedFlights": 172,
+      "scheduledMinutes": 153
+    },
+    {
+      "from": "Baltimore",
+      "to": "Las Vegas",
+      "originAirport": "BWI",
+      "destinationAirport": "LAS",
+      "completedFlights": 227,
+      "scheduledMinutes": 288
+    },
+    {
+      "from": "Baltimore",
+      "to": "Los Angeles",
+      "originAirport": "BWI",
+      "destinationAirport": "LAX",
+      "completedFlights": 267,
+      "scheduledMinutes": 315
+    },
+    {
+      "from": "Baltimore",
+      "to": "Miami",
+      "originAirport": "BWI",
+      "destinationAirport": "MIA",
+      "completedFlights": 393,
+      "scheduledMinutes": 162
+    },
+    {
+      "from": "Baltimore",
+      "to": "Minneapolis",
+      "originAirport": "BWI",
+      "destinationAirport": "MSP",
+      "completedFlights": 289,
+      "scheduledMinutes": 153
+    },
+    {
+      "from": "Baltimore",
+      "to": "Nashville",
+      "originAirport": "BWI",
+      "destinationAirport": "BNA",
+      "completedFlights": 299,
+      "scheduledMinutes": 112
+    },
+    {
+      "from": "Baltimore",
+      "to": "Orlando",
+      "originAirport": "BWI",
+      "destinationAirport": "MCO",
+      "completedFlights": 734,
+      "scheduledMinutes": 144
+    },
+    {
+      "from": "Baltimore",
+      "to": "Phoenix",
+      "originAirport": "BWI",
+      "destinationAirport": "PHX",
+      "completedFlights": 174,
+      "scheduledMinutes": 275
+    },
+    {
+      "from": "Baltimore",
+      "to": "Portland",
+      "originAirport": "BWI",
+      "destinationAirport": "PDX",
+      "completedFlights": 123,
+      "scheduledMinutes": 316
+    },
+    {
+      "from": "Baltimore",
+      "to": "Salt Lake City",
+      "originAirport": "BWI",
+      "destinationAirport": "SLC",
+      "completedFlights": 122,
+      "scheduledMinutes": 267
+    },
+    {
+      "from": "Baltimore",
+      "to": "San Antonio",
+      "originAirport": "BWI",
+      "destinationAirport": "SAT",
+      "completedFlights": 127,
+      "scheduledMinutes": 205
+    },
+    {
+      "from": "Baltimore",
+      "to": "San Diego",
+      "originAirport": "BWI",
+      "destinationAirport": "SAN",
+      "completedFlights": 193,
+      "scheduledMinutes": 307
+    },
+    {
+      "from": "Baltimore",
+      "to": "San Francisco",
+      "originAirport": "BWI",
+      "destinationAirport": "SFO",
+      "completedFlights": 164,
+      "scheduledMinutes": 334
+    },
+    {
+      "from": "Baltimore",
+      "to": "Seattle",
+      "originAirport": "BWI",
+      "destinationAirport": "SEA",
+      "completedFlights": 184,
+      "scheduledMinutes": 324
+    },
+    {
+      "from": "Baltimore",
+      "to": "St. Louis",
+      "originAirport": "BWI",
+      "destinationAirport": "STL",
+      "completedFlights": 237,
+      "scheduledMinutes": 127
+    },
+    {
+      "from": "Baltimore",
+      "to": "Tampa",
+      "originAirport": "BWI",
+      "destinationAirport": "TPA",
+      "completedFlights": 401,
+      "scheduledMinutes": 146
+    },
+    {
+      "from": "Boston",
+      "to": "Charlotte",
+      "originAirport": "BOS",
+      "destinationAirport": "CLT",
+      "completedFlights": 677,
+      "scheduledMinutes": 147
+    },
+    {
+      "from": "Boston",
+      "to": "Chicago",
+      "originAirport": "BOS",
+      "destinationAirport": "ORD",
+      "completedFlights": 1558,
+      "scheduledMinutes": 168
+    },
+    {
+      "from": "Boston",
+      "to": "Cincinnati",
+      "originAirport": "BOS",
+      "destinationAirport": "CVG",
+      "completedFlights": 394,
+      "scheduledMinutes": 147
+    },
+    {
+      "from": "Boston",
+      "to": "Cleveland",
+      "originAirport": "BOS",
+      "destinationAirport": "CLE",
+      "completedFlights": 281,
+      "scheduledMinutes": 121
+    },
+    {
+      "from": "Boston",
+      "to": "Dallas",
+      "originAirport": "BOS",
+      "destinationAirport": "DFW",
+      "completedFlights": 660,
+      "scheduledMinutes": 244
+    },
+    {
+      "from": "Boston",
+      "to": "Denver",
+      "originAirport": "BOS",
+      "destinationAirport": "DEN",
+      "completedFlights": 744,
+      "scheduledMinutes": 258
+    },
+    {
+      "from": "Boston",
+      "to": "Detroit",
+      "originAirport": "BOS",
+      "destinationAirport": "DTW",
+      "completedFlights": 461,
+      "scheduledMinutes": 126
+    },
+    {
+      "from": "Boston",
+      "to": "Houston",
+      "originAirport": "BOS",
+      "destinationAirport": "IAH",
+      "completedFlights": 385,
+      "scheduledMinutes": 247
+    },
+    {
+      "from": "Boston",
+      "to": "Kansas City",
+      "originAirport": "BOS",
+      "destinationAirport": "MCI",
+      "completedFlights": 115,
+      "scheduledMinutes": 200
+    },
+    {
+      "from": "Boston",
+      "to": "Las Vegas",
+      "originAirport": "BOS",
+      "destinationAirport": "LAS",
+      "completedFlights": 179,
+      "scheduledMinutes": 331
+    },
+    {
+      "from": "Boston",
+      "to": "Los Angeles",
+      "originAirport": "BOS",
+      "destinationAirport": "LAX",
+      "completedFlights": 925,
+      "scheduledMinutes": 356
+    },
+    {
+      "from": "Boston",
+      "to": "Miami",
+      "originAirport": "BOS",
+      "destinationAirport": "MIA",
+      "completedFlights": 541,
+      "scheduledMinutes": 212
+    },
+    {
+      "from": "Boston",
+      "to": "Minneapolis",
+      "originAirport": "BOS",
+      "destinationAirport": "MSP",
+      "completedFlights": 362,
+      "scheduledMinutes": 183
+    },
+    {
+      "from": "Boston",
+      "to": "Nashville",
+      "originAirport": "BOS",
+      "destinationAirport": "BNA",
+      "completedFlights": 512,
+      "scheduledMinutes": 163
+    },
+    {
+      "from": "Boston",
+      "to": "New York",
+      "originAirport": "BOS",
+      "destinationAirport": "JFK",
+      "completedFlights": 789,
+      "scheduledMinutes": 87
+    },
+    {
+      "from": "Boston",
+      "to": "Orlando",
+      "originAirport": "BOS",
+      "destinationAirport": "MCO",
+      "completedFlights": 656,
+      "scheduledMinutes": 194
+    },
+    {
+      "from": "Boston",
+      "to": "Philadelphia",
+      "originAirport": "BOS",
+      "destinationAirport": "PHL",
+      "completedFlights": 871,
+      "scheduledMinutes": 96
+    },
+    {
+      "from": "Boston",
+      "to": "Phoenix",
+      "originAirport": "BOS",
+      "destinationAirport": "PHX",
+      "completedFlights": 262,
+      "scheduledMinutes": 320
+    },
+    {
+      "from": "Boston",
+      "to": "Portland",
+      "originAirport": "BOS",
+      "destinationAirport": "PDX",
+      "completedFlights": 225,
+      "scheduledMinutes": 350
+    },
+    {
+      "from": "Boston",
+      "to": "Salt Lake City",
+      "originAirport": "BOS",
+      "destinationAirport": "SLC",
+      "completedFlights": 246,
+      "scheduledMinutes": 297
+    },
+    {
+      "from": "Boston",
+      "to": "San Antonio",
+      "originAirport": "BOS",
+      "destinationAirport": "SAT",
+      "completedFlights": 62,
+      "scheduledMinutes": 265
+    },
+    {
+      "from": "Boston",
+      "to": "San Diego",
+      "originAirport": "BOS",
+      "destinationAirport": "SAN",
+      "completedFlights": 407,
+      "scheduledMinutes": 356
+    },
+    {
+      "from": "Boston",
+      "to": "San Francisco",
+      "originAirport": "BOS",
+      "destinationAirport": "SFO",
+      "completedFlights": 1011,
+      "scheduledMinutes": 370
+    },
+    {
+      "from": "Boston",
+      "to": "Seattle",
+      "originAirport": "BOS",
+      "destinationAirport": "SEA",
+      "completedFlights": 633,
+      "scheduledMinutes": 355
+    },
+    {
+      "from": "Boston",
+      "to": "St. Louis",
+      "originAirport": "BOS",
+      "destinationAirport": "STL",
+      "completedFlights": 296,
+      "scheduledMinutes": 168
+    },
+    {
+      "from": "Boston",
+      "to": "Tampa",
+      "originAirport": "BOS",
+      "destinationAirport": "TPA",
+      "completedFlights": 414,
+      "scheduledMinutes": 194
+    },
+    {
+      "from": "Charlotte",
+      "to": "Chicago",
+      "originAirport": "CLT",
+      "destinationAirport": "ORD",
+      "completedFlights": 853,
+      "scheduledMinutes": 135
+    },
+    {
+      "from": "Charlotte",
+      "to": "Cincinnati",
+      "originAirport": "CLT",
+      "destinationAirport": "CVG",
+      "completedFlights": 264,
+      "scheduledMinutes": 91
+    },
+    {
+      "from": "Charlotte",
+      "to": "Cleveland",
+      "originAirport": "CLT",
+      "destinationAirport": "CLE",
+      "completedFlights": 306,
+      "scheduledMinutes": 100
+    },
+    {
+      "from": "Charlotte",
+      "to": "Dallas",
+      "originAirport": "CLT",
+      "destinationAirport": "DFW",
+      "completedFlights": 720,
+      "scheduledMinutes": 165
+    },
+    {
+      "from": "Charlotte",
+      "to": "Denver",
+      "originAirport": "CLT",
+      "destinationAirport": "DEN",
+      "completedFlights": 459,
+      "scheduledMinutes": 210
+    },
+    {
+      "from": "Charlotte",
+      "to": "Detroit",
+      "originAirport": "CLT",
+      "destinationAirport": "DTW",
+      "completedFlights": 554,
+      "scheduledMinutes": 109
+    },
+    {
+      "from": "Charlotte",
+      "to": "Houston",
+      "originAirport": "CLT",
+      "destinationAirport": "IAH",
+      "completedFlights": 335,
+      "scheduledMinutes": 162
+    },
+    {
+      "from": "Charlotte",
+      "to": "Kansas City",
+      "originAirport": "CLT",
+      "destinationAirport": "MCI",
+      "completedFlights": 140,
+      "scheduledMinutes": 146
+    },
+    {
+      "from": "Charlotte",
+      "to": "Las Vegas",
+      "originAirport": "CLT",
+      "destinationAirport": "LAS",
+      "completedFlights": 304,
+      "scheduledMinutes": 274
+    },
+    {
+      "from": "Charlotte",
+      "to": "Los Angeles",
+      "originAirport": "CLT",
+      "destinationAirport": "LAX",
+      "completedFlights": 407,
+      "scheduledMinutes": 297
+    },
+    {
+      "from": "Charlotte",
+      "to": "Miami",
+      "originAirport": "CLT",
+      "destinationAirport": "MIA",
+      "completedFlights": 599,
+      "scheduledMinutes": 133
+    },
+    {
+      "from": "Charlotte",
+      "to": "Minneapolis",
+      "originAirport": "CLT",
+      "destinationAirport": "MSP",
+      "completedFlights": 434,
+      "scheduledMinutes": 158
+    },
+    {
+      "from": "Charlotte",
+      "to": "Nashville",
+      "originAirport": "CLT",
+      "destinationAirport": "BNA",
+      "completedFlights": 544,
+      "scheduledMinutes": 90
+    },
+    {
+      "from": "Charlotte",
+      "to": "New York",
+      "originAirport": "CLT",
+      "destinationAirport": "JFK",
+      "completedFlights": 304,
+      "scheduledMinutes": 124
+    },
+    {
+      "from": "Charlotte",
+      "to": "Orlando",
+      "originAirport": "CLT",
+      "destinationAirport": "MCO",
+      "completedFlights": 761,
+      "scheduledMinutes": 110
+    },
+    {
+      "from": "Charlotte",
+      "to": "Philadelphia",
+      "originAirport": "CLT",
+      "destinationAirport": "PHL",
+      "completedFlights": 579,
+      "scheduledMinutes": 111
+    },
+    {
+      "from": "Charlotte",
+      "to": "Phoenix",
+      "originAirport": "CLT",
+      "destinationAirport": "PHX",
+      "completedFlights": 450,
+      "scheduledMinutes": 256
+    },
+    {
+      "from": "Charlotte",
+      "to": "Portland",
+      "originAirport": "CLT",
+      "destinationAirport": "PDX",
+      "completedFlights": 71,
+      "scheduledMinutes": 313
+    },
+    {
+      "from": "Charlotte",
+      "to": "Salt Lake City",
+      "originAirport": "CLT",
+      "destinationAirport": "SLC",
+      "completedFlights": 132,
+      "scheduledMinutes": 252
+    },
+    {
+      "from": "Charlotte",
+      "to": "San Antonio",
+      "originAirport": "CLT",
+      "destinationAirport": "SAT",
+      "completedFlights": 191,
+      "scheduledMinutes": 176
+    },
+    {
+      "from": "Charlotte",
+      "to": "San Diego",
+      "originAirport": "CLT",
+      "destinationAirport": "SAN",
+      "completedFlights": 202,
+      "scheduledMinutes": 293
+    },
+    {
+      "from": "Charlotte",
+      "to": "San Francisco",
+      "originAirport": "CLT",
+      "destinationAirport": "SFO",
+      "completedFlights": 247,
+      "scheduledMinutes": 320
+    },
+    {
+      "from": "Charlotte",
+      "to": "Seattle",
+      "originAirport": "CLT",
+      "destinationAirport": "SEA",
+      "completedFlights": 264,
+      "scheduledMinutes": 324
+    },
+    {
+      "from": "Charlotte",
+      "to": "St. Louis",
+      "originAirport": "CLT",
+      "destinationAirport": "STL",
+      "completedFlights": 300,
+      "scheduledMinutes": 116
+    },
+    {
+      "from": "Charlotte",
+      "to": "Tampa",
+      "originAirport": "CLT",
+      "destinationAirport": "TPA",
+      "completedFlights": 441,
+      "scheduledMinutes": 107
+    },
+    {
+      "from": "Chicago",
+      "to": "Cincinnati",
+      "originAirport": "ORD",
+      "destinationAirport": "CVG",
+      "completedFlights": 827,
+      "scheduledMinutes": 93
+    },
+    {
+      "from": "Chicago",
+      "to": "Cleveland",
+      "originAirport": "ORD",
+      "destinationAirport": "CLE",
+      "completedFlights": 883,
+      "scheduledMinutes": 96
+    },
+    {
+      "from": "Chicago",
+      "to": "Dallas",
+      "originAirport": "ORD",
+      "destinationAirport": "DFW",
+      "completedFlights": 1370,
+      "scheduledMinutes": 160
+    },
+    {
+      "from": "Chicago",
+      "to": "Denver",
+      "originAirport": "ORD",
+      "destinationAirport": "DEN",
+      "completedFlights": 1143,
+      "scheduledMinutes": 167
+    },
+    {
+      "from": "Chicago",
+      "to": "Detroit",
+      "originAirport": "ORD",
+      "destinationAirport": "DTW",
+      "completedFlights": 1099,
+      "scheduledMinutes": 93
+    },
+    {
+      "from": "Chicago",
+      "to": "Houston",
+      "originAirport": "ORD",
+      "destinationAirport": "IAH",
+      "completedFlights": 1104,
+      "scheduledMinutes": 175
+    },
+    {
+      "from": "Chicago",
+      "to": "Kansas City",
+      "originAirport": "ORD",
+      "destinationAirport": "MCI",
+      "completedFlights": 773,
+      "scheduledMinutes": 109
+    },
+    {
+      "from": "Chicago",
+      "to": "Las Vegas",
+      "originAirport": "ORD",
+      "destinationAirport": "LAS",
+      "completedFlights": 782,
+      "scheduledMinutes": 238
+    },
+    {
+      "from": "Chicago",
+      "to": "Los Angeles",
+      "originAirport": "ORD",
+      "destinationAirport": "LAX",
+      "completedFlights": 1513,
+      "scheduledMinutes": 264
+    },
+    {
+      "from": "Chicago",
+      "to": "Miami",
+      "originAirport": "ORD",
+      "destinationAirport": "MIA",
+      "completedFlights": 688,
+      "scheduledMinutes": 206
+    },
+    {
+      "from": "Chicago",
+      "to": "Minneapolis",
+      "originAirport": "ORD",
+      "destinationAirport": "MSP",
+      "completedFlights": 1157,
+      "scheduledMinutes": 104
+    },
+    {
+      "from": "Chicago",
+      "to": "Nashville",
+      "originAirport": "ORD",
+      "destinationAirport": "BNA",
+      "completedFlights": 838,
+      "scheduledMinutes": 115
+    },
+    {
+      "from": "Chicago",
+      "to": "New York",
+      "originAirport": "ORD",
+      "destinationAirport": "JFK",
+      "completedFlights": 393,
+      "scheduledMinutes": 163
+    },
+    {
+      "from": "Chicago",
+      "to": "Orlando",
+      "originAirport": "ORD",
+      "destinationAirport": "MCO",
+      "completedFlights": 872,
+      "scheduledMinutes": 183
+    },
+    {
+      "from": "Chicago",
+      "to": "Philadelphia",
+      "originAirport": "ORD",
+      "destinationAirport": "PHL",
+      "completedFlights": 972,
+      "scheduledMinutes": 145
+    },
+    {
+      "from": "Chicago",
+      "to": "Phoenix",
+      "originAirport": "ORD",
+      "destinationAirport": "PHX",
+      "completedFlights": 914,
+      "scheduledMinutes": 226
+    },
+    {
+      "from": "Chicago",
+      "to": "Portland",
+      "originAirport": "ORD",
+      "destinationAirport": "PDX",
+      "completedFlights": 596,
+      "scheduledMinutes": 261
+    },
+    {
+      "from": "Chicago",
+      "to": "Salt Lake City",
+      "originAirport": "ORD",
+      "destinationAirport": "SLC",
+      "completedFlights": 592,
+      "scheduledMinutes": 207
+    },
+    {
+      "from": "Chicago",
+      "to": "San Antonio",
+      "originAirport": "ORD",
+      "destinationAirport": "SAT",
+      "completedFlights": 355,
+      "scheduledMinutes": 180
+    },
+    {
+      "from": "Chicago",
+      "to": "San Diego",
+      "originAirport": "ORD",
+      "destinationAirport": "SAN",
+      "completedFlights": 780,
+      "scheduledMinutes": 264
+    },
+    {
+      "from": "Chicago",
+      "to": "San Francisco",
+      "originAirport": "ORD",
+      "destinationAirport": "SFO",
+      "completedFlights": 1109,
+      "scheduledMinutes": 277
+    },
+    {
+      "from": "Chicago",
+      "to": "Seattle",
+      "originAirport": "ORD",
+      "destinationAirport": "SEA",
+      "completedFlights": 1163,
+      "scheduledMinutes": 268
+    },
+    {
+      "from": "Chicago",
+      "to": "St. Louis",
+      "originAirport": "ORD",
+      "destinationAirport": "STL",
+      "completedFlights": 539,
+      "scheduledMinutes": 90
+    },
+    {
+      "from": "Chicago",
+      "to": "Tampa",
+      "originAirport": "ORD",
+      "destinationAirport": "TPA",
+      "completedFlights": 390,
+      "scheduledMinutes": 181
+    },
+    {
+      "from": "Cincinnati",
+      "to": "Dallas",
+      "originAirport": "CVG",
+      "destinationAirport": "DFW",
+      "completedFlights": 278,
+      "scheduledMinutes": 146
+    },
+    {
+      "from": "Cincinnati",
+      "to": "Denver",
+      "originAirport": "CVG",
+      "destinationAirport": "DEN",
+      "completedFlights": 258,
+      "scheduledMinutes": 172
+    },
+    {
+      "from": "Cincinnati",
+      "to": "Houston",
+      "originAirport": "CVG",
+      "destinationAirport": "IAH",
+      "completedFlights": 105,
+      "scheduledMinutes": 156
+    },
+    {
+      "from": "Cincinnati",
+      "to": "Las Vegas",
+      "originAirport": "CVG",
+      "destinationAirport": "LAS",
+      "completedFlights": 126,
+      "scheduledMinutes": 238
+    },
+    {
+      "from": "Cincinnati",
+      "to": "Miami",
+      "originAirport": "CVG",
+      "destinationAirport": "MIA",
+      "completedFlights": 158,
+      "scheduledMinutes": 168
+    },
+    {
+      "from": "Cincinnati",
+      "to": "Minneapolis",
+      "originAirport": "CVG",
+      "destinationAirport": "MSP",
+      "completedFlights": 232,
+      "scheduledMinutes": 112
+    },
+    {
+      "from": "Cincinnati",
+      "to": "Nashville",
+      "originAirport": "CVG",
+      "destinationAirport": "BNA",
+      "completedFlights": 124,
+      "scheduledMinutes": 71
+    },
+    {
+      "from": "Cincinnati",
+      "to": "New York",
+      "originAirport": "CVG",
+      "destinationAirport": "JFK",
+      "completedFlights": 122,
+      "scheduledMinutes": 133
+    },
+    {
+      "from": "Cincinnati",
+      "to": "Orlando",
+      "originAirport": "CVG",
+      "destinationAirport": "MCO",
+      "completedFlights": 235,
+      "scheduledMinutes": 138
+    },
+    {
+      "from": "Cincinnati",
+      "to": "Philadelphia",
+      "originAirport": "CVG",
+      "destinationAirport": "PHL",
+      "completedFlights": 269,
+      "scheduledMinutes": 116
+    },
+    {
+      "from": "Cincinnati",
+      "to": "Salt Lake City",
+      "originAirport": "CVG",
+      "destinationAirport": "SLC",
+      "completedFlights": 126,
+      "scheduledMinutes": 213
+    },
+    {
+      "from": "Cincinnati",
+      "to": "Seattle",
+      "originAirport": "CVG",
+      "destinationAirport": "SEA",
+      "completedFlights": 156,
+      "scheduledMinutes": 281
+    },
+    {
+      "from": "Cincinnati",
+      "to": "Tampa",
+      "originAirport": "CVG",
+      "destinationAirport": "TPA",
+      "completedFlights": 124,
+      "scheduledMinutes": 135
+    },
+    {
+      "from": "Cleveland",
+      "to": "Dallas",
+      "originAirport": "CLE",
+      "destinationAirport": "DFW",
+      "completedFlights": 279,
+      "scheduledMinutes": 170
+    },
+    {
+      "from": "Cleveland",
+      "to": "Denver",
+      "originAirport": "CLE",
+      "destinationAirport": "DEN",
+      "completedFlights": 363,
+      "scheduledMinutes": 186
+    },
+    {
+      "from": "Cleveland",
+      "to": "Detroit",
+      "originAirport": "CLE",
+      "destinationAirport": "DTW",
+      "completedFlights": 143,
+      "scheduledMinutes": 59
+    },
+    {
+      "from": "Cleveland",
+      "to": "Houston",
+      "originAirport": "CLE",
+      "destinationAirport": "IAH",
+      "completedFlights": 140,
+      "scheduledMinutes": 179
+    },
+    {
+      "from": "Cleveland",
+      "to": "Las Vegas",
+      "originAirport": "CLE",
+      "destinationAirport": "LAS",
+      "completedFlights": 176,
+      "scheduledMinutes": 260
+    },
+    {
+      "from": "Cleveland",
+      "to": "Los Angeles",
+      "originAirport": "CLE",
+      "destinationAirport": "LAX",
+      "completedFlights": 112,
+      "scheduledMinutes": 287
+    },
+    {
+      "from": "Cleveland",
+      "to": "Miami",
+      "originAirport": "CLE",
+      "destinationAirport": "MIA",
+      "completedFlights": 147,
+      "scheduledMinutes": 181
+    },
+    {
+      "from": "Cleveland",
+      "to": "Minneapolis",
+      "originAirport": "CLE",
+      "destinationAirport": "MSP",
+      "completedFlights": 194,
+      "scheduledMinutes": 118
+    },
+    {
+      "from": "Cleveland",
+      "to": "Nashville",
+      "originAirport": "CLE",
+      "destinationAirport": "BNA",
+      "completedFlights": 184,
+      "scheduledMinutes": 91
+    },
+    {
+      "from": "Cleveland",
+      "to": "New York",
+      "originAirport": "CLE",
+      "destinationAirport": "JFK",
+      "completedFlights": 170,
+      "scheduledMinutes": 112
+    },
+    {
+      "from": "Cleveland",
+      "to": "Orlando",
+      "originAirport": "CLE",
+      "destinationAirport": "MCO",
+      "completedFlights": 291,
+      "scheduledMinutes": 155
+    },
+    {
+      "from": "Cleveland",
+      "to": "Philadelphia",
+      "originAirport": "CLE",
+      "destinationAirport": "PHL",
+      "completedFlights": 113,
+      "scheduledMinutes": 95
+    },
+    {
+      "from": "Cleveland",
+      "to": "Phoenix",
+      "originAirport": "CLE",
+      "destinationAirport": "PHX",
+      "completedFlights": 148,
+      "scheduledMinutes": 246
+    },
+    {
+      "from": "Cleveland",
+      "to": "Salt Lake City",
+      "originAirport": "CLE",
+      "destinationAirport": "SLC",
+      "completedFlights": 62,
+      "scheduledMinutes": 229
+    },
+    {
+      "from": "Cleveland",
+      "to": "San Francisco",
+      "originAirport": "CLE",
+      "destinationAirport": "SFO",
+      "completedFlights": 102,
+      "scheduledMinutes": 302
+    },
+    {
+      "from": "Cleveland",
+      "to": "Seattle",
+      "originAirport": "CLE",
+      "destinationAirport": "SEA",
+      "completedFlights": 124,
+      "scheduledMinutes": 288
+    },
+    {
+      "from": "Cleveland",
+      "to": "St. Louis",
+      "originAirport": "CLE",
+      "destinationAirport": "STL",
+      "completedFlights": 122,
+      "scheduledMinutes": 92
+    },
+    {
+      "from": "Cleveland",
+      "to": "Tampa",
+      "originAirport": "CLE",
+      "destinationAirport": "TPA",
+      "completedFlights": 168,
+      "scheduledMinutes": 156
+    },
+    {
+      "from": "Dallas",
+      "to": "Denver",
+      "originAirport": "DFW",
+      "destinationAirport": "DEN",
+      "completedFlights": 1076,
+      "scheduledMinutes": 128
+    },
+    {
+      "from": "Dallas",
+      "to": "Detroit",
+      "originAirport": "DFW",
+      "destinationAirport": "DTW",
+      "completedFlights": 611,
+      "scheduledMinutes": 170
+    },
+    {
+      "from": "Dallas",
+      "to": "Houston",
+      "originAirport": "DFW",
+      "destinationAirport": "IAH",
+      "completedFlights": 914,
+      "scheduledMinutes": 81
+    },
+    {
+      "from": "Dallas",
+      "to": "Kansas City",
+      "originAirport": "DFW",
+      "destinationAirport": "MCI",
+      "completedFlights": 450,
+      "scheduledMinutes": 105
+    },
+    {
+      "from": "Dallas",
+      "to": "Las Vegas",
+      "originAirport": "DFW",
+      "destinationAirport": "LAS",
+      "completedFlights": 802,
+      "scheduledMinutes": 172
+    },
+    {
+      "from": "Dallas",
+      "to": "Los Angeles",
+      "originAirport": "DFW",
+      "destinationAirport": "LAX",
+      "completedFlights": 1015,
+      "scheduledMinutes": 195
+    },
+    {
+      "from": "Dallas",
+      "to": "Miami",
+      "originAirport": "DFW",
+      "destinationAirport": "MIA",
+      "completedFlights": 796,
+      "scheduledMinutes": 189
+    },
+    {
+      "from": "Dallas",
+      "to": "Minneapolis",
+      "originAirport": "DFW",
+      "destinationAirport": "MSP",
+      "completedFlights": 570,
+      "scheduledMinutes": 150
+    },
+    {
+      "from": "Dallas",
+      "to": "Nashville",
+      "originAirport": "DFW",
+      "destinationAirport": "BNA",
+      "completedFlights": 607,
+      "scheduledMinutes": 124
+    },
+    {
+      "from": "Dallas",
+      "to": "New York",
+      "originAirport": "DFW",
+      "destinationAirport": "JFK",
+      "completedFlights": 363,
+      "scheduledMinutes": 231
+    },
+    {
+      "from": "Dallas",
+      "to": "Orlando",
+      "originAirport": "DFW",
+      "destinationAirport": "MCO",
+      "completedFlights": 711,
+      "scheduledMinutes": 174
+    },
+    {
+      "from": "Dallas",
+      "to": "Philadelphia",
+      "originAirport": "DFW",
+      "destinationAirport": "PHL",
+      "completedFlights": 576,
+      "scheduledMinutes": 212
+    },
+    {
+      "from": "Dallas",
+      "to": "Phoenix",
+      "originAirport": "DFW",
+      "destinationAirport": "PHX",
+      "completedFlights": 782,
+      "scheduledMinutes": 152
+    },
+    {
+      "from": "Dallas",
+      "to": "Portland",
+      "originAirport": "DFW",
+      "destinationAirport": "PDX",
+      "completedFlights": 376,
+      "scheduledMinutes": 235
+    },
+    {
+      "from": "Dallas",
+      "to": "Salt Lake City",
+      "originAirport": "DFW",
+      "destinationAirport": "SLC",
+      "completedFlights": 646,
+      "scheduledMinutes": 164
+    },
+    {
+      "from": "Dallas",
+      "to": "San Antonio",
+      "originAirport": "DFW",
+      "destinationAirport": "SAT",
+      "completedFlights": 762,
+      "scheduledMinutes": 74
+    },
+    {
+      "from": "Dallas",
+      "to": "San Diego",
+      "originAirport": "DFW",
+      "destinationAirport": "SAN",
+      "completedFlights": 727,
+      "scheduledMinutes": 190
+    },
+    {
+      "from": "Dallas",
+      "to": "San Francisco",
+      "originAirport": "DFW",
+      "destinationAirport": "SFO",
+      "completedFlights": 836,
+      "scheduledMinutes": 225
+    },
+    {
+      "from": "Dallas",
+      "to": "Seattle",
+      "originAirport": "DFW",
+      "destinationAirport": "SEA",
+      "completedFlights": 947,
+      "scheduledMinutes": 251
+    },
+    {
+      "from": "Dallas",
+      "to": "St. Louis",
+      "originAirport": "DFW",
+      "destinationAirport": "STL",
+      "completedFlights": 426,
+      "scheduledMinutes": 114
+    },
+    {
+      "from": "Dallas",
+      "to": "Tampa",
+      "originAirport": "DFW",
+      "destinationAirport": "TPA",
+      "completedFlights": 505,
+      "scheduledMinutes": 161
+    },
+    {
+      "from": "Denver",
+      "to": "Detroit",
+      "originAirport": "DEN",
+      "destinationAirport": "DTW",
+      "completedFlights": 582,
+      "scheduledMinutes": 180
+    },
+    {
+      "from": "Denver",
+      "to": "Houston",
+      "originAirport": "DEN",
+      "destinationAirport": "IAH",
+      "completedFlights": 827,
+      "scheduledMinutes": 157
+    },
+    {
+      "from": "Denver",
+      "to": "Kansas City",
+      "originAirport": "DEN",
+      "destinationAirport": "MCI",
+      "completedFlights": 818,
+      "scheduledMinutes": 109
+    },
+    {
+      "from": "Denver",
+      "to": "Las Vegas",
+      "originAirport": "DEN",
+      "destinationAirport": "LAS",
+      "completedFlights": 1113,
+      "scheduledMinutes": 120
+    },
+    {
+      "from": "Denver",
+      "to": "Los Angeles",
+      "originAirport": "DEN",
+      "destinationAirport": "LAX",
+      "completedFlights": 1307,
+      "scheduledMinutes": 150
+    },
+    {
+      "from": "Denver",
+      "to": "Miami",
+      "originAirport": "DEN",
+      "destinationAirport": "MIA",
+      "completedFlights": 313,
+      "scheduledMinutes": 255
+    },
+    {
+      "from": "Denver",
+      "to": "Minneapolis",
+      "originAirport": "DEN",
+      "destinationAirport": "MSP",
+      "completedFlights": 1057,
+      "scheduledMinutes": 126
+    },
+    {
+      "from": "Denver",
+      "to": "Nashville",
+      "originAirport": "DEN",
+      "destinationAirport": "BNA",
+      "completedFlights": 620,
+      "scheduledMinutes": 165
+    },
+    {
+      "from": "Denver",
+      "to": "New York",
+      "originAirport": "DEN",
+      "destinationAirport": "JFK",
+      "completedFlights": 231,
+      "scheduledMinutes": 260
+    },
+    {
+      "from": "Denver",
+      "to": "Orlando",
+      "originAirport": "DEN",
+      "destinationAirport": "MCO",
+      "completedFlights": 679,
+      "scheduledMinutes": 235
+    },
+    {
+      "from": "Denver",
+      "to": "Philadelphia",
+      "originAirport": "DEN",
+      "destinationAirport": "PHL",
+      "completedFlights": 650,
+      "scheduledMinutes": 234
+    },
+    {
+      "from": "Denver",
+      "to": "Phoenix",
+      "originAirport": "DEN",
+      "destinationAirport": "PHX",
+      "completedFlights": 1375,
+      "scheduledMinutes": 115
+    },
+    {
+      "from": "Denver",
+      "to": "Portland",
+      "originAirport": "DEN",
+      "destinationAirport": "PDX",
+      "completedFlights": 856,
+      "scheduledMinutes": 159
+    },
+    {
+      "from": "Denver",
+      "to": "Salt Lake City",
+      "originAirport": "DEN",
+      "destinationAirport": "SLC",
+      "completedFlights": 1292,
+      "scheduledMinutes": 96
+    },
+    {
+      "from": "Denver",
+      "to": "San Antonio",
+      "originAirport": "DEN",
+      "destinationAirport": "SAT",
+      "completedFlights": 517,
+      "scheduledMinutes": 137
+    },
+    {
+      "from": "Denver",
+      "to": "San Diego",
+      "originAirport": "DEN",
+      "destinationAirport": "SAN",
+      "completedFlights": 1067,
+      "scheduledMinutes": 148
+    },
+    {
+      "from": "Denver",
+      "to": "San Francisco",
+      "originAirport": "DEN",
+      "destinationAirport": "SFO",
+      "completedFlights": 959,
+      "scheduledMinutes": 163
+    },
+    {
+      "from": "Denver",
+      "to": "Seattle",
+      "originAirport": "DEN",
+      "destinationAirport": "SEA",
+      "completedFlights": 1305,
+      "scheduledMinutes": 174
+    },
+    {
+      "from": "Denver",
+      "to": "St. Louis",
+      "originAirport": "DEN",
+      "destinationAirport": "STL",
+      "completedFlights": 669,
+      "scheduledMinutes": 134
+    },
+    {
+      "from": "Denver",
+      "to": "Tampa",
+      "originAirport": "DEN",
+      "destinationAirport": "TPA",
+      "completedFlights": 477,
+      "scheduledMinutes": 224
+    },
+    {
+      "from": "Detroit",
+      "to": "Houston",
+      "originAirport": "DTW",
+      "destinationAirport": "IAH",
+      "completedFlights": 358,
+      "scheduledMinutes": 176
+    },
+    {
+      "from": "Detroit",
+      "to": "Kansas City",
+      "originAirport": "DTW",
+      "destinationAirport": "MCI",
+      "completedFlights": 236,
+      "scheduledMinutes": 119
+    },
+    {
+      "from": "Detroit",
+      "to": "Las Vegas",
+      "originAirport": "DTW",
+      "destinationAirport": "LAS",
+      "completedFlights": 399,
+      "scheduledMinutes": 247
+    },
+    {
+      "from": "Detroit",
+      "to": "Los Angeles",
+      "originAirport": "DTW",
+      "destinationAirport": "LAX",
+      "completedFlights": 304,
+      "scheduledMinutes": 275
+    },
+    {
+      "from": "Detroit",
+      "to": "Miami",
+      "originAirport": "DTW",
+      "destinationAirport": "MIA",
+      "completedFlights": 224,
+      "scheduledMinutes": 194
+    },
+    {
+      "from": "Detroit",
+      "to": "Minneapolis",
+      "originAirport": "DTW",
+      "destinationAirport": "MSP",
+      "completedFlights": 312,
+      "scheduledMinutes": 108
+    },
+    {
+      "from": "Detroit",
+      "to": "Nashville",
+      "originAirport": "DTW",
+      "destinationAirport": "BNA",
+      "completedFlights": 404,
+      "scheduledMinutes": 98
+    },
+    {
+      "from": "Detroit",
+      "to": "New York",
+      "originAirport": "DTW",
+      "destinationAirport": "JFK",
+      "completedFlights": 216,
+      "scheduledMinutes": 128
+    },
+    {
+      "from": "Detroit",
+      "to": "Orlando",
+      "originAirport": "DTW",
+      "destinationAirport": "MCO",
+      "completedFlights": 492,
+      "scheduledMinutes": 166
+    },
+    {
+      "from": "Detroit",
+      "to": "Philadelphia",
+      "originAirport": "DTW",
+      "destinationAirport": "PHL",
+      "completedFlights": 585,
+      "scheduledMinutes": 106
+    },
+    {
+      "from": "Detroit",
+      "to": "Phoenix",
+      "originAirport": "DTW",
+      "destinationAirport": "PHX",
+      "completedFlights": 322,
+      "scheduledMinutes": 240
+    },
+    {
+      "from": "Detroit",
+      "to": "Portland",
+      "originAirport": "DTW",
+      "destinationAirport": "PDX",
+      "completedFlights": 96,
+      "scheduledMinutes": 269
+    },
+    {
+      "from": "Detroit",
+      "to": "Salt Lake City",
+      "originAirport": "DTW",
+      "destinationAirport": "SLC",
+      "completedFlights": 251,
+      "scheduledMinutes": 220
+    },
+    {
+      "from": "Detroit",
+      "to": "San Antonio",
+      "originAirport": "DTW",
+      "destinationAirport": "SAT",
+      "completedFlights": 174,
+      "scheduledMinutes": 187
+    },
+    {
+      "from": "Detroit",
+      "to": "San Diego",
+      "originAirport": "DTW",
+      "destinationAirport": "SAN",
+      "completedFlights": 220,
+      "scheduledMinutes": 278
+    },
+    {
+      "from": "Detroit",
+      "to": "San Francisco",
+      "originAirport": "DTW",
+      "destinationAirport": "SFO",
+      "completedFlights": 312,
+      "scheduledMinutes": 287
+    },
+    {
+      "from": "Detroit",
+      "to": "Seattle",
+      "originAirport": "DTW",
+      "destinationAirport": "SEA",
+      "completedFlights": 433,
+      "scheduledMinutes": 277
+    },
+    {
+      "from": "Detroit",
+      "to": "St. Louis",
+      "originAirport": "DTW",
+      "destinationAirport": "STL",
+      "completedFlights": 358,
+      "scheduledMinutes": 95
+    },
+    {
+      "from": "Detroit",
+      "to": "Tampa",
+      "originAirport": "DTW",
+      "destinationAirport": "TPA",
+      "completedFlights": 261,
+      "scheduledMinutes": 161
+    },
+    {
+      "from": "Houston",
+      "to": "Kansas City",
+      "originAirport": "IAH",
+      "destinationAirport": "MCI",
+      "completedFlights": 141,
+      "scheduledMinutes": 129
+    },
+    {
+      "from": "Houston",
+      "to": "Las Vegas",
+      "originAirport": "IAH",
+      "destinationAirport": "LAS",
+      "completedFlights": 525,
+      "scheduledMinutes": 196
+    },
+    {
+      "from": "Houston",
+      "to": "Los Angeles",
+      "originAirport": "IAH",
+      "destinationAirport": "LAX",
+      "completedFlights": 736,
+      "scheduledMinutes": 210
+    },
+    {
+      "from": "Houston",
+      "to": "Miami",
+      "originAirport": "IAH",
+      "destinationAirport": "MIA",
+      "completedFlights": 497,
+      "scheduledMinutes": 168
+    },
+    {
+      "from": "Houston",
+      "to": "Minneapolis",
+      "originAirport": "IAH",
+      "destinationAirport": "MSP",
+      "completedFlights": 361,
+      "scheduledMinutes": 172
+    },
+    {
+      "from": "Houston",
+      "to": "Nashville",
+      "originAirport": "IAH",
+      "destinationAirport": "BNA",
+      "completedFlights": 271,
+      "scheduledMinutes": 132
+    },
+    {
+      "from": "Houston",
+      "to": "New York",
+      "originAirport": "IAH",
+      "destinationAirport": "JFK",
+      "completedFlights": 107,
+      "scheduledMinutes": 224
+    },
+    {
+      "from": "Houston",
+      "to": "Orlando",
+      "originAirport": "IAH",
+      "destinationAirport": "MCO",
+      "completedFlights": 473,
+      "scheduledMinutes": 156
+    },
+    {
+      "from": "Houston",
+      "to": "Philadelphia",
+      "originAirport": "IAH",
+      "destinationAirport": "PHL",
+      "completedFlights": 340,
+      "scheduledMinutes": 214
+    },
+    {
+      "from": "Houston",
+      "to": "Phoenix",
+      "originAirport": "IAH",
+      "destinationAirport": "PHX",
+      "completedFlights": 430,
+      "scheduledMinutes": 168
+    },
+    {
+      "from": "Houston",
+      "to": "Portland",
+      "originAirport": "IAH",
+      "destinationAirport": "PDX",
+      "completedFlights": 183,
+      "scheduledMinutes": 265
+    },
+    {
+      "from": "Houston",
+      "to": "Salt Lake City",
+      "originAirport": "IAH",
+      "destinationAirport": "SLC",
+      "completedFlights": 284,
+      "scheduledMinutes": 192
+    },
+    {
+      "from": "Houston",
+      "to": "San Antonio",
+      "originAirport": "IAH",
+      "destinationAirport": "SAT",
+      "completedFlights": 350,
+      "scheduledMinutes": 69
+    },
+    {
+      "from": "Houston",
+      "to": "San Diego",
+      "originAirport": "IAH",
+      "destinationAirport": "SAN",
+      "completedFlights": 261,
+      "scheduledMinutes": 202
+    },
+    {
+      "from": "Houston",
+      "to": "San Francisco",
+      "originAirport": "IAH",
+      "destinationAirport": "SFO",
+      "completedFlights": 558,
+      "scheduledMinutes": 245
+    },
+    {
+      "from": "Houston",
+      "to": "Seattle",
+      "originAirport": "IAH",
+      "destinationAirport": "SEA",
+      "completedFlights": 419,
+      "scheduledMinutes": 276
+    },
+    {
+      "from": "Houston",
+      "to": "Tampa",
+      "originAirport": "IAH",
+      "destinationAirport": "TPA",
+      "completedFlights": 180,
+      "scheduledMinutes": 145
+    },
+    {
+      "from": "Kansas City",
+      "to": "Las Vegas",
+      "originAirport": "MCI",
+      "destinationAirport": "LAS",
+      "completedFlights": 366,
+      "scheduledMinutes": 174
+    },
+    {
+      "from": "Kansas City",
+      "to": "Los Angeles",
+      "originAirport": "MCI",
+      "destinationAirport": "LAX",
+      "completedFlights": 275,
+      "scheduledMinutes": 203
+    },
+    {
+      "from": "Kansas City",
+      "to": "Miami",
+      "originAirport": "MCI",
+      "destinationAirport": "MIA",
+      "completedFlights": 126,
+      "scheduledMinutes": 199
+    },
+    {
+      "from": "Kansas City",
+      "to": "Minneapolis",
+      "originAirport": "MCI",
+      "destinationAirport": "MSP",
+      "completedFlights": 244,
+      "scheduledMinutes": 91
+    },
+    {
+      "from": "Kansas City",
+      "to": "Nashville",
+      "originAirport": "MCI",
+      "destinationAirport": "BNA",
+      "completedFlights": 232,
+      "scheduledMinutes": 98
+    },
+    {
+      "from": "Kansas City",
+      "to": "Orlando",
+      "originAirport": "MCI",
+      "destinationAirport": "MCO",
+      "completedFlights": 235,
+      "scheduledMinutes": 171
+    },
+    {
+      "from": "Kansas City",
+      "to": "Philadelphia",
+      "originAirport": "MCI",
+      "destinationAirport": "PHL",
+      "completedFlights": 178,
+      "scheduledMinutes": 177
+    },
+    {
+      "from": "Kansas City",
+      "to": "Phoenix",
+      "originAirport": "MCI",
+      "destinationAirport": "PHX",
+      "completedFlights": 357,
+      "scheduledMinutes": 162
+    },
+    {
+      "from": "Kansas City",
+      "to": "Portland",
+      "originAirport": "MCI",
+      "destinationAirport": "PDX",
+      "completedFlights": 82,
+      "scheduledMinutes": 218
+    },
+    {
+      "from": "Kansas City",
+      "to": "Salt Lake City",
+      "originAirport": "MCI",
+      "destinationAirport": "SLC",
+      "completedFlights": 174,
+      "scheduledMinutes": 151
+    },
+    {
+      "from": "Kansas City",
+      "to": "San Diego",
+      "originAirport": "MCI",
+      "destinationAirport": "SAN",
+      "completedFlights": 64,
+      "scheduledMinutes": 193
+    },
+    {
+      "from": "Kansas City",
+      "to": "San Francisco",
+      "originAirport": "MCI",
+      "destinationAirport": "SFO",
+      "completedFlights": 61,
+      "scheduledMinutes": 229
+    },
+    {
+      "from": "Kansas City",
+      "to": "Seattle",
+      "originAirport": "MCI",
+      "destinationAirport": "SEA",
+      "completedFlights": 232,
+      "scheduledMinutes": 225
+    },
+    {
+      "from": "Kansas City",
+      "to": "St. Louis",
+      "originAirport": "MCI",
+      "destinationAirport": "STL",
+      "completedFlights": 178,
+      "scheduledMinutes": 64
+    },
+    {
+      "from": "Kansas City",
+      "to": "Tampa",
+      "originAirport": "MCI",
+      "destinationAirport": "TPA",
+      "completedFlights": 67,
+      "scheduledMinutes": 160
+    },
+    {
+      "from": "Las Vegas",
+      "to": "Los Angeles",
+      "originAirport": "LAS",
+      "destinationAirport": "LAX",
+      "completedFlights": 1389,
+      "scheduledMinutes": 77
+    },
+    {
+      "from": "Las Vegas",
+      "to": "Miami",
+      "originAirport": "LAS",
+      "destinationAirport": "MIA",
+      "completedFlights": 228,
+      "scheduledMinutes": 306
+    },
+    {
+      "from": "Las Vegas",
+      "to": "Minneapolis",
+      "originAirport": "LAS",
+      "destinationAirport": "MSP",
+      "completedFlights": 298,
+      "scheduledMinutes": 194
+    },
+    {
+      "from": "Las Vegas",
+      "to": "Nashville",
+      "originAirport": "LAS",
+      "destinationAirport": "BNA",
+      "completedFlights": 355,
+      "scheduledMinutes": 228
+    },
+    {
+      "from": "Las Vegas",
+      "to": "New York",
+      "originAirport": "LAS",
+      "destinationAirport": "JFK",
+      "completedFlights": 620,
+      "scheduledMinutes": 325
+    },
+    {
+      "from": "Las Vegas",
+      "to": "Orlando",
+      "originAirport": "LAS",
+      "destinationAirport": "MCO",
+      "completedFlights": 334,
+      "scheduledMinutes": 289
+    },
+    {
+      "from": "Las Vegas",
+      "to": "Philadelphia",
+      "originAirport": "LAS",
+      "destinationAirport": "PHL",
+      "completedFlights": 284,
+      "scheduledMinutes": 309
+    },
+    {
+      "from": "Las Vegas",
+      "to": "Phoenix",
+      "originAirport": "LAS",
+      "destinationAirport": "PHX",
+      "completedFlights": 915,
+      "scheduledMinutes": 75
+    },
+    {
+      "from": "Las Vegas",
+      "to": "Portland",
+      "originAirport": "LAS",
+      "destinationAirport": "PDX",
+      "completedFlights": 500,
+      "scheduledMinutes": 140
+    },
+    {
+      "from": "Las Vegas",
+      "to": "Salt Lake City",
+      "originAirport": "LAS",
+      "destinationAirport": "SLC",
+      "completedFlights": 547,
+      "scheduledMinutes": 87
+    },
+    {
+      "from": "Las Vegas",
+      "to": "San Antonio",
+      "originAirport": "LAS",
+      "destinationAirport": "SAT",
+      "completedFlights": 337,
+      "scheduledMinutes": 165
+    },
+    {
+      "from": "Las Vegas",
+      "to": "San Diego",
+      "originAirport": "LAS",
+      "destinationAirport": "SAN",
+      "completedFlights": 786,
+      "scheduledMinutes": 80
+    },
+    {
+      "from": "Las Vegas",
+      "to": "San Francisco",
+      "originAirport": "LAS",
+      "destinationAirport": "SFO",
+      "completedFlights": 1075,
+      "scheduledMinutes": 104
+    },
+    {
+      "from": "Las Vegas",
+      "to": "Seattle",
+      "originAirport": "LAS",
+      "destinationAirport": "SEA",
+      "completedFlights": 964,
+      "scheduledMinutes": 162
+    },
+    {
+      "from": "Las Vegas",
+      "to": "St. Louis",
+      "originAirport": "LAS",
+      "destinationAirport": "STL",
+      "completedFlights": 327,
+      "scheduledMinutes": 201
+    },
+    {
+      "from": "Las Vegas",
+      "to": "Tampa",
+      "originAirport": "LAS",
+      "destinationAirport": "TPA",
+      "completedFlights": 139,
+      "scheduledMinutes": 274
+    },
+    {
+      "from": "Los Angeles",
+      "to": "Miami",
+      "originAirport": "LAX",
+      "destinationAirport": "MIA",
+      "completedFlights": 506,
+      "scheduledMinutes": 324
+    },
+    {
+      "from": "Los Angeles",
+      "to": "Minneapolis",
+      "originAirport": "LAX",
+      "destinationAirport": "MSP",
+      "completedFlights": 363,
+      "scheduledMinutes": 224
+    },
+    {
+      "from": "Los Angeles",
+      "to": "Nashville",
+      "originAirport": "LAX",
+      "destinationAirport": "BNA",
+      "completedFlights": 381,
+      "scheduledMinutes": 251
+    },
+    {
+      "from": "Los Angeles",
+      "to": "New York",
+      "originAirport": "LAX",
+      "destinationAirport": "JFK",
+      "completedFlights": 1749,
+      "scheduledMinutes": 349
+    },
+    {
+      "from": "Los Angeles",
+      "to": "Orlando",
+      "originAirport": "LAX",
+      "destinationAirport": "MCO",
+      "completedFlights": 494,
+      "scheduledMinutes": 310
+    },
+    {
+      "from": "Los Angeles",
+      "to": "Philadelphia",
+      "originAirport": "LAX",
+      "destinationAirport": "PHL",
+      "completedFlights": 442,
+      "scheduledMinutes": 333
+    },
+    {
+      "from": "Los Angeles",
+      "to": "Phoenix",
+      "originAirport": "LAX",
+      "destinationAirport": "PHX",
+      "completedFlights": 1200,
+      "scheduledMinutes": 92
+    },
+    {
+      "from": "Los Angeles",
+      "to": "Portland",
+      "originAirport": "LAX",
+      "destinationAirport": "PDX",
+      "completedFlights": 704,
+      "scheduledMinutes": 145
+    },
+    {
+      "from": "Los Angeles",
+      "to": "Salt Lake City",
+      "originAirport": "LAX",
+      "destinationAirport": "SLC",
+      "completedFlights": 612,
+      "scheduledMinutes": 117
+    },
+    {
+      "from": "Los Angeles",
+      "to": "San Antonio",
+      "originAirport": "LAX",
+      "destinationAirport": "SAT",
+      "completedFlights": 300,
+      "scheduledMinutes": 184
+    },
+    {
+      "from": "Los Angeles",
+      "to": "San Diego",
+      "originAirport": "LAX",
+      "destinationAirport": "SAN",
+      "completedFlights": 432,
+      "scheduledMinutes": 65
+    },
+    {
+      "from": "Los Angeles",
+      "to": "San Francisco",
+      "originAirport": "LAX",
+      "destinationAirport": "SFO",
+      "completedFlights": 2255,
+      "scheduledMinutes": 91
+    },
+    {
+      "from": "Los Angeles",
+      "to": "Seattle",
+      "originAirport": "LAX",
+      "destinationAirport": "SEA",
+      "completedFlights": 1432,
+      "scheduledMinutes": 169
+    },
+    {
+      "from": "Los Angeles",
+      "to": "St. Louis",
+      "originAirport": "LAX",
+      "destinationAirport": "STL",
+      "completedFlights": 185,
+      "scheduledMinutes": 228
+    },
+    {
+      "from": "Los Angeles",
+      "to": "Tampa",
+      "originAirport": "LAX",
+      "destinationAirport": "TPA",
+      "completedFlights": 117,
+      "scheduledMinutes": 293
+    },
+    {
+      "from": "Miami",
+      "to": "Minneapolis",
+      "originAirport": "MIA",
+      "destinationAirport": "MSP",
+      "completedFlights": 208,
+      "scheduledMinutes": 228
+    },
+    {
+      "from": "Miami",
+      "to": "Nashville",
+      "originAirport": "MIA",
+      "destinationAirport": "BNA",
+      "completedFlights": 370,
+      "scheduledMinutes": 144
+    },
+    {
+      "from": "Miami",
+      "to": "New York",
+      "originAirport": "MIA",
+      "destinationAirport": "JFK",
+      "completedFlights": 710,
+      "scheduledMinutes": 197
+    },
+    {
+      "from": "Miami",
+      "to": "Orlando",
+      "originAirport": "MIA",
+      "destinationAirport": "MCO",
+      "completedFlights": 568,
+      "scheduledMinutes": 76
+    },
+    {
+      "from": "Miami",
+      "to": "Philadelphia",
+      "originAirport": "MIA",
+      "destinationAirport": "PHL",
+      "completedFlights": 578,
+      "scheduledMinutes": 181
+    },
+    {
+      "from": "Miami",
+      "to": "Phoenix",
+      "originAirport": "MIA",
+      "destinationAirport": "PHX",
+      "completedFlights": 240,
+      "scheduledMinutes": 280
+    },
+    {
+      "from": "Miami",
+      "to": "Salt Lake City",
+      "originAirport": "MIA",
+      "destinationAirport": "SLC",
+      "completedFlights": 116,
+      "scheduledMinutes": 294
+    },
+    {
+      "from": "Miami",
+      "to": "San Antonio",
+      "originAirport": "MIA",
+      "destinationAirport": "SAT",
+      "completedFlights": 96,
+      "scheduledMinutes": 181
+    },
+    {
+      "from": "Miami",
+      "to": "San Diego",
+      "originAirport": "MIA",
+      "destinationAirport": "SAN",
+      "completedFlights": 124,
+      "scheduledMinutes": 317
+    },
+    {
+      "from": "Miami",
+      "to": "San Francisco",
+      "originAirport": "MIA",
+      "destinationAirport": "SFO",
+      "completedFlights": 270,
+      "scheduledMinutes": 356
+    },
+    {
+      "from": "Miami",
+      "to": "Seattle",
+      "originAirport": "MIA",
+      "destinationAirport": "SEA",
+      "completedFlights": 227,
+      "scheduledMinutes": 380
+    },
+    {
+      "from": "Miami",
+      "to": "St. Louis",
+      "originAirport": "MIA",
+      "destinationAirport": "STL",
+      "completedFlights": 206,
+      "scheduledMinutes": 172
+    },
+    {
+      "from": "Miami",
+      "to": "Tampa",
+      "originAirport": "MIA",
+      "destinationAirport": "TPA",
+      "completedFlights": 420,
+      "scheduledMinutes": 71
+    },
+    {
+      "from": "Minneapolis",
+      "to": "Nashville",
+      "originAirport": "MSP",
+      "destinationAirport": "BNA",
+      "completedFlights": 357,
+      "scheduledMinutes": 126
+    },
+    {
+      "from": "Minneapolis",
+      "to": "New York",
+      "originAirport": "MSP",
+      "destinationAirport": "JFK",
+      "completedFlights": 122,
+      "scheduledMinutes": 185
+    },
+    {
+      "from": "Minneapolis",
+      "to": "Orlando",
+      "originAirport": "MSP",
+      "destinationAirport": "MCO",
+      "completedFlights": 264,
+      "scheduledMinutes": 204
+    },
+    {
+      "from": "Minneapolis",
+      "to": "Philadelphia",
+      "originAirport": "MSP",
+      "destinationAirport": "PHL",
+      "completedFlights": 391,
+      "scheduledMinutes": 165
+    },
+    {
+      "from": "Minneapolis",
+      "to": "Phoenix",
+      "originAirport": "MSP",
+      "destinationAirport": "PHX",
+      "completedFlights": 411,
+      "scheduledMinutes": 191
+    },
+    {
+      "from": "Minneapolis",
+      "to": "Portland",
+      "originAirport": "MSP",
+      "destinationAirport": "PDX",
+      "completedFlights": 345,
+      "scheduledMinutes": 210
+    },
+    {
+      "from": "Minneapolis",
+      "to": "Salt Lake City",
+      "originAirport": "MSP",
+      "destinationAirport": "SLC",
+      "completedFlights": 303,
+      "scheduledMinutes": 161
+    },
+    {
+      "from": "Minneapolis",
+      "to": "San Antonio",
+      "originAirport": "MSP",
+      "destinationAirport": "SAT",
+      "completedFlights": 174,
+      "scheduledMinutes": 172
+    },
+    {
+      "from": "Minneapolis",
+      "to": "San Diego",
+      "originAirport": "MSP",
+      "destinationAirport": "SAN",
+      "completedFlights": 218,
+      "scheduledMinutes": 226
+    },
+    {
+      "from": "Minneapolis",
+      "to": "San Francisco",
+      "originAirport": "MSP",
+      "destinationAirport": "SFO",
+      "completedFlights": 387,
+      "scheduledMinutes": 235
+    },
+    {
+      "from": "Minneapolis",
+      "to": "Seattle",
+      "originAirport": "MSP",
+      "destinationAirport": "SEA",
+      "completedFlights": 566,
+      "scheduledMinutes": 218
+    },
+    {
+      "from": "Minneapolis",
+      "to": "St. Louis",
+      "originAirport": "MSP",
+      "destinationAirport": "STL",
+      "completedFlights": 365,
+      "scheduledMinutes": 93
+    },
+    {
+      "from": "Minneapolis",
+      "to": "Tampa",
+      "originAirport": "MSP",
+      "destinationAirport": "TPA",
+      "completedFlights": 163,
+      "scheduledMinutes": 197
+    },
+    {
+      "from": "Nashville",
+      "to": "New York",
+      "originAirport": "BNA",
+      "destinationAirport": "JFK",
+      "completedFlights": 169,
+      "scheduledMinutes": 152
+    },
+    {
+      "from": "Nashville",
+      "to": "Orlando",
+      "originAirport": "BNA",
+      "destinationAirport": "MCO",
+      "completedFlights": 585,
+      "scheduledMinutes": 121
+    },
+    {
+      "from": "Nashville",
+      "to": "Philadelphia",
+      "originAirport": "BNA",
+      "destinationAirport": "PHL",
+      "completedFlights": 479,
+      "scheduledMinutes": 132
+    },
+    {
+      "from": "Nashville",
+      "to": "Phoenix",
+      "originAirport": "BNA",
+      "destinationAirport": "PHX",
+      "completedFlights": 348,
+      "scheduledMinutes": 210
+    },
+    {
+      "from": "Nashville",
+      "to": "Portland",
+      "originAirport": "BNA",
+      "destinationAirport": "PDX",
+      "completedFlights": 62,
+      "scheduledMinutes": 280
+    },
+    {
+      "from": "Nashville",
+      "to": "Salt Lake City",
+      "originAirport": "BNA",
+      "destinationAirport": "SLC",
+      "completedFlights": 220,
+      "scheduledMinutes": 208
+    },
+    {
+      "from": "Nashville",
+      "to": "San Antonio",
+      "originAirport": "BNA",
+      "destinationAirport": "SAT",
+      "completedFlights": 151,
+      "scheduledMinutes": 136
+    },
+    {
+      "from": "Nashville",
+      "to": "San Diego",
+      "originAirport": "BNA",
+      "destinationAirport": "SAN",
+      "completedFlights": 196,
+      "scheduledMinutes": 246
+    },
+    {
+      "from": "Nashville",
+      "to": "San Francisco",
+      "originAirport": "BNA",
+      "destinationAirport": "SFO",
+      "completedFlights": 209,
+      "scheduledMinutes": 279
+    },
+    {
+      "from": "Nashville",
+      "to": "Seattle",
+      "originAirport": "BNA",
+      "destinationAirport": "SEA",
+      "completedFlights": 360,
+      "scheduledMinutes": 282
+    },
+    {
+      "from": "Nashville",
+      "to": "St. Louis",
+      "originAirport": "BNA",
+      "destinationAirport": "STL",
+      "completedFlights": 209,
+      "scheduledMinutes": 71
+    },
+    {
+      "from": "Nashville",
+      "to": "Tampa",
+      "originAirport": "BNA",
+      "destinationAirport": "TPA",
+      "completedFlights": 415,
+      "scheduledMinutes": 113
+    },
+    {
+      "from": "New York",
+      "to": "Orlando",
+      "originAirport": "JFK",
+      "destinationAirport": "MCO",
+      "completedFlights": 728,
+      "scheduledMinutes": 177
+    },
+    {
+      "from": "New York",
+      "to": "Phoenix",
+      "originAirport": "JFK",
+      "destinationAirport": "PHX",
+      "completedFlights": 514,
+      "scheduledMinutes": 313
+    },
+    {
+      "from": "New York",
+      "to": "Portland",
+      "originAirport": "JFK",
+      "destinationAirport": "PDX",
+      "completedFlights": 200,
+      "scheduledMinutes": 351
+    },
+    {
+      "from": "New York",
+      "to": "Salt Lake City",
+      "originAirport": "JFK",
+      "destinationAirport": "SLC",
+      "completedFlights": 298,
+      "scheduledMinutes": 298
+    },
+    {
+      "from": "New York",
+      "to": "San Antonio",
+      "originAirport": "JFK",
+      "destinationAirport": "SAT",
+      "completedFlights": 60,
+      "scheduledMinutes": 250
+    },
+    {
+      "from": "New York",
+      "to": "San Diego",
+      "originAirport": "JFK",
+      "destinationAirport": "SAN",
+      "completedFlights": 406,
+      "scheduledMinutes": 353
+    },
+    {
+      "from": "New York",
+      "to": "San Francisco",
+      "originAirport": "JFK",
+      "destinationAirport": "SFO",
+      "completedFlights": 1192,
+      "scheduledMinutes": 365
+    },
+    {
+      "from": "New York",
+      "to": "Seattle",
+      "originAirport": "JFK",
+      "destinationAirport": "SEA",
+      "completedFlights": 537,
+      "scheduledMinutes": 355
+    },
+    {
+      "from": "New York",
+      "to": "Tampa",
+      "originAirport": "JFK",
+      "destinationAirport": "TPA",
+      "completedFlights": 404,
+      "scheduledMinutes": 179
+    },
+    {
+      "from": "Orlando",
+      "to": "Philadelphia",
+      "originAirport": "MCO",
+      "destinationAirport": "PHL",
+      "completedFlights": 896,
+      "scheduledMinutes": 161
+    },
+    {
+      "from": "Orlando",
+      "to": "Phoenix",
+      "originAirport": "MCO",
+      "destinationAirport": "PHX",
+      "completedFlights": 216,
+      "scheduledMinutes": 266
+    },
+    {
+      "from": "Orlando",
+      "to": "Portland",
+      "originAirport": "MCO",
+      "destinationAirport": "PDX",
+      "completedFlights": 62,
+      "scheduledMinutes": 356
+    },
+    {
+      "from": "Orlando",
+      "to": "Salt Lake City",
+      "originAirport": "MCO",
+      "destinationAirport": "SLC",
+      "completedFlights": 189,
+      "scheduledMinutes": 278
+    },
+    {
+      "from": "Orlando",
+      "to": "San Antonio",
+      "originAirport": "MCO",
+      "destinationAirport": "SAT",
+      "completedFlights": 139,
+      "scheduledMinutes": 168
+    },
+    {
+      "from": "Orlando",
+      "to": "San Diego",
+      "originAirport": "MCO",
+      "destinationAirport": "SAN",
+      "completedFlights": 132,
+      "scheduledMinutes": 308
+    },
+    {
+      "from": "Orlando",
+      "to": "San Francisco",
+      "originAirport": "MCO",
+      "destinationAirport": "SFO",
+      "completedFlights": 160,
+      "scheduledMinutes": 339
+    },
+    {
+      "from": "Orlando",
+      "to": "Seattle",
+      "originAirport": "MCO",
+      "destinationAirport": "SEA",
+      "completedFlights": 303,
+      "scheduledMinutes": 355
+    },
+    {
+      "from": "Orlando",
+      "to": "St. Louis",
+      "originAirport": "MCO",
+      "destinationAirport": "STL",
+      "completedFlights": 388,
+      "scheduledMinutes": 149
+    },
+    {
+      "from": "Philadelphia",
+      "to": "Phoenix",
+      "originAirport": "PHL",
+      "destinationAirport": "PHX",
+      "completedFlights": 320,
+      "scheduledMinutes": 294
+    },
+    {
+      "from": "Philadelphia",
+      "to": "Portland",
+      "originAirport": "PHL",
+      "destinationAirport": "PDX",
+      "completedFlights": 132,
+      "scheduledMinutes": 333
+    },
+    {
+      "from": "Philadelphia",
+      "to": "Salt Lake City",
+      "originAirport": "PHL",
+      "destinationAirport": "SLC",
+      "completedFlights": 144,
+      "scheduledMinutes": 280
+    },
+    {
+      "from": "Philadelphia",
+      "to": "San Antonio",
+      "originAirport": "PHL",
+      "destinationAirport": "SAT",
+      "completedFlights": 80,
+      "scheduledMinutes": 233
+    },
+    {
+      "from": "Philadelphia",
+      "to": "San Diego",
+      "originAirport": "PHL",
+      "destinationAirport": "SAN",
+      "completedFlights": 184,
+      "scheduledMinutes": 333
+    },
+    {
+      "from": "Philadelphia",
+      "to": "San Francisco",
+      "originAirport": "PHL",
+      "destinationAirport": "SFO",
+      "completedFlights": 410,
+      "scheduledMinutes": 351
+    },
+    {
+      "from": "Philadelphia",
+      "to": "Seattle",
+      "originAirport": "PHL",
+      "destinationAirport": "SEA",
+      "completedFlights": 353,
+      "scheduledMinutes": 341
+    },
+    {
+      "from": "Philadelphia",
+      "to": "St. Louis",
+      "originAirport": "PHL",
+      "destinationAirport": "STL",
+      "completedFlights": 278,
+      "scheduledMinutes": 142
+    },
+    {
+      "from": "Philadelphia",
+      "to": "Tampa",
+      "originAirport": "PHL",
+      "destinationAirport": "TPA",
+      "completedFlights": 400,
+      "scheduledMinutes": 165
+    },
+    {
+      "from": "Phoenix",
+      "to": "Portland",
+      "originAirport": "PHX",
+      "destinationAirport": "PDX",
+      "completedFlights": 579,
+      "scheduledMinutes": 162
+    },
+    {
+      "from": "Phoenix",
+      "to": "Salt Lake City",
+      "originAirport": "PHX",
+      "destinationAirport": "SLC",
+      "completedFlights": 866,
+      "scheduledMinutes": 101
+    },
+    {
+      "from": "Phoenix",
+      "to": "San Antonio",
+      "originAirport": "PHX",
+      "destinationAirport": "SAT",
+      "completedFlights": 337,
+      "scheduledMinutes": 138
+    },
+    {
+      "from": "Phoenix",
+      "to": "San Diego",
+      "originAirport": "PHX",
+      "destinationAirport": "SAN",
+      "completedFlights": 1032,
+      "scheduledMinutes": 82
+    },
+    {
+      "from": "Phoenix",
+      "to": "San Francisco",
+      "originAirport": "PHX",
+      "destinationAirport": "SFO",
+      "completedFlights": 754,
+      "scheduledMinutes": 127
+    },
+    {
+      "from": "Phoenix",
+      "to": "Seattle",
+      "originAirport": "PHX",
+      "destinationAirport": "SEA",
+      "completedFlights": 1115,
+      "scheduledMinutes": 184
+    },
+    {
+      "from": "Phoenix",
+      "to": "St. Louis",
+      "originAirport": "PHX",
+      "destinationAirport": "STL",
+      "completedFlights": 330,
+      "scheduledMinutes": 185
+    },
+    {
+      "from": "Phoenix",
+      "to": "Tampa",
+      "originAirport": "PHX",
+      "destinationAirport": "TPA",
+      "completedFlights": 130,
+      "scheduledMinutes": 256
+    },
+    {
+      "from": "Portland",
+      "to": "Salt Lake City",
+      "originAirport": "PDX",
+      "destinationAirport": "SLC",
+      "completedFlights": 460,
+      "scheduledMinutes": 117
+    },
+    {
+      "from": "Portland",
+      "to": "San Diego",
+      "originAirport": "PDX",
+      "destinationAirport": "SAN",
+      "completedFlights": 417,
+      "scheduledMinutes": 154
+    },
+    {
+      "from": "Portland",
+      "to": "San Francisco",
+      "originAirport": "PDX",
+      "destinationAirport": "SFO",
+      "completedFlights": 650,
+      "scheduledMinutes": 113
+    },
+    {
+      "from": "Portland",
+      "to": "Seattle",
+      "originAirport": "PDX",
+      "destinationAirport": "SEA",
+      "completedFlights": 853,
+      "scheduledMinutes": 68
+    },
+    {
+      "from": "Portland",
+      "to": "St. Louis",
+      "originAirport": "PDX",
+      "destinationAirport": "STL",
+      "completedFlights": 82,
+      "scheduledMinutes": 240
+    },
+    {
+      "from": "Salt Lake City",
+      "to": "San Antonio",
+      "originAirport": "SLC",
+      "destinationAirport": "SAT",
+      "completedFlights": 174,
+      "scheduledMinutes": 170
+    },
+    {
+      "from": "Salt Lake City",
+      "to": "San Diego",
+      "originAirport": "SLC",
+      "destinationAirport": "SAN",
+      "completedFlights": 589,
+      "scheduledMinutes": 122
+    },
+    {
+      "from": "Salt Lake City",
+      "to": "San Francisco",
+      "originAirport": "SLC",
+      "destinationAirport": "SFO",
+      "completedFlights": 545,
+      "scheduledMinutes": 122
+    },
+    {
+      "from": "Salt Lake City",
+      "to": "Seattle",
+      "originAirport": "SLC",
+      "destinationAirport": "SEA",
+      "completedFlights": 762,
+      "scheduledMinutes": 131
+    },
+    {
+      "from": "Salt Lake City",
+      "to": "St. Louis",
+      "originAirport": "SLC",
+      "destinationAirport": "STL",
+      "completedFlights": 175,
+      "scheduledMinutes": 180
+    },
+    {
+      "from": "Salt Lake City",
+      "to": "Tampa",
+      "originAirport": "SLC",
+      "destinationAirport": "TPA",
+      "completedFlights": 62,
+      "scheduledMinutes": 260
+    },
+    {
+      "from": "San Antonio",
+      "to": "San Diego",
+      "originAirport": "SAT",
+      "destinationAirport": "SAN",
+      "completedFlights": 116,
+      "scheduledMinutes": 168
+    },
+    {
+      "from": "San Antonio",
+      "to": "San Francisco",
+      "originAirport": "SAT",
+      "destinationAirport": "SFO",
+      "completedFlights": 62,
+      "scheduledMinutes": 224
+    },
+    {
+      "from": "San Antonio",
+      "to": "Seattle",
+      "originAirport": "SAT",
+      "destinationAirport": "SEA",
+      "completedFlights": 97,
+      "scheduledMinutes": 256
+    },
+    {
+      "from": "San Antonio",
+      "to": "St. Louis",
+      "originAirport": "SAT",
+      "destinationAirport": "STL",
+      "completedFlights": 112,
+      "scheduledMinutes": 128
+    },
+    {
+      "from": "San Diego",
+      "to": "San Francisco",
+      "originAirport": "SAN",
+      "destinationAirport": "SFO",
+      "completedFlights": 1381,
+      "scheduledMinutes": 102
+    },
+    {
+      "from": "San Diego",
+      "to": "Seattle",
+      "originAirport": "SAN",
+      "destinationAirport": "SEA",
+      "completedFlights": 948,
+      "scheduledMinutes": 178
+    },
+    {
+      "from": "San Diego",
+      "to": "St. Louis",
+      "originAirport": "SAN",
+      "destinationAirport": "STL",
+      "completedFlights": 66,
+      "scheduledMinutes": 221
+    },
+    {
+      "from": "San Diego",
+      "to": "Tampa",
+      "originAirport": "SAN",
+      "destinationAirport": "TPA",
+      "completedFlights": 100,
+      "scheduledMinutes": 293
+    },
+    {
+      "from": "San Francisco",
+      "to": "Seattle",
+      "originAirport": "SFO",
+      "destinationAirport": "SEA",
+      "completedFlights": 1278,
+      "scheduledMinutes": 137
+    },
+    {
+      "from": "San Francisco",
+      "to": "St. Louis",
+      "originAirport": "SFO",
+      "destinationAirport": "STL",
+      "completedFlights": 112,
+      "scheduledMinutes": 245
+    },
+    {
+      "from": "San Francisco",
+      "to": "Tampa",
+      "originAirport": "SFO",
+      "destinationAirport": "TPA",
+      "completedFlights": 76,
+      "scheduledMinutes": 328
+    },
+    {
+      "from": "Seattle",
+      "to": "St. Louis",
+      "originAirport": "SEA",
+      "destinationAirport": "STL",
+      "completedFlights": 222,
+      "scheduledMinutes": 250
+    },
+    {
+      "from": "Seattle",
+      "to": "Tampa",
+      "originAirport": "SEA",
+      "destinationAirport": "TPA",
+      "completedFlights": 176,
+      "scheduledMinutes": 346
+    },
+    {
+      "from": "St. Louis",
+      "to": "Tampa",
+      "originAirport": "STL",
+      "destinationAirport": "TPA",
+      "completedFlights": 200,
+      "scheduledMinutes": 140
+    }
+  ]
+}

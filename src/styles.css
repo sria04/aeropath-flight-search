@@ -111,6 +111,7 @@ button { cursor: pointer; }
 .state-card { min-height: 175px; padding: 30px; display: grid; place-items: center; text-align: center; background: #fff; border: 1px solid #e1e6ec; border-radius: 16px; color: #728091; }
 .error-card { color: #b64b3d; }
 .results-note { display: flex; align-items: center; gap: 7px; margin: 21px 0 0; color: #8b97a4; font-size: 11px; }
+.results-note a { color: #3158ce; text-decoration: underline; text-underline-offset: 2px; }
 
 .site-footer { background: #fff; border-top: 1px solid #e6e9ee; }
 .footer-inner { min-height: 103px; display: flex; align-items: center; justify-content: space-between; gap: 18px; color: #8b96a4; font-size: 11px; }

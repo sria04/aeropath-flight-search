@@ -52,8 +52,8 @@ function RouteCard({ route, index, sort }) {
       <div className="stop-row"><Icon name="route" size={16}/>{stops === 0 ? 'Direct route' : `Via ${route.cities.slice(1, -1).join(' · ')}`}</div>
     </div>
     <div className="card-stats">
-      <div><span><Icon name="clock" size={15}/> TOTAL TIME</span><strong>{formatTime(route.totalTime)}</strong></div>
-      <div><span>TOTAL COST</span><strong className="price">${route.totalCost}</strong></div>
+      <div><span><Icon name="clock" size={15}/> EST. TRIP TIME</span><strong>{formatTime(route.totalTime)}</strong></div>
+      <div><span>EST. COST</span><strong className="price">${route.totalCost}</strong></div>
     </div>
   </article>;
 }
@@ -62,10 +62,10 @@ function App() {
   // Form choices, ranking, results, and feedback shown on the page.
   const [cities, setCities] = useState([]);
   const [from, setFrom] = useState('Boston');
-  const [to, setTo] = useState('New York');
+  const [to, setTo] = useState('San Francisco');
   const [sort, setSort] = useState('cost');
   // The displayed results use the last submitted cities, not unsent form changes.
-  const [activeSearch, setActiveSearch] = useState({ from: 'Boston', to: 'New York' });
+  const [activeSearch, setActiveSearch] = useState({ from: 'Boston', to: 'San Francisco' });
   const [routes, setRoutes] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState('');
@@ -167,7 +167,7 @@ function App() {
           <div className="sort-control" aria-label="Rank routes by"><span>RANK BY</span><div className="sort-buttons"><button type="button" aria-pressed={sort === 'cost'} className={sort === 'cost' ? 'active' : ''} onClick={() => setSort('cost')}>Lowest cost</button><button type="button" aria-pressed={sort === 'time'} className={sort === 'time' ? 'active' : ''} onClick={() => setSort('time')}>Shortest time</button></div></div>
         </div>
         <div className="route-list">{loading ? <div className="state-card">Finding the best routes…</div> : error ? <div className="state-card error-card">{error}</div> : routes.length ? routes.map((route, index) => <RouteCard key={`${sort}-${route.cities.join('-')}`} route={route} index={index} sort={sort}/>) : <div className="state-card">No route found for these cities.</div>}</div>
-        <p className="results-note"><Icon name="info" size={15}/> Sample flight network and values for demonstration. No live fares or schedules.</p>
+        <p className="results-note"><Icon name="info" size={15}/><span>Sample nonstop links and scheduled times come from <a href="https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2026_8.zip" target="_blank" rel="noreferrer">historical BTS records</a>. Costs use <a href="https://data.transportation.gov/Aviation/Consumer-Airfare-Report-Table-6-Contiguous-State-C/yj5y-b2ir" target="_blank" rel="noreferrer">DOT market fare averages</a> where available. Totals are estimates, not live offers.</span></p>
       </section>
     </main>
 

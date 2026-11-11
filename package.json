@@ -7,7 +7,9 @@
     "dev": "node scripts/dev.mjs",
     "build": "vite build",
     "preview": "vite preview",
-    "check:backend": "node scripts/check-backend.mjs"
+    "check:backend": "node scripts/check-backend.mjs",
+    "generate:data": "node scripts/generate-flight-data.mjs",
+    "check:data": "node scripts/generate-flight-data.mjs --check"
   },
   "dependencies": {
     "react": "^19.2.0",
